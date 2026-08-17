@@ -1,6 +1,6 @@
 **Game name:**
 
-AFL Live 2004 (Australia) (v2.01)
+AFL Live 2004 (Australia) (v.2.01)
 
 **Game ID:**
 
@@ -12,9 +12,8 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: D8308418D3FD916C8CF1CF0C86A353B8C4B53498
-
-TRACK 01 MD5: B7F25B00CAB37F2B4CECA6B5F8C59AB7
+CHD DATA SHA1: d8308418d3fd916c8cf1cf0c86a353b8c4b53498
+ISO MD5: b7f25b00cab37f2b4ceca6b5f8c59ab7
 
 **Description:**
 
