@@ -1,6 +1,6 @@
 **Game name:**
 
-Backyard Basketball (USA)
+Backyard NBA Basketball (USA)
 
 **Game ID:**
 
@@ -12,9 +12,8 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: 149C2FF9FBE3DAEE18DC4CCAA2DC3666B1B668D5
-
-TRACK 01 MD5: DB743E3ACCE65CB81E23BBECF1DC51F8
+CHD DATA SHA1: 149c2ff9fbe3daee18dc4ccaa2dc3666b1b668d5
+ISO MD5: a679413e93aa9f0fd111bf9d54a29687
 
 **Description:**
 
