@@ -1,6 +1,6 @@
 **Game name:**
 
-Ape Escape - Pumped & Primed (USA)
+Ape Escape - Pumped \& Primed (USA)
 
 **Game ID:**
 
@@ -12,9 +12,8 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: DF8253C19919F6DE551163E4E17B383DB3D18D4E
-
-TRACK 01 MD5: 461EAC0BAAACCF2D80767AAD27D97ED0
+CHD DATA SHA1: df8253c19919f6de551163e4e17b383db3d18d4e
+ISO MD5: 461eac0baaaccf2d80767aad27d97ed0
 
 **Description:**
 

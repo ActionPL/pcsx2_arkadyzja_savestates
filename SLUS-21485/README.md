@@ -1,6 +1,6 @@
 **Game name:**
 
-Backyard Sports - Basketball 2007 (USA)
+Backyard Sports - NBA Basketball 2007 (USA)
 
 **Game ID:**
 
@@ -12,9 +12,8 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: FD16B2CCAE4B1373E7EB8F0353FAE7944A2DACCE
-
-TRACK 01 MD5: 016E8B27521A01F510FCB2520A7C63CA
+CHD DATA SHA1: fd16b2ccae4b1373e7eb8f0353fae7944a2dacce
+ISO MD5: 016e8b27521a01f510fcb2520a7c63ca
 
 **Description:**
 
