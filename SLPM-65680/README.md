@@ -1,6 +1,6 @@
 **Game name:**
 
-Name: Tennis no Oujisama - Saikyou Team o Kessei seyo! (Japan) (v2.01)
+Tennis no Oujisama - Saikyou Team o Kessei seyo! (Japan) (v2.01)
 
 **Game ID:**
 
