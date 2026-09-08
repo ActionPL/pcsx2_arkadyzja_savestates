@@ -1,6 +1,6 @@
 **Game name:**
 
-Cel Damage Overdrive (Europe) (En,Fr,De,Es,It)
+Cel Damage Overdrive (Europe) (EnFrDeEsIt)
 
 **Game ID:**
 
@@ -12,9 +12,8 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: 715E46AD50C1D4A179E7FEF1C07381F26C21AE83
-
-TRACK 01 MD5: 70BDC8C6B23733E8C2838AC3A169C28F
+CHD DATA SHA1: 715e46ad50c1d4a179e7fef1c07381f26c21ae83
+ISO MD5: 95616b52992ff181b4df877529ed2590
 
 **Description:**
 
