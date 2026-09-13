@@ -4,7 +4,7 @@ Dragon Ball Z Budokai Tenkaichi 4 Version 0.12.2 (Beta XII Rev 3) (USA)
 
 **Game ID:**
 
-DBZ!-BT412
+DBZB-T4123
 
 **Game format:**
 
