@@ -1,6 +1,6 @@
 **Game name:**
 
-DreamWorks Madagascar - Escape 2 Africa (USA)
+DreamWorks Madagascar - Escape 2 Africa (USA) (En,Fr)
 
 **Game ID:**
 
