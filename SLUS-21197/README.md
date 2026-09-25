@@ -1,0 +1,20 @@
+**Game name:**
+
+DreamWorks Shrek - SuperSlam (USA)
+
+**Game ID:**
+
+SLUS-21197
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DE61C867EBDC856DD3A6FF18455AE55DC7C71820
+
+TRACK 01 MD5: 8DB3AD413351777BEBBD8F3C73C37768
+
+**Description:**
+
