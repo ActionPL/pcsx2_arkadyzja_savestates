@@ -1,6 +1,6 @@
 **Game name:**
 
-Driving Emotion Type-S (USA) (En,Fr,De,Es,It)
+Driving Emotion Type-S (USA, Canada) (En,Fr,De,Es,It)
 
 **Game ID:**
 
