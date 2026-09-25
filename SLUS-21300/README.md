@@ -1,0 +1,20 @@
+**Game name:**
+
+DreamWorks Over the Hedge (USA)
+
+**Game ID:**
+
+SLUS-21300
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B695C437BDDAFF40C23CE7EBEC0D87C124C23C96
+
+TRACK 01 MD5: 94D0C26B13D5BE640B8E436C071CC552
+
+**Description:**
+
