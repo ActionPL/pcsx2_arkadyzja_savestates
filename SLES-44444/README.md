@@ -1,6 +1,6 @@
 **Game name:**
 
-Dragon Ball Z - Infinite World (Europe) (En,Fr,De,Es,It) [Budokai 4 MOD v0.5.8]
+Dragon Ball Z - Infinite World (USA) [Budokai 4 MOD v0.5.8]
 
 **Game ID:**
 
