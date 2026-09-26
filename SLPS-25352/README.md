@@ -1,0 +1,20 @@
+**Game name:**
+
+Espgaluda (Japan)
+
+**Game ID:**
+
+SLPS-25352
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E42619480D2537AC4D34DA13BDCB2A190376F6AE
+
+TRACK 01 MD5: CC55ECFAF17F9ADE0CB8D3ADAB50887A
+
+**Description:**
+
