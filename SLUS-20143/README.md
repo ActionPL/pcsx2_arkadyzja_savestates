@@ -1,0 +1,20 @@
+**Game name:**
+
+ESPN NBA 2Night (USA)
+
+**Game ID:**
+
+SLUS-20143
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F4F6B2FA78822D0D2EEA14DED2CBD5B017EFDF0D
+
+TRACK 01 MD5: 613C4641A371013793A1FB8CF6CA5CFA
+
+**Description:**
+
