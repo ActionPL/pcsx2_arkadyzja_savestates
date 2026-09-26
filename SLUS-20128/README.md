@@ -1,0 +1,20 @@
+**Game name:**
+
+ESPN MLS ExtraTime (USA)
+
+**Game ID:**
+
+SLUS-20128
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 34A9BE073F9EF346FC4FD2C9B1CF78118BF0CE92
+
+TRACK 01 MD5: D10E3F390E392F3DB05766C7809A0A63
+
+**Description:**
+
