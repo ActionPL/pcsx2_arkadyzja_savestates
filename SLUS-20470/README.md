@@ -1,0 +1,20 @@
+**Game name:**
+
+EverQuest - Online Adventures (USA)
+
+**Game ID:**
+
+SLUS-20470
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4117B9B7C23F5C7E437189E8C0EFEA06ECA457A2
+
+TRACK 01 MD5: AFBB378547DF610A0755FE5310BB2992
+
+**Description:**
+
