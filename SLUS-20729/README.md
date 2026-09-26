@@ -1,0 +1,20 @@
+**Game name:**
+
+ESPN College Hoops (USA) (v1.03)
+
+**Game ID:**
+
+SLUS-20729
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2C134346320AE8F911CA8D046A489BBCFCD42EA8
+
+TRACK 01 MD5: 0C338C3949EE028DB0128A928537AE5B
+
+**Description:**
+
