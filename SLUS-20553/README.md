@@ -1,0 +1,20 @@
+**Game name:**
+
+Fisherman's Challenge (USA)
+
+**Game ID:**
+
+SLUS-20553
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C4C9C2B52001E2A008C7B716DEB6FBDB0EB28CEA
+
+TRACK 01 MD5: 0DF0066D7CB28458462C9DBAA59CA24E
+
+**Description:**
+
