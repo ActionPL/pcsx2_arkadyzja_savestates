@@ -1,0 +1,20 @@
+**Game name:**
+
+Italian Job, The (USA)
+
+**Game ID:**
+
+SLUS-20784
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3E1D3FFCE27DA419EA3FF9F7035E3615480A1C7E
+
+TRACK 01 MD5: 971D6D4AD4511F6A9B4024FB0C10CC53
+
+**Description:**
+
