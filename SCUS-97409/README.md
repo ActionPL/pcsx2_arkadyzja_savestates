@@ -1,0 +1,20 @@
+**Game name:**
+
+Gretzky NHL 2005 (USA)
+
+**Game ID:**
+
+SCUS-97409
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 752B4270C44F49521F632226BC02B3547D29A417
+
+TRACK 01 MD5: 8404D322314083E2B885777C34B1BB94
+
+**Description:**
+
