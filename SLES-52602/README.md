@@ -1,0 +1,20 @@
+**Game name:**
+
+GT Racers (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-52602
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D8B1328720442B43AB0548FD0E8DC19A96D5A4DF
+
+TRACK 01 MD5: 7B75ED0DE4AB9BC3BB412A96C7048171
+
+**Description:**
+
