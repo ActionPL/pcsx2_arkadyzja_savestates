@@ -1,0 +1,20 @@
+**Game name:**
+
+Hot Wheels - World Race (USA)
+
+**Game ID:**
+
+SLUS-20737
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A1B1F43863BAEB9CA2FEAF99E40879FAD49285FC
+
+TRACK 01 MD5: A9BB8D85A54BA3E3D97C7C86FED0ADA1
+
+**Description:**
+
