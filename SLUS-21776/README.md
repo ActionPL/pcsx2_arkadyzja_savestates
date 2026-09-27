@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA Soccer 09 (USA)
+
+**Game ID:**
+
+SLUS-21776
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 53590E51C51EC37377C0D63D52E42F00D42F5CDC
+
+TRACK 01 MD5: E77BFB95B28FC6B9C163221807D30CE0
+
+**Description:**
+
