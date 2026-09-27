@@ -1,0 +1,20 @@
+**Game name:**
+
+IGPX - Immortal Grand Prix (USA)
+
+**Game ID:**
+
+SLUS-21430
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1C3C798A6DCC6AF89510880748C67EC558BD152E
+
+TRACK 01 MD5: 4C49DFAD80A2F465B899732DB01779FE
+
+**Description:**
+
