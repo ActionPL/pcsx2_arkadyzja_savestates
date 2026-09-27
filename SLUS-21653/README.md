@@ -1,0 +1,20 @@
+**Game name:**
+
+Heavenly Guardian (USA)
+
+**Game ID:**
+
+SLUS-21653
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B75AE8D5B8165D6C298B13656FD789DFFC4DBEE8
+
+TRACK 01 MD5: 340579DA314E08E860C78443ED3046AB
+
+**Description:**
+
