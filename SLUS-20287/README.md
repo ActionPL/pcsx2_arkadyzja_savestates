@@ -1,0 +1,20 @@
+**Game name:**
+
+Guilty Gear X (USA)
+
+**Game ID:**
+
+SLUS-20287
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 83B94855F6383D5E153BC8E2215BDB5882C26B73
+
+TRACK 01 MD5: 911CF5E792B7839423928AF5DC8BF8E7
+
+**Description:**
+
