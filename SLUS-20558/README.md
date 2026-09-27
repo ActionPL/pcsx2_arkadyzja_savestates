@@ -1,0 +1,20 @@
+**Game name:**
+
+Ferrari F355 Challenge (USA)
+
+**Game ID:**
+
+SLUS-20558
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 395794C3ECD32982C1DE0C326B156CB855831E96
+
+TRACK 01 MD5: 3A5BF67B47A105C30F5ADCB36FAE3D21
+
+**Description:**
+
