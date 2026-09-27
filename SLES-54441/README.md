@@ -1,0 +1,20 @@
+**Game name:**
+
+Hawk Kawasaki Racing (Europe)
+
+**Game ID:**
+
+SLES-54441
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 109D4A96736C853D2B8A74C6C3B26D3A1C911587
+
+TRACK 01 MD5: 8634E6C7225CEBAD4DEA9CBA3FF626F1
+
+**Description:**
+
