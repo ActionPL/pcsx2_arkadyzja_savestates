@@ -1,0 +1,20 @@
+**Game name:**
+
+Gladius (USA)
+
+**Game ID:**
+
+SLUS-20490
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B1B9BCA3FB19F5F74AA41BB79D5C6AA4C1DF4B6B
+
+TRACK 01 MD5: AA7F67458AF5D10DECFFF4BD9AA6652E
+
+**Description:**
+
