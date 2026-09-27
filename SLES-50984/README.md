@@ -1,0 +1,20 @@
+**Game name:**
+
+Gumball 3000 (Europe)
+
+**Game ID:**
+
+SLES-50984
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7BADED96B39782DE5BA665ABAF68A1F8DFDF309D
+
+TRACK 01 MD5: EF184410407E8FEE9359FDCBDC64F35B
+
+**Description:**
+
