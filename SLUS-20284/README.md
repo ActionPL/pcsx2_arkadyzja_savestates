@@ -1,0 +1,20 @@
+**Game name:**
+
+Freaky Flyers (USA)
+
+**Game ID:**
+
+SLUS-20284
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1916ED6C264B7DB98850A01C8F3096E46CFEAB1B
+
+TRACK 01 MD5: 423567AA893A4CFDC7A7BBEED970A3B7
+
+**Description:**
+
