@@ -1,0 +1,20 @@
+**Game name:**
+
+G1 Jockey (Europe) (En,Fr,De)
+
+**Game ID:**
+
+SLES-50584
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 79DE74CF8F643082A4FC89F8E7F4F11DB2D12A3B
+
+TRACK 01 MD5: 022FD497A0AE570BE225B677F2452918
+
+**Description:**
+
