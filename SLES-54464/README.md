@@ -1,0 +1,20 @@
+**Game name:**
+
+Global Defence Force (Europe)
+
+**Game ID:**
+
+SLES-54464
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 98394165F5040631C38A12C3CDD3D107E449B479
+
+TRACK 01 MD5: 03CA862748D4C6B8FBE6AD41D5831124
+
+**Description:**
+
