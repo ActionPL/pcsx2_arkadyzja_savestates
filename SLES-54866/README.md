@@ -1,0 +1,20 @@
+**Game name:**
+
+Games Galaxy 2 (Europe)
+
+**Game ID:**
+
+SLES-54866
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C819276AB5731C6CCD836A555AD36A4305F36453
+
+TRACK 01 MD5: 8F29D0B4A537E57D460EB55108C09C11
+
+**Description:**
+
