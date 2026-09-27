@@ -1,0 +1,20 @@
+**Game name:**
+
+Heroes of the Pacific (USA)
+
+**Game ID:**
+
+SLUS-20943
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D6CE2DDDF7166EF8D0FF52BB64EF8B709F7F3295
+
+TRACK 01 MD5: C414F1A7F09416CCC0A7F40DC36DF303
+
+**Description:**
+
