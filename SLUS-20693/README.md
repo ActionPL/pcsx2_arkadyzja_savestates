@@ -1,0 +1,20 @@
+**Game name:**
+
+F1 Career Challenge (USA) (En,Fr,De)
+
+**Game ID:**
+
+SLUS-20693
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FB8252873ABA6307730D339096E814F1510F443A
+
+TRACK 01 MD5: 811B0517DA91387A5D778661B8C45DDC
+
+**Description:**
+
