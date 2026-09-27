@@ -1,0 +1,20 @@
+**Game name:**
+
+Graffiti Kingdom (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21136
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D6AA8E6C60DCFC32EA094ED5A0D9C28460AEF270
+
+TRACK 01 MD5: A758A8E5E499B4245484EC48EF159FC3
+
+**Description:**
+
