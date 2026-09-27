@@ -1,0 +1,20 @@
+**Game name:**
+
+Guy Game, The (USA)
+
+**Game ID:**
+
+SLUS-21074
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 665327711A67F208E42130C4C555319D6EDC2B7A
+
+TRACK 01 MD5: B8B2EFDD1E2C082880867326DBCFA1C8
+
+**Description:**
+
