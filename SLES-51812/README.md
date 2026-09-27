@@ -1,0 +1,20 @@
+**Game name:**
+
+Homerun (Europe)
+
+**Game ID:**
+
+SLES-51812
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7A81DF3EAD4E2746EE9A707FFD4EF8F0CFFA53A0
+
+TRACK 01 MD5: 745A4AC7185EC8D528E20F58D3C32701
+
+**Description:**
+
