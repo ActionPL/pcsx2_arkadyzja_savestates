@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA 13 (Europe) (En,Es,Pt,Pl)
+
+**Game ID:**
+
+SLES-55665
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A6DD9B530E50AFB468752B4D83BA74780AE3700E
+
+TRACK 01 MD5: 7A4BDA5FB0D17ABF224FAA238EE7904B
+
+**Description:**
+
