@@ -1,0 +1,20 @@
+**Game name:**
+
+Guilty Gear X Plus (Japan)
+
+**Game ID:**
+
+SLPS-20137
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E0C61A14FC2083B18B31F39B6F895EB65120AA3A
+
+TRACK 01 MD5: 2FC76434FC49D4CCF983B71333B310A7
+
+**Description:**
+
