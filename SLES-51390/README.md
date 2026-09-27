@@ -1,0 +1,20 @@
+**Game name:**
+
+FightBox (UK)
+
+**Game ID:**
+
+SLES-51390
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FDD612760FFBD923F1506740FD0B2405A3A3E895
+
+TRACK 01 MD5: DE01B47B840F97ED6E41E18420C6F8CF
+
+**Description:**
+
