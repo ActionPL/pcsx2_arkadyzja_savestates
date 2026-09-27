@@ -1,0 +1,20 @@
+**Game name:**
+
+Full Spectrum Warrior (USA)
+
+**Game ID:**
+
+SLUS-21145
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4BB6FC159188F72FF72BDF8BBD5B60AB49175AC0
+
+TRACK 01 MD5: 09D251D3BC4CF80B6509F87BAB753EAA
+
+**Description:**
+
