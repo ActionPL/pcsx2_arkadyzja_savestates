@@ -1,0 +1,20 @@
+**Game name:**
+
+Golden Age of Racing (Europe)
+
+**Game ID:**
+
+SLES-53174
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D46A619EAF4DA088DCED7763DF2CF0BA5856D769
+
+TRACK 01 MD5: AB9ABA215BF791F6FFFDD84C6DEAE43D
+
+**Description:**
+
