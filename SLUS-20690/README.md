@@ -1,0 +1,20 @@
+**Game name:**
+
+G1 Jockey 3 (USA)
+
+**Game ID:**
+
+SLUS-20690
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FA14E9AD4BDE90AE3FD44BABBF0997D71BEF177D
+
+TRACK 01 MD5: 4D89708D3A21A36391673461598CF1B0
+
+**Description:**
+
