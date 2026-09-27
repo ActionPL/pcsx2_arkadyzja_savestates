@@ -1,0 +1,20 @@
+**Game name:**
+
+High Heat Major League Baseball 2002 (USA)
+
+**Game ID:**
+
+SLUS-20133
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7EA00FB23D77A9869D3B72BD28822428E933196F
+
+TRACK 01 MD5: 68DECF6D87F6EB944344A539B251388F
+
+**Description:**
+
