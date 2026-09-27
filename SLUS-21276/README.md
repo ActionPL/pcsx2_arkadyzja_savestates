@@ -1,0 +1,20 @@
+**Game name:**
+
+Ford vs. Chevy (USA)
+
+**Game ID:**
+
+SLUS-21276
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 13B3718195BE5EC6CFB113274584E96962691C38
+
+TRACK 01 MD5: B89D9BAF23D0D48EFFC14F78556F8BAE
+
+**Description:**
+
