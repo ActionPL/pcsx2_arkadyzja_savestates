@@ -1,0 +1,20 @@
+**Game name:**
+
+Ford Mustang - The Legend Lives (USA)
+
+**Game ID:**
+
+SLUS-21162
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2006A964432FEFEA345DD2C200747B78F9871AAC
+
+TRACK 01 MD5: E75BAD3C7448E79014B9C9D806097C57
+
+**Description:**
+
