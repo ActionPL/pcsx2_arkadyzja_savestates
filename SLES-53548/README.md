@@ -1,0 +1,20 @@
+**Game name:**
+
+GigaWing Generations (Europe)
+
+**Game ID:**
+
+SLES-53548
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 58A159B7DA3E7663B3A4D908D148F9E10BDA3B72
+
+TRACK 01 MD5: 8A1A7B55132AD33EED90A10408DF64FF
+
+**Description:**
+
