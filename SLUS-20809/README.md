@@ -1,0 +1,20 @@
+**Game name:**
+
+Godzilla - Save the Earth (USA)
+
+**Game ID:**
+
+SLUS-20809
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9C914CAC51433274C4D7BFA2EDC3A2FBD94D553A
+
+TRACK 01 MD5: 40E6A0C6D1DB49A541D960691B730706
+
+**Description:**
+
