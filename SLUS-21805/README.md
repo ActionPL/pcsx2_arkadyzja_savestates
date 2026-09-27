@@ -1,0 +1,20 @@
+**Game name:**
+
+Hasbro Family Game Night (USA)
+
+**Game ID:**
+
+SLUS-21805
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2D3E64941204539102A02A7A39ED9BBB980D97F5
+
+TRACK 01 MD5: 249AC837086F7D120F861D2BE3C1BF7B
+
+**Description:**
+
