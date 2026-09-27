@@ -1,0 +1,20 @@
+**Game name:**
+
+IHRA Professional Drag Racing 2005 (USA)
+
+**Game ID:**
+
+SLUS-20935
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 11865DB26F2DA08E876F889D2C65756DDE5CF8FC
+
+TRACK 01 MD5: A629AE102E6DEEB72DD832DFBEC11FD8
+
+**Description:**
+
