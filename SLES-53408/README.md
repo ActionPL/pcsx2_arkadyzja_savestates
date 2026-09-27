@@ -1,0 +1,20 @@
+**Game name:**
+
+Fighting Angels (Europe)
+
+**Game ID:**
+
+SLES-53408
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 40FED402E821421F463BCB11A7C9CF233E71C569
+
+TRACK 01 MD5: E34870448117F108C0BB3FE24B8FC539
+
+**Description:**
+
