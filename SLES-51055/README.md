@@ -1,0 +1,20 @@
+**Game name:**
+
+Go Go Golf (Europe)
+
+**Game ID:**
+
+SLES-51055
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6ADE362D3931C6839A9A205696D2AD1AB8B00F01
+
+TRACK 01 MD5: DEC28A8426312153775195728F0DE769
+
+**Description:**
+
