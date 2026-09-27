@@ -1,0 +1,20 @@
+**Game name:**
+
+Judge Dredd - Dredd vs. Death (USA)
+
+**Game ID:**
+
+SLUS-20869
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 35875CF14627FD48F3679FF26CA0DDFCE9E3BCB2
+
+TRACK 01 MD5: BC945AAEDBCD737C417787C1D8B7634A
+
+**Description:**
+
