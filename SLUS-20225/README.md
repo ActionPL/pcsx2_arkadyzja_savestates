@@ -1,0 +1,20 @@
+**Game name:**
+
+Gadget Racers (USA)
+
+**Game ID:**
+
+SLUS-20225
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A72A036302AF89A044F81519A7D8E602232DE258
+
+TRACK 01 MD5: FA16CA503997BF6B08ECA899E449DD85
+
+**Description:**
+
