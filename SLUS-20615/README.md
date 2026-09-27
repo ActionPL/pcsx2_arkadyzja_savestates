@@ -1,0 +1,20 @@
+**Game name:**
+
+Fantastic 4 (USA)
+
+**Game ID:**
+
+SLUS-20615
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 80BE7957ABDCD95E86120075E7F666209565CFC0
+
+TRACK 01 MD5: CD0C4D24259871AF93EB6C504CAEBA41
+
+**Description:**
+
