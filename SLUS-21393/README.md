@@ -1,0 +1,20 @@
+**Game name:**
+
+Gallop Racer 2006 (USA)
+
+**Game ID:**
+
+SLUS-21393
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C08072CF1B69C89E86A501DA2D37DB8C95EE8C2F
+
+TRACK 01 MD5: 2D993ED47D66B71CB11BDE2E2701C2EA
+
+**Description:**
+
