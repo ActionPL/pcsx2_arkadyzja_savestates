@@ -1,0 +1,20 @@
+**Game name:**
+
+Hummer Badlands (USA)
+
+**Game ID:**
+
+SLUS-21357
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0B4E05B05F4D60BD3AFA3E110A9664D846C92875
+
+TRACK 01 MD5: 9064065743CF39FB560BB4FED5F6A211
+
+**Description:**
+
