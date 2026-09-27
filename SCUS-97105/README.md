@@ -1,0 +1,20 @@
+**Game name:**
+
+Fantavision (USA)
+
+**Game ID:**
+
+SCUS-97105
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2725AAE15BD2EA6C7CDE17DAF9B6FDCA02011650
+
+TRACK 01 MD5: 090372D99D8E314D05E5AD600BFBA434
+
+**Description:**
+
