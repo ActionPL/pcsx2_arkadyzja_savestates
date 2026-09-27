@@ -1,0 +1,20 @@
+**Game name:**
+
+Hustle, The - Detroit Streets (USA)
+
+**Game ID:**
+
+SLUS-21335
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A9AEB641DCC9A85DE848C3AE14AC369A51BFE564
+
+TRACK 01 MD5: B6A924E5A45431A5B8AC0410060EC594
+
+**Description:**
+
