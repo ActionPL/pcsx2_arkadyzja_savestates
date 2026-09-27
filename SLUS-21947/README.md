@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA Soccer 12 (USA, Brazil)
+
+**Game ID:**
+
+SLUS-21947
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2EF1289D46C6E79FB767FDF6E53D8E7BDA8E6406
+
+TRACK 01 MD5: EF9E9E4917A30444C52A20955F9E4572
+
+**Description:**
+
