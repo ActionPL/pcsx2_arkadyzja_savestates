@@ -1,0 +1,20 @@
+**Game name:**
+
+Juiced (USA)
+
+**Game ID:**
+
+SLUS-20872
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E7D142003A9E0B0F46B9A6378632410ED544320F
+
+TRACK 01 MD5: 0A828A47000EEFA635F62A9B9CC84E90
+
+**Description:**
+
