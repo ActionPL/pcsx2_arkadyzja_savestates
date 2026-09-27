@@ -1,0 +1,20 @@
+**Game name:**
+
+FlatOut 2 (USA)
+
+**Game ID:**
+
+SLUS-21251
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 33261E42D431F640EEBC8B8D9F479CE088E23CAB
+
+TRACK 01 MD5: 76F2C612F77633393499B5566AB97553
+
+**Description:**
+
