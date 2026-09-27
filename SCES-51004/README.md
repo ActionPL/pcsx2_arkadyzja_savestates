@@ -1,0 +1,20 @@
+**Game name:**
+
+Formula One 2002 (Europe) (En,Fr,De,Es,It,Fi)
+
+**Game ID:**
+
+SCES-51004
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1D604E465FF29DA913A9B5160642D9318ED622B2
+
+TRACK 01 MD5: 146F053C6D4AE6EA306B8FEB23FE2F54
+
+**Description:**
+
