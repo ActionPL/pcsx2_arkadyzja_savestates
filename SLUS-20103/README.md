@@ -1,0 +1,20 @@
+**Game name:**
+
+F1 Championship Season 2000 (USA)
+
+**Game ID:**
+
+SLUS-20103
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7D1FBCB906BCB101D7DA513AE2A439DCD053B7F4
+
+TRACK 01 MD5: 25D0D1C539C8DF224DF9DAF7AA429F79
+
+**Description:**
+
