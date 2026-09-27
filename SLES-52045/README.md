@@ -1,0 +1,20 @@
+**Game name:**
+
+GT-R 400 (Europe, Australia)
+
+**Game ID:**
+
+SLES-52045
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 71A8F267A455C9549800D1BD5F8A0249518C47B0
+
+TRACK 01 MD5: 2E668119AE91EFBB83B36221465BA171
+
+**Description:**
+
