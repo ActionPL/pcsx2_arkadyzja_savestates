@@ -1,0 +1,20 @@
+**Game name:**
+
+Hamster Heroes (Europe)
+
+**Game ID:**
+
+SLES-53006
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F1E1BBC3675D2443FCD0FE61C27D7B775A7F32E9
+
+TRACK 01 MD5: 1846C219014511C695ACB485517B57F1
+
+**Description:**
+
