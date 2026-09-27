@@ -1,0 +1,20 @@
+**Game name:**
+
+Intellivision Lives! (USA)
+
+**Game ID:**
+
+SLUS-20830
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B3A18BB7BF73061510CE53A1ADDEC1FD9424950C
+
+TRACK 01 MD5: 6294DBC1DC1F5C424D6B7A9EBCB2A6B6
+
+**Description:**
+
