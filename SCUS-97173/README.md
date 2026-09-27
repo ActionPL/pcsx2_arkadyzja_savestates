@@ -1,0 +1,20 @@
+**Game name:**
+
+Jet X2O (USA)
+
+**Game ID:**
+
+SCUS-97173
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A776FF8225A090A3B0AF2C1952B5C346D285AB5A
+
+TRACK 01 MD5: D83666234931D224E27F6001CB572FDA
+
+**Description:**
+
