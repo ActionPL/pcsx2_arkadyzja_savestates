@@ -1,0 +1,20 @@
+**Game name:**
+
+Happy Feet (USA)
+
+**Game ID:**
+
+SLUS-21455
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CFCEDAE6EBB4C37F0F6224E76C4E5FE2F3589E3D
+
+TRACK 01 MD5: 68424B0C6A08FD31079679B7FF1A0D15
+
+**Description:**
+
