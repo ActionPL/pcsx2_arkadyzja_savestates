@@ -1,0 +1,20 @@
+**Game name:**
+
+GoldenEye - Rogue Agent (USA)
+
+**Game ID:**
+
+SLUS-21064
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D7ABAFC3D9D4C38928396A2A2DB9B324AC18AC0A
+
+TRACK 01 MD5: 373D73B216D730F661BDA7577A6FF796
+
+**Description:**
+
