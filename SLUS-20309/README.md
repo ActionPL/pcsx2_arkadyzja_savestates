@@ -1,0 +1,20 @@
+**Game name:**
+
+Jade Cocoon 2 (USA)
+
+**Game ID:**
+
+SLUS-20309
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 370A1494069F2A57B71EC8A0206BB0551F5EA31D
+
+TRACK 01 MD5: 671D42D134A789560A51BCC6CB2859C2
+
+**Description:**
+
