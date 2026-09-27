@@ -1,0 +1,20 @@
+**Game name:**
+
+Frogger - Ancient Shadow (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-21098
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0C2A0FC5234DD197DF2137907211D98621BC2AFD
+
+TRACK 01 MD5: 853224EF644A8D69603403A49F554F16
+
+**Description:**
+
