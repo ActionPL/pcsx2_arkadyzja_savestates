@@ -1,0 +1,20 @@
+**Game name:**
+
+FlatOut (USA)
+
+**Game ID:**
+
+SLUS-20901
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4237CBBA33D2644A68EB77748A9448CDC0F699B3
+
+TRACK 01 MD5: 5B1D95E9290258352DA0CDAEC4D112AC
+
+**Description:**
+
