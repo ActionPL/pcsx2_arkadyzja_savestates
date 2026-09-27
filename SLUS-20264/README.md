@@ -1,0 +1,20 @@
+**Game name:**
+
+F1 2001 (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-20264
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FBBCFD9D4CA8029AACF7170CF3D48DA7D27268AC
+
+TRACK 01 MD5: 7B2560A5981584DF0BEB948A4B8298FE
+
+**Description:**
+
