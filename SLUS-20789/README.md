@@ -1,0 +1,20 @@
+**Game name:**
+
+Jeopardy! (USA)
+
+**Game ID:**
+
+SLUS-20789
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8A635F7E77469F61F33CBC0409CCC4657C56D34
+
+TRACK 01 MD5: 20D0AC4BADF08A22E1DFC3F96332E1D8
+
+**Description:**
+
