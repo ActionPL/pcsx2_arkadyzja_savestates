@@ -1,0 +1,20 @@
+**Game name:**
+
+G.I. Joe - The Rise of Cobra (USA)
+
+**Game ID:**
+
+SLUS-21886
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A5EDA62CEB5565A42665F3AF0548EBD248B9C09C
+
+TRACK 01 MD5: F2FF81FA0EA8CD6172D61850C678423A
+
+**Description:**
+
