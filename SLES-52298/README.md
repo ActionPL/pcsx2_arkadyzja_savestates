@@ -1,0 +1,20 @@
+**Game name:**
+
+IndyCar Series 2005 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-52298
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4EF970C3A61795FE04E6906029C286867C42B788
+
+TRACK 01 MD5: C884F78E4703348E77396C43E03C601A
+
+**Description:**
+
