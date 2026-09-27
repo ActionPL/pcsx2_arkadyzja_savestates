@@ -1,0 +1,20 @@
+**Game name:**
+
+Flipnic - Ultimate Pinball (USA)
+
+**Game ID:**
+
+SLUS-21157
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D4213DDF13BC4DB41E8D87EBC2322A92A1E43B27
+
+TRACK 01 MD5: 92D42FDE075670899BEEAB5930C653C2
+
+**Description:**
+
