@@ -1,0 +1,20 @@
+**Game name:**
+
+High Heat Major League Baseball 2004 (USA)
+
+**Game ID:**
+
+SLUS-20602
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CADAE3E1462A74DEF14D120F5A5F297796F60B6A
+
+TRACK 01 MD5: 67E626D0A4786867B91B4BA69D7B2765
+
+**Description:**
+
