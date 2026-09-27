@@ -1,0 +1,20 @@
+**Game name:**
+
+Guilty Gear X2 (USA)
+
+**Game ID:**
+
+SLUS-20436
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 15051F34E59FCD92289BF1815B55F1B877D90CD3
+
+TRACK 01 MD5: 81A195A41349C26D7E18653F1F9A3977
+
+**Description:**
+
