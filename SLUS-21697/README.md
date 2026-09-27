@@ -1,0 +1,20 @@
+**Game name:**
+
+Iridium Runners (USA)
+
+**Game ID:**
+
+SLUS-21697
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E1AFA000FF1A2B8679707219DA30E8A74E03E672
+
+TRACK 01 MD5: A23DCA5B2075483EAB1B91DE66614770
+
+**Description:**
+
