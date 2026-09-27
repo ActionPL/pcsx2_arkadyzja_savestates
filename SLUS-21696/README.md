@@ -1,0 +1,20 @@
+**Game name:**
+
+Ford Racing - Off Road (USA)
+
+**Game ID:**
+
+SLUS-21696
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 38ADC50AAA5226A722D37F7AAF5AA22F29BDAADA
+
+TRACK 01 MD5: 1DB90ED6137453EACC6D6CBB3C59886E
+
+**Description:**
+
