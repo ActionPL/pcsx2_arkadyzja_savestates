@@ -1,0 +1,20 @@
+**Game name:**
+
+Gallop Racer 2003 - A New Breed (USA)
+
+**Game ID:**
+
+SLUS-20662
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C284E32DA3F377DE3F3FA4CBFDEF82CC958C6D07
+
+TRACK 01 MD5: E1D86BDE3FC839BCA47E1A52FF8602B1
+
+**Description:**
+
