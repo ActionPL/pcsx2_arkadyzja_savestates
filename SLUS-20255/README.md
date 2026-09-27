@@ -1,0 +1,20 @@
+**Game name:**
+
+Gallop Racer 2001 (USA)
+
+**Game ID:**
+
+SLUS-20255
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B5BAD83C4D58FA7695FBCD533BE5FB64147E42B1
+
+TRACK 01 MD5: 79D3630668C55F2CABEBF326F1A631D8
+
+**Description:**
+
