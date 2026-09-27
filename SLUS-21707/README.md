@@ -1,0 +1,20 @@
+**Game name:**
+
+Godzilla - Unleashed (USA)
+
+**Game ID:**
+
+SLUS-21707
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5EDFA5057D526CB54D80EBDF0BF4BC6B680AC22D
+
+TRACK 01 MD5: E657A0A20ECE676B6DF0C0A3D5FACCC3
+
+**Description:**
+
