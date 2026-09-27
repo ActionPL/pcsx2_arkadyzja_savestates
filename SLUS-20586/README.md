@@ -1,0 +1,20 @@
+**Game name:**
+
+IHRA Drag Racing 2 (USA)
+
+**Game ID:**
+
+SLUS-20586
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8F0778EA6B49633F9F60D2FE1108E973D5CF88CC
+
+TRACK 01 MD5: 5A425CF50E8619F1125C011B88458B95
+
+**Description:**
+
