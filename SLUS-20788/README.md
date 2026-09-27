@@ -1,0 +1,20 @@
+**Game name:**
+
+Ford Racing 2 (USA)
+
+**Game ID:**
+
+SLUS-20788
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2E34F8388CE56DAA068A9FE11F5C0B7FC736BEEF
+
+TRACK 01 MD5: C15CA2A02B2FEF56E2C8721C492640CD
+
+**Description:**
+
