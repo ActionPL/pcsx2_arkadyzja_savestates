@@ -1,0 +1,20 @@
+**Game name:**
+
+Jumanji (Europe) (En,Fr,De,Es,It,Nl)
+
+**Game ID:**
+
+SLES-54382
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7AAD1A9FAA5CEB840ABE6F368F30B522790E1750
+
+TRACK 01 MD5: 948C53F22CA6995E8C9AE3A6AF9E64FC
+
+**Description:**
+
