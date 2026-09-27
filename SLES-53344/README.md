@@ -1,0 +1,20 @@
+**Game name:**
+
+Guerrilla Strike (Europe)
+
+**Game ID:**
+
+SLES-53344
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DE5C1F8E28D050839DC8CC99541086A738CFCFBB
+
+TRACK 01 MD5: 8C77C86A1F6E719A54DDC72D2A550E0F
+
+**Description:**
+
