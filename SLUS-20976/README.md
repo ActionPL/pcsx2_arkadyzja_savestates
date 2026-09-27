@@ -1,0 +1,20 @@
+**Game name:**
+
+Ford Racing 3 (USA)
+
+**Game ID:**
+
+SLUS-20976
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7F1939E6CCCB9318806C438429DAD0FD5C7FE49F
+
+TRACK 01 MD5: 31DDBD93E720AA9DD3159E9D7D15E621
+
+**Description:**
+
