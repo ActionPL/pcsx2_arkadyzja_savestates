@@ -1,0 +1,20 @@
+**Game name:**
+
+Guilty Gear Isuka (USA)
+
+**Game ID:**
+
+SLUS-20908
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CAE72BD92F294E9DBA738BE8B6C5A2EA414B3E37
+
+TRACK 01 MD5: C9784BEB31FABBECA91FD87D88871822
+
+**Description:**
+
