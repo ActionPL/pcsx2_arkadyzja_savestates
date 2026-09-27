@@ -1,0 +1,20 @@
+**Game name:**
+
+Furry Tales (Europe) (En,Fr)
+
+**Game ID:**
+
+SLES-52824
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3E65368988933019AC1EBF8147A8A63808DE3617
+
+TRACK 01 MD5: EF852304B3C03BF5479BA0839824D03F
+
+**Description:**
+
