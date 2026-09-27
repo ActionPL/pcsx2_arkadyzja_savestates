@@ -1,0 +1,20 @@
+**Game name:**
+
+Freestyle Metal X (USA)
+
+**Game ID:**
+
+SLUS-20494
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C46BA911E28D61971500E9B14CF3FF3C676BB201
+
+TRACK 01 MD5: 63A7A4AD86A1F0EE52EE2AEB78A2BA76
+
+**Description:**
+
