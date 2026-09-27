@@ -1,0 +1,20 @@
+**Game name:**
+
+Juiced 2 - Hot Import Nights (USA)
+
+**Game ID:**
+
+SLUS-21593
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C9AAA6C31832351630BD88CB1915C019657D706D
+
+TRACK 01 MD5: 3C5C9717E8F21781F0751833A1AD39C4
+
+**Description:**
+
