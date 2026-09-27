@@ -1,0 +1,20 @@
+**Game name:**
+
+Gitaroo Man (USA)
+
+**Game ID:**
+
+SLUS-20294
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C24E803A6A067B5E8869FA963C97DFC1E8853BF0
+
+TRACK 01 MD5: 26F4B74F8331528B5318DDD214B1EDA5
+
+**Description:**
+
