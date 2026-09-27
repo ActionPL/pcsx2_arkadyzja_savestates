@@ -1,0 +1,20 @@
+**Game name:**
+
+Formula One 2003 (Europe) (En,Fr,De,Es,It,Fi)
+
+**Game ID:**
+
+SCES-51592
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 063ED4F8EB0A8DD249EFF8FA804A436E0DF3E7B1
+
+TRACK 01 MD5: 28529FB7F319938EFFCFCAC843C6DB60
+
+**Description:**
+
