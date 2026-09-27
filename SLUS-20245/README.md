@@ -1,0 +1,20 @@
+**Game name:**
+
+Jeremy McGrath Supercross World (USA)
+
+**Game ID:**
+
+SLUS-20245
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2EC812FD80619A526C5D646567FE809C494F3A49
+
+TRACK 01 MD5: F23E25E7707110F6AE1F7B3C84C72ED4
+
+**Description:**
+
