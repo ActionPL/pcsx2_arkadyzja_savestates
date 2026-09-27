@@ -1,0 +1,20 @@
+**Game name:**
+
+Heartbeat Boxing (Europe)
+
+**Game ID:**
+
+SLES-51865
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7DAA2BDDD3599B900DC1C40C623890FD27E0E1D0
+
+TRACK 01 MD5: E205B6318FCE293A2A5D96A1EF4C80E2
+
+**Description:**
+
