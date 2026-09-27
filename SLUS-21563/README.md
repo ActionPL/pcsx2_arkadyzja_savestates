@@ -1,0 +1,20 @@
+**Game name:**
+
+Horsez (USA)
+
+**Game ID:**
+
+SLUS-21563
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D3F5DE92B7F6947FD4EB36D9A4FA9969EC117D7A
+
+TRACK 01 MD5: C4F6A1FEE0B5B4C7AED3CE2A7AFF968C
+
+**Description:**
+
