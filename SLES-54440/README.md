@@ -1,0 +1,20 @@
+**Game name:**
+
+GT-R Touring (Europe)
+
+**Game ID:**
+
+SLES-54440
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5E3C1978E5970AEB91B8B57BF5453B03EB334D6D
+
+TRACK 01 MD5: 7C0D18F3DA8505A50358EF9BBADBFA2D
+
+**Description:**
+
