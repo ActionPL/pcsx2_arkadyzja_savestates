@@ -1,0 +1,20 @@
+**Game name:**
+
+Justice League Heroes (USA)
+
+**Game ID:**
+
+SLUS-21304
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3E961C1A082C6C8E96541C02024E1DE54E17B9B7
+
+TRACK 01 MD5: 6C27DF572F3F683A2C33266F54367826
+
+**Description:**
+
