@@ -1,0 +1,20 @@
+**Game name:**
+
+Hard Knock High (Europe)
+
+**Game ID:**
+
+SLES-54590
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9476EB090349F23FF1B35AD3F3729C482C961847
+
+TRACK 01 MD5: 50625BB5AD8697BF3405790CBF5772BF
+
+**Description:**
+
