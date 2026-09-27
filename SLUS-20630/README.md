@@ -1,0 +1,20 @@
+**Game name:**
+
+Grand Prix Challenge (USA)
+
+**Game ID:**
+
+SLUS-20630
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1B74584AA2CF38C1C2E54943A8A29FC98ECBDB65
+
+TRACK 01 MD5: 30C0911FA534ADACFB9DFE800D457CA9
+
+**Description:**
+
