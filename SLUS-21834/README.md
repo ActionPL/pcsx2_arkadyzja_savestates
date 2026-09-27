@@ -1,0 +1,20 @@
+**Game name:**
+
+Goosebumps HorrorLand (USA)
+
+**Game ID:**
+
+SLUS-21834
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F729E7697D35D6020F7E020A50A4D005222BFDF5
+
+TRACK 01 MD5: CE009278BBC419C561F952006D358E60
+
+**Description:**
+
