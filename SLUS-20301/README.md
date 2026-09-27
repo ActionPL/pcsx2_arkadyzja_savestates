@@ -1,0 +1,20 @@
+**Game name:**
+
+Hidden Invasion (USA)
+
+**Game ID:**
+
+SLUS-20301
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 84AAAB59C0814E4F78B8380368621E2A9BE4614C
+
+TRACK 01 MD5: D6CDF9427A62EC9C2CBDAD8FA643567D
+
+**Description:**
+
