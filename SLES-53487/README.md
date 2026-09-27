@@ -1,0 +1,20 @@
+**Game name:**
+
+Forty 4 Party (Europe)
+
+**Game ID:**
+
+SLES-53487
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E31408D398C23C21A6AD04069CA6844FBBF2D9C8
+
+TRACK 01 MD5: 772D0962DEFB08B6D5F97E47AF298794
+
+**Description:**
+
