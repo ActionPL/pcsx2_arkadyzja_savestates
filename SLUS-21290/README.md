@@ -1,0 +1,20 @@
+**Game name:**
+
+Ford Bold Moves Street Racing (USA)
+
+**Game ID:**
+
+SLUS-21290
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 77DE9994BD0918BC47859FB17E062534DA1FAE10
+
+TRACK 01 MD5: DC70D8A590FCE0BAD5E7CB959BF14E11
+
+**Description:**
+
