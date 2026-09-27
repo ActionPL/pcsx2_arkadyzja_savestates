@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA Street (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-21147
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 129BD206FE01140088E9AA255CFD131B397B7839
+
+TRACK 01 MD5: 4C8C0DCFD58AA7B38AEFA928256BC399
+
+**Description:**
+
