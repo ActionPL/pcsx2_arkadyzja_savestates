@@ -1,0 +1,20 @@
+**Game name:**
+
+Guncom 2 (Europe) (En,Fr,De)
+
+**Game ID:**
+
+SLES-52620
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 364BF5A281366FB5FEAB339483E2629EE78E8F2B
+
+TRACK 01 MD5: EDA49F13300084B14511CA33EE51575D
+
+**Description:**
+
