@@ -1,0 +1,20 @@
+**Game name:**
+
+High Heat Major League Baseball 2003 (USA)
+
+**Game ID:**
+
+SLUS-20298
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C1BB407B3AD695FDEB9F1171E009C1A4EA0CC9C9
+
+TRACK 01 MD5: 55A4089A19FCA5E7A53C9E99A83A40C3
+
+**Description:**
+
