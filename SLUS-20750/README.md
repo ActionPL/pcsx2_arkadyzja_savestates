@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA Soccer 2004 (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-20750
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 72E6ECDE88F2363310CDBF558007766FDB26333F
+
+TRACK 01 MD5: 9FE43077CC258E7F3B3E5C3ED9C08941
+
+**Description:**
+
