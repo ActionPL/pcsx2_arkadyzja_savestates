@@ -1,0 +1,20 @@
+**Game name:**
+
+F1 2002 (USA) (En,Fr,De)
+
+**Game ID:**
+
+SLUS-20455
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1AB7E787158211955398367611ECB1F701B8C6B7
+
+TRACK 01 MD5: 7B5243AF611E35578D4305A8CC01E9CE
+
+**Description:**
+
