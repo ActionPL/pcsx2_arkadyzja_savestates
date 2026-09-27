@@ -1,0 +1,20 @@
+**Game name:**
+
+Gradius V (USA)
+
+**Game ID:**
+
+SLUS-20712
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B99C92CD7C94B36B535200B428034D847D708BB7
+
+TRACK 01 MD5: BED560EC8DE61E192371C3B16DF911FA
+
+**Description:**
+
