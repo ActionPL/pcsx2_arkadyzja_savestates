@@ -1,0 +1,20 @@
+**Game name:**
+
+Hot Wheels - Beat That! (USA)
+
+**Game ID:**
+
+SLUS-21628
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DB05632E81268DBAFE3752831F5CF4DDFB2E0668
+
+TRACK 01 MD5: 5FA8C7B56AC0443E21BDE8219C69A25D
+
+**Description:**
+
