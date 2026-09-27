@@ -1,0 +1,20 @@
+**Game name:**
+
+Fame Academy (UK)
+
+**Game ID:**
+
+SLES-52060
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 321D1FECF1FBB589B5FA7492A81B2327E4F11071
+
+TRACK 01 MD5: 59B00CA495A02B98D45E34B8B2124C45
+
+**Description:**
+
