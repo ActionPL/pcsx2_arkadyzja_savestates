@@ -1,0 +1,20 @@
+**Game name:**
+
+Guilty Gear XX Accent Core Plus (USA)
+
+**Game ID:**
+
+SLUS-21847
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1D935EAAC361FE228D5250E77E09D8DD02B54FB1
+
+TRACK 01 MD5: FC5E8742424C9FC151D5E5091610CB41
+
+**Description:**
+
