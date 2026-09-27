@@ -1,0 +1,20 @@
+**Game name:**
+
+GoDai - Elemental Force (USA)
+
+**Game ID:**
+
+SLUS-20288
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8CA15B1BADC6F3E071BFF1BA0436A2B713A29056
+
+TRACK 01 MD5: E262B7E3220362B7BAAC1407087F1B1E
+
+**Description:**
+
