@@ -1,0 +1,20 @@
+**Game name:**
+
+Future Tactics - The Uprising (USA)
+
+**Game ID:**
+
+SLUS-20859
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F597C22FDE3659E06C1304CA16DE451580C18240
+
+TRACK 01 MD5: 7C37961FFCC20AC64EDD1AB888EF78E1
+
+**Description:**
+
