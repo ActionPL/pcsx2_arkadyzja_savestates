@@ -1,0 +1,20 @@
+**Game name:**
+
+Jeep Thrills (USA)
+
+**Game ID:**
+
+SLUS-21760
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 719F64CC0180A782AFBA7FFA936E8147FD3CEC81
+
+TRACK 01 MD5: A6B2F6C596F59457C2BCFCA1E33C733B
+
+**Description:**
+
