@@ -1,0 +1,20 @@
+**Game name:**
+
+Hard Hitter Tennis (USA)
+
+**Game ID:**
+
+SLUS-20568
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1541F7890C93FBF2CE3B83F5F6D50FCCE496C4DD
+
+TRACK 01 MD5: 65ABC8EFA521219AF6C34CCF61E2803D
+
+**Description:**
+
