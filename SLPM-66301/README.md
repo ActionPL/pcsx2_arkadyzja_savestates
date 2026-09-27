@@ -1,0 +1,20 @@
+**Game name:**
+
+Ibara (Japan)
+
+**Game ID:**
+
+SLPM-66301
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8AEB3C8790DD790F8122CC29A40735ADF18E2989
+
+TRACK 01 MD5: 6BA671B5D23155B8254B6F4CEFC90AE2
+
+**Description:**
+
