@@ -1,0 +1,20 @@
+**Game name:**
+
+Family Feud (USA)
+
+**Game ID:**
+
+SLUS-21446
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9C9A81CE72EC3840C8229678B5B935AEA8E61328
+
+TRACK 01 MD5: BDA57185A0E81EEB2FACE4F6CA1DD5AF
+
+**Description:**
+
