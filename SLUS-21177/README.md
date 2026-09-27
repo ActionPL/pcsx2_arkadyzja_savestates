@@ -1,0 +1,20 @@
+**Game name:**
+
+In the Groove (USA)
+
+**Game ID:**
+
+SLUS-21177
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 61180C56A8AF5844A364477F1322676F488091DE
+
+TRACK 01 MD5: C2092924F679C476DECABF73BE761FEF
+
+**Description:**
+
