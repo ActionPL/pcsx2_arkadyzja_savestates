@@ -1,0 +1,20 @@
+**Game name:**
+
+Gretzky NHL 06 (USA)
+
+**Game ID:**
+
+SCUS-97466
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2E30F1DDDE7573128C5B50731ED1AE95C96CE5C9
+
+TRACK 01 MD5: D6820624B910A293B8EE9537CA77F805
+
+**Description:**
+
