@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA Soccer 08 (USA, Canada) (En,Es)
+
+**Game ID:**
+
+SLUS-21648
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A673C95DB4DDF6DB238ABEF6822E616EA2136358
+
+TRACK 01 MD5: 7EAE3CDAD28C855CE6F3C9AE15966960
+
+**Description:**
+
