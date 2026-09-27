@@ -1,0 +1,20 @@
+**Game name:**
+
+Gradius III and IV (USA)
+
+**Game ID:**
+
+SLUS-20040
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7498EA5AEC083596299702088384624B25933169
+
+TRACK 01 MD5: A37D40E37F9D7FE651C51552CB25C8ED
+
+**Description:**
+
