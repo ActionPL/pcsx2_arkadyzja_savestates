@@ -1,0 +1,20 @@
+**Game name:**
+
+Hot Shots Tennis (USA)
+
+**Game ID:**
+
+SCUS-97610
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A35ED8C049D91E126A11D78B21AD48E8789B8038
+
+TRACK 01 MD5: F73E43897EDC6BD0B92EF6F3DCCDEBC9
+
+**Description:**
+
