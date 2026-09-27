@@ -1,0 +1,20 @@
+**Game name:**
+
+Garfield - Lasagna World Tour (USA)
+
+**Game ID:**
+
+SLUS-21749
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AC8665FFC8BBF434C015E84FDC47FE280FD5D97D
+
+TRACK 01 MD5: 7FDC0FC096A9BD2A1220D0CF62863DB2
+
+**Description:**
+
