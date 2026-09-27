@@ -1,0 +1,20 @@
+**Game name:**
+
+HSX - HyperSonic.Xtreme (USA)
+
+**Game ID:**
+
+SLUS-20592
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D39F2E1C7785C007EBB93A8D57042EAA456D6F89
+
+TRACK 01 MD5: 0EF8CAC604CCB246EEE143EA6B17F0CE
+
+**Description:**
+
