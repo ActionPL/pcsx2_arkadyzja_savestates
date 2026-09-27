@@ -1,0 +1,20 @@
+**Game name:**
+
+IHRA Drag Racing - Sportsman Edition (USA)
+
+**Game ID:**
+
+SLUS-21256
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F4C8634EDC795F049645D8B2281EE6B00ABEE3AF
+
+TRACK 01 MD5: 528CC64B5A1AC63083499C5031625312
+
+**Description:**
+
