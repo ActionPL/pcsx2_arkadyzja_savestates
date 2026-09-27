@@ -1,0 +1,20 @@
+**Game name:**
+
+Frequency (USA)
+
+**Game ID:**
+
+SCUS-97125
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E534B4476FBFBB4285C6EBC65FCA0D2E54970FCD
+
+TRACK 01 MD5: FA2B6E22A706E89BDCE0DA1DCBE18BE5
+
+**Description:**
+
