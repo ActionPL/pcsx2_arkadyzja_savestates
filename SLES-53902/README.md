@@ -1,0 +1,20 @@
+**Game name:**
+
+Leaderboard Golf (Europe)
+
+**Game ID:**
+
+SLES-53902
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6B7A7A2377F128EA95795B2F92C37EA7C5650F5B
+
+TRACK 01 MD5: 0B5A47237F9370B148B4E09766209EAF
+
+**Description:**
+
