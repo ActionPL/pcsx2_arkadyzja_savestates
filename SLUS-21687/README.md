@@ -1,0 +1,20 @@
+**Game name:**
+
+King of Fighters XI, The (USA, Canada)
+
+**Game ID:**
+
+SLUS-21687
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0000000000000000000000000000000000000000
+
+TRACK 01 MD5: 7A894AECF26968042F333A9732D412B6
+
+**Description:**
+
