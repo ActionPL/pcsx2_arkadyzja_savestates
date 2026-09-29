@@ -1,0 +1,20 @@
+**Game name:**
+
+Legend of the Dragon (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21612
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D69A5468EE2E78146D6F87D29DEA908BA77C2AFF
+
+TRACK 01 MD5: 38E043683BA8D3CA07A606EECA1BD626
+
+**Description:**
+
