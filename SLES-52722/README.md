@@ -1,0 +1,20 @@
+**Game name:**
+
+Kidz Sports Ice Hockey (Europe)
+
+**Game ID:**
+
+SLES-52722
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2AE62D5DBB4103081A534E03FF80F2B2A3C86A4F
+
+TRACK 01 MD5: 50B09D24B240A14B40D21DFBD54D6827
+
+**Description:**
+
