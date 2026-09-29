@@ -1,0 +1,20 @@
+**Game name:**
+
+K-1 World Grand Prix (USA)
+
+**Game ID:**
+
+SLUS-20682
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3F98EC29795F94F1F3A20D1AD340E037A231DBD9
+
+TRACK 01 MD5: 5045DCE24B06693641044FB8C6DFC0D5
+
+**Description:**
+
