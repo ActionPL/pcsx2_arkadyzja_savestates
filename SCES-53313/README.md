@@ -1,6 +1,6 @@
 **Game name:**
 
-Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v2.00) [ARCADE EDITION MOD v0.2]
+Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v2.00) [R-AE MOD v0.2]
 
 **Game ID:**
 

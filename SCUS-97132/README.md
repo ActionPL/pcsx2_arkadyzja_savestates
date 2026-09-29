@@ -1,0 +1,20 @@
+**Game name:**
+
+Kinetica (USA)
+
+**Game ID:**
+
+SCUS-97132
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0A4C87A2FDF20FC8DCAA4B40F582808F92835FEF
+
+TRACK 01 MD5: 2859691707BBF5F76EFA629FEE99FA8D
+
+**Description:**
+
