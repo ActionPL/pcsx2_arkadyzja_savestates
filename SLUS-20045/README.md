@@ -1,0 +1,20 @@
+**Game name:**
+
+Legend of Alon D'ar, The (USA)
+
+**Game ID:**
+
+SLUS-20045
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1A28D2F6C2C99185438C854C1ECBF929F5C1E15B
+
+TRACK 01 MD5: A09497EA25924B010331DF8FEF4584DD
+
+**Description:**
+
