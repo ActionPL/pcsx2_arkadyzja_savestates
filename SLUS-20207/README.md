@@ -1,0 +1,20 @@
+**Game name:**
+
+Le Mans 24 Hours (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-20207
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8E82A8B31017907A8728AD9E8722D707C8422355
+
+TRACK 01 MD5: 0590F8FA625A3B29407984304015A9CA
+
+**Description:**
+
