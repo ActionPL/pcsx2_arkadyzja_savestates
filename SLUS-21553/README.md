@@ -1,0 +1,20 @@
+**Game name:**
+
+Lumines Plus (USA)
+
+**Game ID:**
+
+SLUS-21553
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 72E2B16CFF8B0BB5EE68C13B8A13F573BA12CE84
+
+TRACK 01 MD5: 56761D039CC8D1182BB37853155775F4
+
+**Description:**
+
