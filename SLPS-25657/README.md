@@ -1,0 +1,20 @@
+**Game name:**
+
+Kakutou Bijin Wulong (Japan)
+
+**Game ID:**
+
+SLPS-25657
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F5CB8446CAA800BA8DB72B2B61ECA8EF1AB3FD42
+
+TRACK 01 MD5: 4231DCAB855D5F34836F335A8D3B3C17
+
+**Description:**
+
