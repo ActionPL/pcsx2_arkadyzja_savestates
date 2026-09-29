@@ -1,0 +1,20 @@
+**Game name:**
+
+KOF - Maximum Impact (USA)
+
+**Game ID:**
+
+SLUS-20923
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D337283E39AD3B3BCD3CF9FA5080EACCAE10E113
+
+TRACK 01 MD5: 0DCA1057A07D6EDAA5BE0EB4D05760DA
+
+**Description:**
+
