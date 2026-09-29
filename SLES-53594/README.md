@@ -1,0 +1,20 @@
+**Game name:**
+
+Living World Racing (Europe)
+
+**Game ID:**
+
+SLES-53594
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1BB0ADC53197F3DA0360D01A6AACDBA2658A8FCF
+
+TRACK 01 MD5: D3CBDF61A153A283315C268AB8A4378A
+
+**Description:**
+
