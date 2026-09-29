@@ -1,0 +1,20 @@
+**Game name:**
+
+London Racer II (Europe)
+
+**Game ID:**
+
+SLES-50955
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C56C751BB0497DFE4B56FF2F7EC9C121ECBAC3DD
+
+TRACK 01 MD5: B53E8B332E107F6BBF097BC90E8EF141
+
+**Description:**
+
