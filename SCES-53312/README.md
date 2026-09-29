@@ -12,10 +12,10 @@ CHD
 
 **Hash:**
 
-CHD DATA SHA1: dca1e02508e5fd7922bf9ebcc30602b34a840173
+CHD DATA SHA1: DCA1E02508E5FD7922BF9EBCC30602B34A840173
 
-ISO MD5: e9e440f55e9207c5bd8a28e20a083b42
+TRACK 01 MD5: E9E440F55E9207C5BD8A28E20A083B42
 
 **Description:**
 
-Everything unlocked, 60Hz mode.
+Game starts at main menu with VS MODE option highlighted. Rounds: 3, Time: 50, Handicap: OFF. Progressive scan active with cheat (pnach) and also enable cheats to remove Haze and Debris on Night Terror Stage.
