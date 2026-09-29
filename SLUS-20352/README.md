@@ -1,0 +1,20 @@
+**Game name:**
+
+Looney Tunes - Space Race (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-20352
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 39F5D62A7A64F41537D75311646E4318B7361F1B
+
+TRACK 01 MD5: CAD4C1408FEA1AC78C0A706A6F3140A3
+
+**Description:**
+
