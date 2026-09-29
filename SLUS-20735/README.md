@@ -1,0 +1,20 @@
+**Game name:**
+
+Lethal Skies II (USA)
+
+**Game ID:**
+
+SLUS-20735
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F75A596C4675B1116DDDF300A01FB4709B6338CC
+
+TRACK 01 MD5: 8D3E1C57D02F9F126692692709AB1D0B
+
+**Description:**
+
