@@ -1,0 +1,20 @@
+**Game name:**
+
+Kelly Slater's Pro Surfer (USA)
+
+**Game ID:**
+
+SLUS-20334
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3744E386F8C47345C11A4A693BE7F0F29AE02D46
+
+TRACK 01 MD5: 753F7D23387C310C144DFEF4F014212D
+
+**Description:**
+
