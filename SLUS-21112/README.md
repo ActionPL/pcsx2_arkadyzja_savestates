@@ -1,0 +1,20 @@
+**Game name:**
+
+L.A. Rush (USA)
+
+**Game ID:**
+
+SLUS-21112
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7B64DB53E3833C279534691E9B1004A13131E56A
+
+TRACK 01 MD5: FBF0C90134FA846F2A04616E2F02848D
+
+**Description:**
+
