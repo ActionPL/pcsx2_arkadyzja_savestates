@@ -1,0 +1,20 @@
+**Game name:**
+
+Kengo - Master of Bushido (USA)
+
+**Game ID:**
+
+SLUS-20021
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F5B651927BF603BFDD44261176B293DB10C621EF
+
+TRACK 01 MD5: 7F002FCE3D8184B3282E40BB7D7885DA
+
+**Description:**
+
