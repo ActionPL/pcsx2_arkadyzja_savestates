@@ -1,0 +1,20 @@
+**Game name:**
+
+King Arthur (USA)
+
+**Game ID:**
+
+SLUS-21046
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EC39E379DAF5B5B9361F281568C97CBEAE994E14
+
+TRACK 01 MD5: DAA222D917A580F93000351DDC5D2016
+
+**Description:**
+
