@@ -10,15 +10,6 @@ patch=1,EE,2013A638,extended,0000A82D
 patch=1,EE,0050D52C,extended,00000000
 patch=1,EE,00197F9C,extended,24030000
 
-// Unlock Characters/Weapons
-patch=1,EE,40509898,extended,00CB0001
-patch=1,EE,66666666,extended,00000000
-patch=1,EE,10509BC4,extended,00006666
-
-// Unlock All Costumes/Class/Slots for Character Creation
-patch=1,EE,40509B38,extended,00740001
-patch=1,EE,66666666,extended,00000000
-
 // Disable the sun, lens flare effects and brightness overlay effect
 // patch=1,EE,00163894,word,14430003
 
@@ -27,9 +18,6 @@ patch=1,EE,66666666,extended,00000000
 
 // Force 16 By 9
 patch=1,EE,46E8D0,word,00000001
-
-// Skip Directly to Menus
-patch=1,EE,001992a0,word,24040007
 
 // Remove Debris on Night Terror Stage
 patch=1,EE,2016edc0,extended,03E00008
