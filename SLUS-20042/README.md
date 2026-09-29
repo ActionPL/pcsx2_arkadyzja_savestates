@@ -1,0 +1,20 @@
+**Game name:**
+
+LEGO Racers 2 (USA)
+
+**Game ID:**
+
+SLUS-20042
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 48E231964D6BF0C747133BA46916968D5261FAF9
+
+TRACK 01 MD5: E0F853232E13291E7D43DD7DC303B2F3
+
+**Description:**
+
