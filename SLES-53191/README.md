@@ -1,0 +1,20 @@
+**Game name:**
+
+Kaido Racer (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-53191
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EA014AA3D9EC50CC62B6FE02421F09EF0C420D67
+
+TRACK 01 MD5: AD0ADF3F0662F7FCD29F6B2391168A8A
+
+**Description:**
+
