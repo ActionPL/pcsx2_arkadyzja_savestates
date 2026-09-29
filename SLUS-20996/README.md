@@ -1,0 +1,20 @@
+**Game name:**
+
+King of Fighters 2003, The (USA)
+
+**Game ID:**
+
+SLUS-20996
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9C5DE419B6C1807541F949F07E22E5A088B16592
+
+TRACK 01 MD5: 086BE3E02D8817F42E638F491A2A72A3
+
+**Description:**
+
