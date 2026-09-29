@@ -1,0 +1,20 @@
+**Game name:**
+
+Katamari Damacy (USA)
+
+**Game ID:**
+
+SLUS-21008
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6637254E6F8FC67BCCEBE3AD52ADC655CBF11FCB
+
+TRACK 01 MD5: F24B383424D17C837CB625EBDBFE4592
+
+**Description:**
+
