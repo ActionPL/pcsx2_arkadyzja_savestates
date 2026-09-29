@@ -1,0 +1,20 @@
+**Game name:**
+
+Lowrider (USA)
+
+**Game ID:**
+
+SLUS-20676
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BB07DF7393299A620B5FA74DF58193DF42B6C493
+
+TRACK 01 MD5: 2F2533D9F0396B4E4A3177C591282733
+
+**Description:**
+
