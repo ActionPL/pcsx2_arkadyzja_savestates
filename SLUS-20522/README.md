@@ -1,0 +1,20 @@
+**Game name:**
+
+King of Route 66, The (USA)
+
+**Game ID:**
+
+SLUS-20522
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 63AD95348F0E3B81DD06CE9FBF4FC7E1D33A839A
+
+TRACK 01 MD5: ED8684FC9751405000C22FB12D33A2F7
+
+**Description:**
+
