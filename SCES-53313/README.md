@@ -1,0 +1,20 @@
+**Game name:**
+
+Soulcalibur III (Europe, Australia) (En,Fr,De,Es,It) (v2.00) [ARCADE EDITION MOD v0.2]
+
+**Game ID:**
+
+SCES-53313
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 52F2843B9C14ABFC0DC66D80DAE61A7345ED4F19
+
+TRACK 01 MD5: D314AD128388C9CDC6CF8CF03784A5D7
+
+**Description:**
+
