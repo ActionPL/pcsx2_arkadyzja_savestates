@@ -1,0 +1,20 @@
+**Game name:**
+
+King of Fighters 2006, The (USA)
+
+**Game ID:**
+
+SLUS-21365
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5C2E0A8475946E8D804CC6C7EC990EF086789D8F
+
+TRACK 01 MD5: D70CCD9E2B65975926AE06A5528FDB05
+
+**Description:**
+
