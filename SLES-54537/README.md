@@ -1,0 +1,20 @@
+**Game name:**
+
+K.O. King (Europe)
+
+**Game ID:**
+
+SLES-54537
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7961F7E379B60971BB57C6E7FC7F12E989A13151
+
+TRACK 01 MD5: A2A18F48DC2EE07F492211A3743482F8
+
+**Description:**
+
