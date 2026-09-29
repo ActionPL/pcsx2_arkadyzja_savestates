@@ -1,0 +1,20 @@
+**Game name:**
+
+Kengou 3 (Japan)
+
+**Game ID:**
+
+SLPM-65700
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 48ADA28E53A47372448D67B7170FA1B5CC4A9E57
+
+TRACK 01 MD5: 4B4B06AAF0281A7507101992BF39AE2F
+
+**Description:**
+
