@@ -1,0 +1,20 @@
+**Game name:**
+
+King of Fighters 2001, The (USA)
+
+**Game ID:**
+
+SLUS-20839
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1C3C702308556DB81EAC2B412069854B06A964D6
+
+TRACK 01 MD5: 9BBB489F859AE832B1599A0DE182911E
+
+**Description:**
+
