@@ -1,0 +1,20 @@
+**Game name:**
+
+King of Fighters 2000, The (USA)
+
+**Game ID:**
+
+SLUS-20834
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 16829F6B7454F73B58EA99FF9484F8755C6B9318
+
+TRACK 01 MD5: B3BA1F68818C9153A0D2E6C770408FC1
+
+**Description:**
+
