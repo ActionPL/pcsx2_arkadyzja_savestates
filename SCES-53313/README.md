@@ -18,6 +18,6 @@ TRACK 01 MD5: F80BD3699B229AABDBAF1A4C61393AD0
 
 **Description:**
 
-Game starts at main menu with VS MODE option highlighted. Rounds: 3, Time: 50, Handicap: OFF. Progressive scan active with cheat (pnach) and also enable cheats to remove Haze and Debris on Night Terror Stage.
+Game starts at main menu with VS MODE option highlighted. Rounds: 3, Time: 50, Handicap: OFF. Progressive scan active and widescreen with cheat (pnach). Also enable cheats to remove Haze and Debris on Night Terror Stage.
 Resurrected Arcade Edition (R-AE) mod by smb123w64gb and ZephixX.
 https://8wayrun.com/threads/soulcalibur-iii-resurrected-arcade-edition-r-ae-mod.21401/
