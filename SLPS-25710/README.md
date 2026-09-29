@@ -1,0 +1,20 @@
+**Game name:**
+
+K-1 World GP 2006 (Japan, Korea)
+
+**Game ID:**
+
+SLPS-25710
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9D8427D4FBD7E88B7B38F982D9C65CE52A0DB02C
+
+TRACK 01 MD5: 84AF7E5547813F9EF1B6176C5E6D48D6
+
+**Description:**
+
