@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB SlugFest 2004 (USA)
+
+**Game ID:**
+
+SLUS-20618
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E2E8C325A340668737AC0EC6A118EAEDD320AD81
+
+TRACK 01 MD5: 34A8A0B0B8AC913D2317ABA5DC147335
+
+**Description:**
+
