@@ -1,0 +1,20 @@
+**Game name:**
+
+Metal Slug Anthology (USA)
+
+**Game ID:**
+
+SLUS-21550
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 58AAC610E2212413113107ADEDB6CF6ED62A9876
+
+TRACK 01 MD5: 7EC8577FD63606399FCE4F656A270D38
+
+**Description:**
+
