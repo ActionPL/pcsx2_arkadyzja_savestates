@@ -1,0 +1,20 @@
+**Game name:**
+
+Medal of Honor - Vanguard (USA)
+
+**Game ID:**
+
+SLUS-21597
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5FE9F8E95C9C9B319FE7296D470666691922C9D6
+
+TRACK 01 MD5: 6B57BC6BDE6B74AF3A1376F697F4DEC7
+
+**Description:**
+
