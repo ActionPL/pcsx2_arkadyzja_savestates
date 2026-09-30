@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB 10 - The Show (USA)
+
+**Game ID:**
+
+SCUS-97653
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C5F67AECB49F3FE824371D54A772B8B6C2199337
+
+TRACK 01 MD5: BABF9946F2E1740868D7E80853D8694E
+
+**Description:**
+
