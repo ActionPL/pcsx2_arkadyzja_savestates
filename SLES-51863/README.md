@@ -1,0 +1,20 @@
+**Game name:**
+
+Maze Action (Europe)
+
+**Game ID:**
+
+SLES-51863
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1E7746CABD211713280C715C4E9847FD6BBC833D
+
+TRACK 01 MD5: FFEBC72B8CEBFC167D726A68A52834A8
+
+**Description:**
+
