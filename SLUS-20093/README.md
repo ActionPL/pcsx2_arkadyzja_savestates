@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 2001 (USA)
+
+**Game ID:**
+
+SLUS-20093
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DA3ED1C09CB31B95A3F4B02C104A4FEA165C76A5
+
+TRACK 01 MD5: 553B0A1A7DBDDEC9660FC79F14EF1678
+
+**Description:**
+
