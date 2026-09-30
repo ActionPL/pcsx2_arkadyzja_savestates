@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Hunter G (Japan)
+
+**Game ID:**
+
+SLPM-65869
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1F7122BAAF4FD4689FD8329114B55308CFE5C671
+
+TRACK 01 MD5: 33E84667478B7545AE96D6E9789CFAB6
+
+**Description:**
+
