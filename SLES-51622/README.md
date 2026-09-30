@@ -1,0 +1,20 @@
+**Game name:**
+
+Maxxed Out Racing (Europe)
+
+**Game ID:**
+
+SLES-51622
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 07D10623468EA9C589A8E3413690B6D96B4004A1
+
+TRACK 01 MD5: 3657BD7A357CCC1BE054112A8FD977B7
+
+**Description:**
+
