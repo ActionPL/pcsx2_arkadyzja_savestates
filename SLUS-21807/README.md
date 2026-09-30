@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Jam - Urban Assault (USA)
+
+**Game ID:**
+
+SLUS-21807
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0CDF31ECA9B8E96679E7077CFBAC772D26224109
+
+TRACK 01 MD5: 2C125F2D0303CC95224A6B82A3C9BD0F
+
+**Description:**
+
