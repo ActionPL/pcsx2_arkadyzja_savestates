@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB SlugFest 2006 (USA)
+
+**Game ID:**
+
+SLUS-21342
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EFF1151B36C6D9B5C8BDD62485BB13AA64FD98FF
+
+TRACK 01 MD5: B62BC8E8799B49A14C495B6F59D26240
+
+**Description:**
+
