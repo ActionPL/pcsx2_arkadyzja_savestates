@@ -1,0 +1,20 @@
+**Game name:**
+
+MTX Mototrax (USA)
+
+**Game ID:**
+
+SLUS-20399
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5EF292AA3D6BD293B94D5214DC89D4CCF7A34B61
+
+TRACK 01 MD5: 550A2EF9344A87A886C8CB001E0A6112
+
+**Description:**
+
