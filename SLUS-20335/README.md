@@ -1,0 +1,20 @@
+**Game name:**
+
+Mat Hoffman's Pro BMX 2 (USA)
+
+**Game ID:**
+
+SLUS-20335
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 984CDA41C513AAA6CED6392EF7133B69623C3C2C
+
+TRACK 01 MD5: A825C4E10365C40F2E471BE82C7587A1
+
+**Description:**
+
