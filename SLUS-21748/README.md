@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB Power Pros 2008 (USA)
+
+**Game ID:**
+
+SLUS-21748
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5522D79EBAB561833EF1A9EF74B85A74D7A9A8A3
+
+TRACK 01 MD5: B10DB6F1CC4FB4953DAB1130E4D7442F
+
+**Description:**
+
