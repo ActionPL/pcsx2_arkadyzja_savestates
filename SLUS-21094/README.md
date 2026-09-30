@@ -1,0 +1,20 @@
+**Game name:**
+
+Midway Arcade Treasures 3 (USA)
+
+**Game ID:**
+
+SLUS-21094
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 94766A04FC839010D60D8025F88647E9B3481244
+
+TRACK 01 MD5: B537E839795A7C423D72BC2D7D4A1F31
+
+**Description:**
+
