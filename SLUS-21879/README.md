@@ -1,0 +1,20 @@
+**Game name:**
+
+Marvel - Ultimate Alliance 2 (USA)
+
+**Game ID:**
+
+SLUS-21879
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9F1D73F6097ED69FBF916D7AD4D5175F154882FA
+
+TRACK 01 MD5: 9E2E32C348BE745E499EF305E5B18C14
+
+**Description:**
+
