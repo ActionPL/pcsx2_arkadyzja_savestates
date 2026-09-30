@@ -1,0 +1,20 @@
+**Game name:**
+
+Maxxed Out Racing Nitro (Europe)
+
+**Game ID:**
+
+SLES-54545
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 67D5DD933CD4DCE525ACCCDAE028EA2D1A076279
+
+TRACK 01 MD5: 17931836A7D2211E6E41D65BBD4CE50F
+
+**Description:**
+
