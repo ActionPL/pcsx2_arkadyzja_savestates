@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Attack (Europe)
+
+**Game ID:**
+
+SLES-51856
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EB5302BEE65D63B010FF40B443CEF7676C996924
+
+TRACK 01 MD5: F930B6749E9A4A46206F1C234A4140D4
+
+**Description:**
+
