@@ -1,0 +1,20 @@
+**Game name:**
+
+MotorStorm - Arctic Edge (USA)
+
+**Game ID:**
+
+SCUS-97654
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D3F6FD61554473651AE436FE918078A8F2E86450
+
+TRACK 01 MD5: ACE429913E2053E9E25150A6CC845E31
+
+**Description:**
+
