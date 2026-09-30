@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 09 (USA)
+
+**Game ID:**
+
+SLUS-21770
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BC131DE8E5E2B4B34A5DC71360E50111ECA95CAB
+
+TRACK 01 MD5: 3B1798C6E1E83B122ACF2A76EC282EA2
+
+**Description:**
+
