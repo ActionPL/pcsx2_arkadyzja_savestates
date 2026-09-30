@@ -1,0 +1,20 @@
+**Game name:**
+
+Mojo! (USA)
+
+**Game ID:**
+
+SLUS-20741
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E76CD2E335E7E3BB268D31DB15F0E37FF56926CD
+
+TRACK 01 MD5: A5A8C3E6FB607943D52DAE23EB765EB2
+
+**Description:**
+
