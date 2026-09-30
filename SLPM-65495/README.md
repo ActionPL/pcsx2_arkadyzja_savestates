@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Hunter (Japan)
+
+**Game ID:**
+
+SLPM-65495
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 70341EE3AF62B4E8D2D9EE6410B313BEB8CFDD89
+
+TRACK 01 MD5: 8D8E50010FD2516D8BF2D3073E1603B1
+
+**Description:**
+
