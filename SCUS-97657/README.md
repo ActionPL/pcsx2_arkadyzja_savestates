@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB 11 - The Show (USA)
+
+**Game ID:**
+
+SCUS-97657
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 250C9164960248A15E5E2D9DA2F4DB21D8A3AAB2
+
+TRACK 01 MD5: 9CBB61140DE4240FD4A6F7D7CA364FA5
+
+**Description:**
+
