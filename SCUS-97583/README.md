@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB 08 - The Show (USA)
+
+**Game ID:**
+
+SCUS-97583
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B5CDEA72BA06A92293B3D24A7A62FDF4F7B59E56
+
+TRACK 01 MD5: 83C53945A478824E91A658D774A951EF
+
+**Description:**
+
