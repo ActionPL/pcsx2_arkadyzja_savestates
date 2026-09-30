@@ -1,0 +1,20 @@
+**Game name:**
+
+Myth Makers - Super Kart GP (Europe)
+
+**Game ID:**
+
+SLES-52159
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C31297D7447F64443933F782EBE01AF4188FA9BF
+
+TRACK 01 MD5: 22BFEA3700D23BCA7BC87F24A9255E41
+
+**Description:**
+
