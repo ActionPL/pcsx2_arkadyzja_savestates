@@ -1,0 +1,20 @@
+**Game name:**
+
+Major League Baseball 2K8 (USA)
+
+**Game ID:**
+
+SLUS-21729
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CBD80A2EB748A494284985FF524AAEEB809A0239
+
+TRACK 01 MD5: 758AB749521FE699D8DCA04B6040C742
+
+**Description:**
+
