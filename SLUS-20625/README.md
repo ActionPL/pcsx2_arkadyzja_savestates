@@ -1,0 +1,20 @@
+**Game name:**
+
+MotoGP 3 (USA)
+
+**Game ID:**
+
+SLUS-20625
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DA328C7A5CE042C59372904B721C0509BA65E2F7
+
+TRACK 01 MD5: 32F6616E0DB69157613A7944D42215A8
+
+**Description:**
+
