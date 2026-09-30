@@ -1,0 +1,20 @@
+**Game name:**
+
+Master Chess (Europe)
+
+**Game ID:**
+
+SLES-52295
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7C32DE882A80C5B1C5C79BCEC0A1743C1AE792A8
+
+TRACK 01 MD5: 83A76D95A603D28700849598362E6172
+
+**Description:**
+
