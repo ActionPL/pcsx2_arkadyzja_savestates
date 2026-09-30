@@ -1,0 +1,20 @@
+**Game name:**
+
+Midnight Club 3 - DUB Edition (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-21029
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FA66F19F970E8C08E50953C1B4CD8A08C30636D6
+
+TRACK 01 MD5: 6F7F5B7AFCF03F4E4888E39B21B48363
+
+**Description:**
+
