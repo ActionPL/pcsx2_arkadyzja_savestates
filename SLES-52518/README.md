@@ -1,0 +1,20 @@
+**Game name:**
+
+Motorbike King (Europe)
+
+**Game ID:**
+
+SLES-52518
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 94CB3F411C7EDBA2D4E5679A816EEE44778C7946
+
+TRACK 01 MD5: 4A0D9B3DCB66B4B85A22A555A87422E2
+
+**Description:**
+
