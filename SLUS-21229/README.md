@@ -1,0 +1,20 @@
+**Game name:**
+
+Motocross Mania 3 (USA)
+
+**Game ID:**
+
+SLUS-21229
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 017581D1AA70B8EB548877B024740E1CF4A63AE5
+
+TRACK 01 MD5: CECE92A2F38D0F83F04D8100C53EC748
+
+**Description:**
+
