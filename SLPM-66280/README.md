@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Hunter 2 (Japan)
+
+**Game ID:**
+
+SLPM-66280
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2A18CB3854A933F8BE5E39CBABA630C5EEF310EC
+
+TRACK 01 MD5: 2CFF8AE6975E12858314567DBF888228
+
+**Description:**
+
