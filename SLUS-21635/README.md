@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Jam (USA)
+
+**Game ID:**
+
+SLUS-21635
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DEBBC8896BDD5418DEFFDB2C32E00D3DF0C96A36
+
+TRACK 01 MD5: CBE727EAD6E666C840212A1309210C66
+
+**Description:**
+
