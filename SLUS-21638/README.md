@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 08 (USA)
+
+**Game ID:**
+
+SLUS-21638
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 39B726B384B66982F8ADF3D52198ACBEC05A63C3
+
+TRACK 01 MD5: 15B60AD576665739C8BB8AD9DC6C02B1
+
+**Description:**
+
