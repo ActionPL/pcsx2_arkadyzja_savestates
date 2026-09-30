@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 11 (USA)
+
+**Game ID:**
+
+SLUS-21937
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8F91C26ADC0042AE5464CE9860098B4C05264CD2
+
+TRACK 01 MD5: 675BEC2433B884AA83351E14DBF3D40C
+
+**Description:**
+
