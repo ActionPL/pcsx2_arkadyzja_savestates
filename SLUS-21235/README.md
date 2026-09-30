@@ -1,0 +1,20 @@
+**Game name:**
+
+Major League Baseball 2K6 (USA)
+
+**Game ID:**
+
+SLUS-21235
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0E26B3E926932EC93F37EC8113B1D9C164954ED1
+
+TRACK 01 MD5: B88CFD4AE7F2CFCA05FEBBA6A3F79DB0
+
+**Description:**
+
