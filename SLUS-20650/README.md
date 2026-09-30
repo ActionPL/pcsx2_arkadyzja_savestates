@@ -1,0 +1,20 @@
+**Game name:**
+
+MVP Baseball 2003 (USA)
+
+**Game ID:**
+
+SLUS-20650
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7462615152D1B07B1639959EE80B6FA31711A8F2
+
+TRACK 01 MD5: E7827B06876466832F6528CBECD455D4
+
+**Description:**
+
