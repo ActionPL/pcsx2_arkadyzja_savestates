@@ -1,0 +1,20 @@
+**Game name:**
+
+Midway Arcade Treasures 2 (USA)
+
+**Game ID:**
+
+SLUS-20997
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9AE76C2052EE4331AF9840D6C89B2FB4EB86DC9D
+
+TRACK 01 MD5: 0EA1A2941C182ECB2C14CC7923863F6C
+
+**Description:**
+
