@@ -1,0 +1,20 @@
+**Game name:**
+
+Major League Baseball 2K10 (USA)
+
+**Game ID:**
+
+SLUS-21929
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8C809BA46DDF5CBE40697D51670FD1A517FE464
+
+TRACK 01 MD5: AC8AB04180F3765D8E2630F5622B9474
+
+**Description:**
+
