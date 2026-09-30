@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster 4x4 - Masters of Metal (USA)
+
+**Game ID:**
+
+SLUS-20796
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DC889E61025775C79479E457B7135C16A976AB60
+
+TRACK 01 MD5: 331CD4419F179C9BA84D1EBC6D879ACF
+
+**Description:**
+
