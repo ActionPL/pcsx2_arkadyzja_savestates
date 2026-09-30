@@ -1,0 +1,20 @@
+**Game name:**
+
+Mr. Golf (Europe)
+
+**Game ID:**
+
+SLES-51493
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 24F064DF3EE63E99AEAC0D53DF8877FEB85783DA
+
+TRACK 01 MD5: 68C83CBD45807ADDDA397DC9E9149EDF
+
+**Description:**
+
