@@ -1,0 +1,20 @@
+**Game name:**
+
+Major League Baseball 2K12 (USA)
+
+**Game ID:**
+
+SLUS-21951
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9E45260BF600B7434B318507152010396C097DAA
+
+TRACK 01 MD5: ACED46A07B5DF4FCDB770BB037A0C52C
+
+**Description:**
+
