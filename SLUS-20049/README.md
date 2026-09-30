@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB SlugFest 2003 (USA)
+
+**Game ID:**
+
+SLUS-20049
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 056B69C805A3E20CF466937B753C5461D434AD2D
+
+TRACK 01 MD5: 7F11ED095805F9DF2AA2FF7527F9F2CE
+
+**Description:**
+
