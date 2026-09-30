@@ -1,0 +1,20 @@
+**Game name:**
+
+Micro Machines (USA)
+
+**Game ID:**
+
+SLUS-20472
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4157456C73E2C4582426143E4FC5A6A065BE7DA8
+
+TRACK 01 MD5: 895ACBBB8216DDA4A46AD1F8B5840BDF
+
+**Description:**
+
