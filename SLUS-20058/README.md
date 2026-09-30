@@ -1,0 +1,20 @@
+**Game name:**
+
+MotoGP (USA)
+
+**Game ID:**
+
+SLUS-20058
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3FC57BB512FFA621B8AE76B4D112718F6CD5DB99
+
+TRACK 01 MD5: 7C798B5E4EA6547EFC5072221B301BEA
+
+**Description:**
+
