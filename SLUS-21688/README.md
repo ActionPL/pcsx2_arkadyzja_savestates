@@ -1,0 +1,20 @@
+**Game name:**
+
+MotoGP 07 (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-21688
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 69F6DA51F3A5060665170307FA12D9D7C7660DAD
+
+TRACK 01 MD5: 2D49DBCA0059635A021FE8CEC16C9BB6
+
+**Description:**
+
