@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB 07 - The Show (USA) (v2.00)
+
+**Game ID:**
+
+SCUS-97556
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B0F931E94FAD3938802F26FACE5F603DCF84DF60
+
+TRACK 01 MD5: F946E0B4D61B7C4AF9B78C22EAA9D4E5
+
+**Description:**
+
