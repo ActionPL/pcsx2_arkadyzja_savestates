@@ -1,0 +1,20 @@
+**Game name:**
+
+Monopoly (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21753
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 978DE342AFABBED2776F1CEC08D299557D04D265
+
+TRACK 01 MD5: 8D588F1C30310B00DFCD4A01975A64BC
+
+**Description:**
+
