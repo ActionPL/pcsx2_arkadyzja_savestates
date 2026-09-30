@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 07 (USA)
+
+**Game ID:**
+
+SLUS-21476
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D7378767D906B19CF879AC45FD52BA0BAD5E69A0
+
+TRACK 01 MD5: 4FFAE0D3ED68ADE97EF5BD33D724AA7B
+
+**Description:**
+
