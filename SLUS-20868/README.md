@@ -1,0 +1,20 @@
+**Game name:**
+
+MVP Baseball 2004 (USA)
+
+**Game ID:**
+
+SLUS-20868
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 106A60842BDD23AE4D167B4595BDFCDE9B3C3082
+
+TRACK 01 MD5: FA96B26E562F41B26DB894508B42BE2A
+
+**Description:**
+
