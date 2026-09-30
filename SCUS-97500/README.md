@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB 06 - The Show (USA)
+
+**Game ID:**
+
+SCUS-97500
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D898C572CAC43F81569A31DE979E293342DEE6C6
+
+TRACK 01 MD5: 9A25030537871453724B31C28CDD91CD
+
+**Description:**
+
