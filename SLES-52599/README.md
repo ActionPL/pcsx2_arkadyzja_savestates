@@ -1,0 +1,20 @@
+**Game name:**
+
+Metal Slug 3 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-52599
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 63D4E9A1975AAB40FC91A0A0AB15E45A61772A44
+
+TRACK 01 MD5: 9BB62496C49707E3E9F8F22992765ED0
+
+**Description:**
+
