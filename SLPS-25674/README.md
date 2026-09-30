@@ -1,0 +1,20 @@
+**Game name:**
+
+Metal Slug 6 (Japan)
+
+**Game ID:**
+
+SLPS-25674
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 39062C52A0020C62AE6627A2A312E7F3967D8C4D
+
+TRACK 01 MD5: 7A1F6A87701BD6A9B683595012E8F43D
+
+**Description:**
+
