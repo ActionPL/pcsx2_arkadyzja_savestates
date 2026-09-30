@@ -1,0 +1,20 @@
+**Game name:**
+
+MotoGP 2 (USA)
+
+**Game ID:**
+
+SLUS-20285
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8993BEE6737397CC90ABC3DC5AA9F91A277A520E
+
+TRACK 01 MD5: 29DA746EA5C262209324269196746BE6
+
+**Description:**
+
