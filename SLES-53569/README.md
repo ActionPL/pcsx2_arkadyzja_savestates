@@ -1,0 +1,20 @@
+**Game name:**
+
+Mini Desktop Racing (Europe)
+
+**Game ID:**
+
+SLES-53569
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 920D3462B8B4432AD7745806E2C63C9E9913CFE8
+
+TRACK 01 MD5: B3ABE7CF2264A94507B92DE31B3DCC80
+
+**Description:**
+
