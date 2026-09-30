@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Rancher 4 (USA)
+
+**Game ID:**
+
+SLUS-20702
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 95C33226333E229B0116D996888F9A95502F0CAE
+
+TRACK 01 MD5: 940A0B1A2AAB76D1D59AFFC43D0D318C
+
+**Description:**
+
