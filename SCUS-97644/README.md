@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB 09 - The Show (USA)
+
+**Game ID:**
+
+SCUS-97644
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7B7E620509C5815289913FF77BAAB20215E7452C
+
+TRACK 01 MD5: C3371B672306875C680D67FBB15552C8
+
+**Description:**
+
