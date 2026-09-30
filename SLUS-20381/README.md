@@ -1,0 +1,20 @@
+**Game name:**
+
+MX SuperFly (USA)
+
+**Game ID:**
+
+SLUS-20381
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CC38C237006DE9362C6BEE1DEE17EB299569F837
+
+TRACK 01 MD5: 11C9BFAAB256CF7E88B3993B405E9EA5
+
+**Description:**
+
