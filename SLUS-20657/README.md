@@ -1,0 +1,20 @@
+**Game name:**
+
+McFarlane's Evil Prophecy (USA)
+
+**Game ID:**
+
+SLUS-20657
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 82F4AEC70779507D32C5DDFEB2941297B96BFC43
+
+TRACK 01 MD5: 4AA007788CBEA1C713D3DD906F09FA59
+
+**Description:**
+
