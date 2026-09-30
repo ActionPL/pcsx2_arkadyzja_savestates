@@ -1,0 +1,20 @@
+**Game name:**
+
+MotoGP 08 (USA)
+
+**Game ID:**
+
+SLUS-21811
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 530EC310DA38C747C5F701BD2AFB9C811AB6F5EB
+
+TRACK 01 MD5: 3222F6D0FF0D8F318BB6AB463578E7C6
+
+**Description:**
+
