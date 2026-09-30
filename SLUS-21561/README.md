@@ -1,0 +1,20 @@
+**Game name:**
+
+Major League Baseball 2K7 (USA)
+
+**Game ID:**
+
+SLUS-21561
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5A2D38EF911F8D445BBD4A9BA8191B72E051011A
+
+TRACK 01 MD5: E7D9C733ECA1378708FCC8B9D1007048
+
+**Description:**
+
