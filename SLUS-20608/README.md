@@ -1,0 +1,20 @@
+**Game name:**
+
+Mobile Light Force 2 (USA)
+
+**Game ID:**
+
+SLUS-20608
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C8E695E216AC0D6B5D16A38B655B0C6D2EF01717
+
+TRACK 01 MD5: B8F0B772DEBE45668D173EEC069E9CE2
+
+**Description:**
+
