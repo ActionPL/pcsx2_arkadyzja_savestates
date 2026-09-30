@@ -1,0 +1,20 @@
+**Game name:**
+
+Mega Man X Collection (USA)
+
+**Game ID:**
+
+SLUS-21370
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5CC40A53DCE038B7FE528D69A3A7E8EA640AEEAB
+
+TRACK 01 MD5: C11AA78F53581F4C25082C9A96B9DC74
+
+**Description:**
+
