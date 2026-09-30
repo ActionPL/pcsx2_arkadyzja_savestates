@@ -1,0 +1,20 @@
+**Game name:**
+
+MVP 06 NCAA Baseball (USA)
+
+**Game ID:**
+
+SLUS-21367
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F6B04593ABD12FBE70D7C2D7B0EA2B3A0C631AA7
+
+TRACK 01 MD5: AA8F903CCFB371011F511C718286A2E8
+
+**Description:**
+
