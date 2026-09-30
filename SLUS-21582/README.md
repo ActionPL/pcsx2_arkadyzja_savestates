@@ -1,0 +1,20 @@
+**Game name:**
+
+MVP 07 NCAA Baseball (USA)
+
+**Game ID:**
+
+SLUS-21582
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2553CF023F5786FC9966FDC340C7390A97243BB4
+
+TRACK 01 MD5: F20111162787038AAF6EA8D2639055C4
+
+**Description:**
+
