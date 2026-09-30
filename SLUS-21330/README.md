@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Rancher Evo (USA)
+
+**Game ID:**
+
+SLUS-21330
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D088CEAAFDDC0E90297906491A0C729F5C299828
+
+TRACK 01 MD5: 22AEB593080952F4602783BF9983C611
+
+**Description:**
+
