@@ -1,0 +1,20 @@
+**Game name:**
+
+Monster Rancher 3 (USA) (v2.01)
+
+**Game ID:**
+
+SLUS-20190
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5AAB04E4C51005629F5B3D372ADED0C2B83D9851
+
+TRACK 01 MD5: 027262923440F0CAF538CE8A80B27D1E
+
+**Description:**
+
