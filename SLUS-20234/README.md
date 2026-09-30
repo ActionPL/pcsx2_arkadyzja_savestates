@@ -1,0 +1,20 @@
+**Game name:**
+
+MX Rider (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-20234
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A4F131D2973BDD262B442AE2512EBD20812B9563
+
+TRACK 01 MD5: 82C218DA13973F5A11503F7E68375B0B
+
+**Description:**
+
