@@ -1,0 +1,20 @@
+**Game name:**
+
+Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)
+
+**Game ID:**
+
+SLES-55122
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 34F63E78151CE9D9803AE198D132290D9B702954
+
+TRACK 01 MD5: 34141734DCA0F98FD335BEC6CAC6F320
+
+**Description:**
+
