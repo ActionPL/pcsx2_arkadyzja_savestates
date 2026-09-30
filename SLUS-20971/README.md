@@ -1,0 +1,20 @@
+**Game name:**
+
+Metal Slug 4 (USA)
+
+**Game ID:**
+
+SLUS-20971
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 00AC655C16531A839DF4EE9EF68A5EE8A05D0F07
+
+TRACK 01 MD5: 9BB64A9A1691F598236633A9B091FEA6
+
+**Description:**
+
