@@ -1,0 +1,20 @@
+**Game name:**
+
+MotoGP 4 (USA)
+
+**Game ID:**
+
+SLUS-21159
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 21E40602D6C72B2D25EB50BF7619667B64DF4D42
+
+TRACK 01 MD5: 9355597580C5B091661CD8C49CAD39DA
+
+**Description:**
+
