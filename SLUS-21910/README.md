@@ -1,0 +1,20 @@
+**Game name:**
+
+Marvel Super Hero Squad (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21910
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0B92301C22865D86117DD454FD0F649D133530C2
+
+TRACK 01 MD5: CADCE0ADD00903396577B5D53CFF1929
+
+**Description:**
+
