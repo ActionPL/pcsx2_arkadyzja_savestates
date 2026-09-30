@@ -1,0 +1,20 @@
+**Game name:**
+
+MX 2002 featuring Ricky Carmichael (USA)
+
+**Game ID:**
+
+SLUS-20072
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 025C1A6958F4E40987789A53B738F64569631FB6
+
+TRACK 01 MD5: 9380A103C223317EE723705880D34491
+
+**Description:**
+
