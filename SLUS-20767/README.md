@@ -1,0 +1,20 @@
+**Game name:**
+
+MX Unleashed (USA)
+
+**Game ID:**
+
+SLUS-20767
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 47F0B0F80400C9A42DE513CC40E1ED24553AA98B
+
+TRACK 01 MD5: E390D93E93A69FCDC439D62B337E4109
+
+**Description:**
+
