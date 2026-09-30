@@ -1,0 +1,20 @@
+**Game name:**
+
+Mushihimesama (Japan)
+
+**Game ID:**
+
+SLPM-66056
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2BD80CA3B6259417A444515AA8E2D44BE15D31D9
+
+TRACK 01 MD5: B4B6476E12E9F086BC6233F042937DEA
+
+**Description:**
+
