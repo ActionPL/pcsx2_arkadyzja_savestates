@@ -1,0 +1,20 @@
+**Game name:**
+
+Major League Baseball 2K11 (USA)
+
+**Game ID:**
+
+SLUS-21945
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7B27DAE7F13F541B1D0D861D118371CB81CAD76B
+
+TRACK 01 MD5: DF96F389BBBC294AE5199EAE3F94F7BC
+
+**Description:**
+
