@@ -1,0 +1,20 @@
+**Game name:**
+
+Metal Slug 5 (USA)
+
+**Game ID:**
+
+SLUS-20990
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 399C0B8210F24E22129E20AAF91EDD61FFE7F7A3
+
+TRACK 01 MD5: 06F1390D7E909E11C4DFEDA31E0DFC22
+
+**Description:**
+
