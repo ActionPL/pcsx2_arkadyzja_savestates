@@ -1,0 +1,20 @@
+**Game name:**
+
+Monopoly Party (USA)
+
+**Game ID:**
+
+SLUS-20348
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4A81FECDE5AC87823B88F7C28CC2C5D70A0577DD
+
+TRACK 01 MD5: 5A9AA91F08677DC699D697E4FBB4A484
+
+**Description:**
+
