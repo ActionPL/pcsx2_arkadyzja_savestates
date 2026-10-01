@@ -1,0 +1,20 @@
+**Game name:**
+
+Namco Museum 50th Anniversary (USA)
+
+**Game ID:**
+
+SLUS-20273
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 42CEDA699CC127B7F2265607738F57077D69BD34
+
+TRACK 01 MD5: F9B3BA7499D9260680A2FADCA9947888
+
+**Description:**
+
