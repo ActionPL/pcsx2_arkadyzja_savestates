@@ -1,0 +1,20 @@
+**Game name:**
+
+NASCAR 06 - Total Team Control (USA)
+
+**Game ID:**
+
+SLUS-21266
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C77E3F16D7C1D49C44A6245592A221E180B50D8A
+
+TRACK 01 MD5: 68488974CE8F30FCF611D5DC74301EAE
+
+**Description:**
+
