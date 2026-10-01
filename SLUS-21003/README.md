@@ -1,0 +1,20 @@
+**Game name:**
+
+NASCAR 2005 - Chase for the Cup (USA)
+
+**Game ID:**
+
+SLUS-21003
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C117F941F03808BACC0B3A64AA1F26B0CF1E0ED0
+
+TRACK 01 MD5: 81F02335C2B4E69F816217BA30C62FB5
+
+**Description:**
+
