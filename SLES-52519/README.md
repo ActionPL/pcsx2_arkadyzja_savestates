@@ -1,0 +1,20 @@
+**Game name:**
+
+Pink Pong (Europe)
+
+**Game ID:**
+
+SLES-52519
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 41453A5A53133F7C62280DFB6235151789D38723
+
+TRACK 01 MD5: DC9F4829CEDB89E753111D30E5D3C02A
+
+**Description:**
+
