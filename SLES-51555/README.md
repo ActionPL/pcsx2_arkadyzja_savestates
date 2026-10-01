@@ -1,0 +1,20 @@
+**Game name:**
+
+Pinball (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-51555
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4DCC4CA3499C5778D043B39775619F00010A4FFE
+
+TRACK 01 MD5: 0EB38082DFC7D3236EC134415E52EB90
+
+**Description:**
+
