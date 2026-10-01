@@ -1,0 +1,20 @@
+**Game name:**
+
+Petz - Catz 2 (USA)
+
+**Game ID:**
+
+SLUS-21675
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C95DECF6E2969E21E80C5EAD75A1BAE59434FBD1
+
+TRACK 01 MD5: F3B96158E973E8FC5AED82A04730DE3B
+
+**Description:**
+
