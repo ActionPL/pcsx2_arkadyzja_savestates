@@ -1,0 +1,20 @@
+**Game name:**
+
+Naruto - Ultimate Ninja 3 (USA)
+
+**Game ID:**
+
+SLUS-21727
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B7BFB12B781D0BD20C56AD0B6DA498A2AE9A5B21
+
+TRACK 01 MD5: BD25340DF0002CC5989CFB56005B6EFF
+
+**Description:**
+
