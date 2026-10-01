@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA Final Four 2002 (USA)
+
+**Game ID:**
+
+SCUS-97136
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E0A4E26D064A722290136618336FC866B6B64140
+
+TRACK 01 MD5: 99DCA71BDC1CFA33431CC0598D2546FC
+
+**Description:**
+
