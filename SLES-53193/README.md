@@ -1,0 +1,20 @@
+**Game name:**
+
+Puzzle Party (Europe)
+
+**Game ID:**
+
+SLES-53193
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 880CEEFEA51F5B1758A68CB77651146C04DAA574
+
+TRACK 01 MD5: 526BD68AC524D056148FED35D300B344
+
+**Description:**
+
