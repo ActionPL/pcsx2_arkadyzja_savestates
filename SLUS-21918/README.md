@@ -1,0 +1,20 @@
+**Game name:**
+
+PES 2010 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)
+
+**Game ID:**
+
+SLUS-21918
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6596F6359CE3CCF73C713D45F117FEE1A74A5548
+
+TRACK 01 MD5: 298AD8520C82F4EDBAACB3194BC46D5C
+
+**Description:**
+
