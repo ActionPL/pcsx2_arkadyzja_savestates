@@ -1,0 +1,20 @@
+**Game name:**
+
+NFL GameDay 2002 (USA)
+
+**Game ID:**
+
+SCUS-97131
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 89708D2F58FBC280D51142D9D961998958F7E56C
+
+TRACK 01 MD5: DDA4286E0A88E8A813FA693D9852F02D
+
+**Description:**
+
