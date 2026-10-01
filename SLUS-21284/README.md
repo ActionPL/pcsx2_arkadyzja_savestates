@@ -1,0 +1,20 @@
+**Game name:**
+
+Nicktoons Unite! (USA)
+
+**Game ID:**
+
+SLUS-21284
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 97BC5B87ABD3C79963B2B4AAA258AD39B8D6354B
+
+TRACK 01 MD5: DCBEE7D99C8DB110E8D5D3CE87D45AE3
+
+**Description:**
+
