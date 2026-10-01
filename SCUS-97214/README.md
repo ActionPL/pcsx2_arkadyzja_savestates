@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA GameBreaker 2003 (USA)
+
+**Game ID:**
+
+SCUS-97214
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DDE117B4F66C23E60166B2DC7AB5456AC84149FA
+
+TRACK 01 MD5: A2BC9C301E44CE3CAC9AE9085B6E1A69
+
+**Description:**
+
