@@ -1,0 +1,20 @@
+**Game name:**
+
+Puyo Pop Fever (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-51951
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 49D4715A0C9559F70BCC0E7CFC9AE4EC68E2D8EA
+
+TRACK 01 MD5: 01D7D6131D28850E883E3240220ADA92
+
+**Description:**
+
