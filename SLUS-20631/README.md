@@ -1,0 +1,20 @@
+**Game name:**
+
+NFL Blitz Pro (USA)
+
+**Game ID:**
+
+SLUS-20631
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 659A7060F1839A5071D62242089FDABC5AC83147
+
+TRACK 01 MD5: 9EB07E490F81CB17B01907E34325F465
+
+**Description:**
+
