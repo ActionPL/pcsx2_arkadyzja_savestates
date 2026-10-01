@@ -1,0 +1,20 @@
+**Game name:**
+
+Obscure - The Aftermath (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21709
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9046F420D54C2C40218506B9EFCFEF1DF2B7AC8A
+
+TRACK 01 MD5: 762BB983015DAD66E07AD4495D7A0EC5
+
+**Description:**
+
