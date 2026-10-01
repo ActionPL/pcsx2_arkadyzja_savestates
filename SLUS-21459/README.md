@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA Football 07 (USA)
+
+**Game ID:**
+
+SLUS-21459
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A543A5B15DC273CE742C665985B9095334716BAC
+
+TRACK 01 MD5: 75BC269276D392674F27BB08021D0462
+
+**Description:**
+
