@@ -1,0 +1,20 @@
+**Game name:**
+
+NFL GameDay 2001 (USA)
+
+**Game ID:**
+
+SCUS-97106
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 36006106861AA56BFE4F2E973708B1D5237F2EB3
+
+TRACK 01 MD5: 9695AF57F6435A3C6CAA0CC31B2CF9FD
+
+**Description:**
+
