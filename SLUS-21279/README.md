@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Live 06 (USA)
+
+**Game ID:**
+
+SLUS-21279
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8BDC27DA4D1C1314F1E369C925EBB11012B2EE52
+
+TRACK 01 MD5: 407A8F1E11C1684A2C1485BF82B116CA
+
+**Description:**
+
