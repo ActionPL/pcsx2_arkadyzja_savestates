@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL 07 (USA)
+
+**Game ID:**
+
+SLUS-21458
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9E0087D3ADAD39215FC9275A731BCD918849D9BF
+
+TRACK 01 MD5: 89A9F08795B73550C870E7EB87C71EC6
+
+**Description:**
+
