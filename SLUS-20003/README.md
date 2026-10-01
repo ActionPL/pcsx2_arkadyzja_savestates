@@ -1,0 +1,20 @@
+**Game name:**
+
+Portal Runner (USA)
+
+**Game ID:**
+
+SLUS-20003
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E8423A789C228E279B2A772F676CC93DC023DA52
+
+TRACK 01 MD5: 0BFB024D6291B7219226C0A253AE4FC0
+
+**Description:**
+
