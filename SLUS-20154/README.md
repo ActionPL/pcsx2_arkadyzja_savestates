@@ -1,0 +1,20 @@
+**Game name:**
+
+NFL QB Club 2002 (USA)
+
+**Game ID:**
+
+SLUS-20154
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7F9244D37C9DE7436BDB5FF842A2433A1E2CF021
+
+TRACK 01 MD5: AF916F394BEA4E259391648EF4564527
+
+**Description:**
+
