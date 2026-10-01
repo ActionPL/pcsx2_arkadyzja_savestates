@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA Final Four 2004 (USA)
+
+**Game ID:**
+
+SCUS-97278
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 432510961225C8E201BAB58992EACA8C70A0D2AA
+
+TRACK 01 MD5: D5EF0A63720B409007E15F542F4EDA84
+
+**Description:**
+
