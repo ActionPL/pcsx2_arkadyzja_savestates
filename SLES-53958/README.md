@@ -1,0 +1,20 @@
+**Game name:**
+
+Noble Racing (Europe)
+
+**Game ID:**
+
+SLES-53958
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 81FB8C139C89F069F4C56BEAE160FB85973C93FB
+
+TRACK 01 MD5: 49FCC694B179478BD8EFB454FF1E6785
+
+**Description:**
+
