@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL 09 (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-21771
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 00560E5405F67241A8017948F3688A4F49E195DC
+
+TRACK 01 MD5: C0A9CA90CC215FF5A7C1404E93D90C00
+
+**Description:**
+
