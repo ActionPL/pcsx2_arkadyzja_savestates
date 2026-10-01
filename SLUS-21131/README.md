@@ -1,0 +1,20 @@
+**Game name:**
+
+Pump It Up - Exceed (USA)
+
+**Game ID:**
+
+SLUS-21131
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A1CA9D2BDBE3732929FAA493C01DEAEE64EB8AF0
+
+TRACK 01 MD5: 2D14407343EB118D4F7369FA43B4B7CD
+
+**Description:**
+
