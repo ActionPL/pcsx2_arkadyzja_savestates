@@ -1,0 +1,20 @@
+**Game name:**
+
+Outlaw Golf 2 (USA)
+
+**Game ID:**
+
+SLUS-21030
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AC604926909888B13E79D14F26E3CE61649C1502
+
+TRACK 01 MD5: 2EAD65AED8A1E9C71FE3896F7E4C5547
+
+**Description:**
+
