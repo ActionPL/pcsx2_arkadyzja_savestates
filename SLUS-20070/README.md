@@ -1,0 +1,20 @@
+**Game name:**
+
+Q-Ball - Billiards Master (USA)
+
+**Game ID:**
+
+SLUS-20070
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5C2F9B795E6E83800BCC64B54A4170E758CC07E5
+
+TRACK 01 MD5: 2BA301DD4AF443700693BBC8307C6A91
+
+**Description:**
+
