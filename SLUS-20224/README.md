@@ -1,0 +1,20 @@
+**Game name:**
+
+Pac-Man World 2 (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-20224
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 56C69AE504AF5E538B1A5CE0A52EE659A2E11CC8
+
+TRACK 01 MD5: A00A39461B6FE2580CEB7AF4E5048D2D
+
+**Description:**
+
