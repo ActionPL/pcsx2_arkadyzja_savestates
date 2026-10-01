@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA March Madness 2002 (USA)
+
+**Game ID:**
+
+SLUS-20332
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A86953FDF7C42B9D976462A9C156169B4FEBD51B
+
+TRACK 01 MD5: CE267E25D023CA6152A60257C0DF236B
+
+**Description:**
+
