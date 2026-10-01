@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Live 2001 (USA)
+
+**Game ID:**
+
+SLUS-20102
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A35E1A7551A0EFBEDC436D1AE5CC6D19425B3820
+
+TRACK 01 MD5: 9F2A408628A755A95874DA74655B1538
+
+**Description:**
+
