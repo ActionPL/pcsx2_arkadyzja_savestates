@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL 08 (USA)
+
+**Game ID:**
+
+SLUS-21647
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 76DCFA86EC9D187ACAFB79E547994FDEA1A5F477
+
+TRACK 01 MD5: C26D475DCCEFB0516563D448748D3111
+
+**Description:**
+
