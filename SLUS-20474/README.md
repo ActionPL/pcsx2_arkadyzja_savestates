@@ -1,0 +1,20 @@
+**Game name:**
+
+NFL Blitz 2003 (USA)
+
+**Game ID:**
+
+SLUS-20474
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EF90F5C7D3E3CF3865E0CB60CCF966417C410395
+
+TRACK 01 MD5: 7A1759C9C90362842CFD0830AF011716
+
+**Description:**
+
