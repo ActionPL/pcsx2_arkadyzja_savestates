@@ -1,0 +1,20 @@
+**Game name:**
+
+Pro Rally 2002 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-50637
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 993557478A7F0A9AA2BE1456EE5DE19C1EC0992B
+
+TRACK 01 MD5: 557AB8246510CC04A2E417154DA3A68C
+
+**Description:**
+
