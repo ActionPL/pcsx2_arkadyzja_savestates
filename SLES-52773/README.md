@@ -1,0 +1,20 @@
+**Game name:**
+
+Pool Shark 2 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-52773
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 94AFA226847AB3D2AC66E9839AA7C39149B80FC5
+
+TRACK 01 MD5: 2F4D381F6FBBB5945C03EF48059CB078
+
+**Description:**
+
