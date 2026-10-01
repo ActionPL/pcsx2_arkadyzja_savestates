@@ -1,0 +1,20 @@
+**Game name:**
+
+OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21274
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C4F9D45EDA9FDCB6A5DB8524AF206C2DE3ABCBEB
+
+TRACK 01 MD5: FD0F196594FD5C6F9C1C163DA0A7681E
+
+**Description:**
+
