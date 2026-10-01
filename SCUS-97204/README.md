@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA Final Four 2003 (USA)
+
+**Game ID:**
+
+SCUS-97204
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 991F0B1D8D451EBD7F37D2BDD6624BACA929FA30
+
+TRACK 01 MD5: 72128E4C1CA4D1216C66FE8A578BE6E8
+
+**Description:**
+
