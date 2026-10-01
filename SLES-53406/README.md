@@ -1,0 +1,20 @@
+**Game name:**
+
+Party Girls (Europe)
+
+**Game ID:**
+
+SLES-53406
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3DE79DCAE5D2C2FF3BE5E35FB6BD89B1962862EC
+
+TRACK 01 MD5: 9CE49FF3B2C8194696F4864EF5CB5972
+
+**Description:**
+
