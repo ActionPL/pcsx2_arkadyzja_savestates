@@ -1,0 +1,20 @@
+**Game name:**
+
+Naruto - Ultimate Ninja (USA)
+
+**Game ID:**
+
+SLUS-21358
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 575C350E20CFEFC6DE9100E50C5EBC8F387D515C
+
+TRACK 01 MD5: 4EFAD49490663B31B74A32F6E4E85D56
+
+**Description:**
+
