@@ -1,0 +1,20 @@
+**Game name:**
+
+PopCap Hits! Vol. 2 (USA)
+
+**Game ID:**
+
+SLUS-21768
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6C1F0230CD486A996E5F633061FBC92C159C1BDA
+
+TRACK 01 MD5: 03E2DA86F9316AF4DAE539B407E44A3A
+
+**Description:**
+
