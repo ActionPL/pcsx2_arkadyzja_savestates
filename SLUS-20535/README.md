@@ -1,0 +1,20 @@
+**Game name:**
+
+NASCAR Thunder 2003 (USA)
+
+**Game ID:**
+
+SLUS-20535
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6381BF11CCFBFB16817CFDC520DB9C0C083AEEFA
+
+TRACK 01 MD5: ACED857F4C20B22C651F9CE784E89827
+
+**Description:**
+
