@@ -1,0 +1,20 @@
+**Game name:**
+
+Petz - Dogz 2 (USA)
+
+**Game ID:**
+
+SLUS-21674
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A9E42029D2EA76732F176176214964449E8F8342
+
+TRACK 01 MD5: E9391C56692CB4A9E173EDE090CB60B4
+
+**Description:**
+
