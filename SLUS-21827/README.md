@@ -1,0 +1,20 @@
+**Game name:**
+
+PopStar Guitar (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-21827
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 88AD20D6EA5F00FEFCB2C216ED6298D06D5087A7
+
+TRACK 01 MD5: 987E63FFF5A57E42448FC7005641C836
+
+**Description:**
+
