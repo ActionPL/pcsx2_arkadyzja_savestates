@@ -1,0 +1,20 @@
+**Game name:**
+
+Psychic Force Complete (Japan)
+
+**Game ID:**
+
+SLPM-66235
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9F6B6B315A30B15BEE3C782D7A3639D16121588F
+
+TRACK 01 MD5: 04AC739BE22A643C29A7E6917F8EA389
+
+**Description:**
+
