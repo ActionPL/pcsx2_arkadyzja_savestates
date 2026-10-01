@@ -1,0 +1,20 @@
+**Game name:**
+
+NYR - New York Race (Europe) (En,Fr,De,Es,It,Pt)
+
+**Game ID:**
+
+SLES-50556
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 723DA7317A445BD9E61A186D6160F08E05FB68E7
+
+TRACK 01 MD5: F70A0CD50A5CC9B07BC3A6B2083C37CC
+
+**Description:**
+
