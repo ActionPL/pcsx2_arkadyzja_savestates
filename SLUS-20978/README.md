@@ -1,0 +1,20 @@
+**Game name:**
+
+Power Drome (USA)
+
+**Game ID:**
+
+SLUS-20978
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 40342AE64AC51B5208FA23EF38916A8A37BD8BB5
+
+TRACK 01 MD5: F500610518CE9D76BEE10596633090AE
+
+**Description:**
+
