@@ -1,0 +1,20 @@
+**Game name:**
+
+Party Carnival (Europe)
+
+**Game ID:**
+
+SLES-54458
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DF15B118786AC03B0E0B305675D4923A004775FF
+
+TRACK 01 MD5: 4AB1E17CD3C28886C5818BD03D84C9A9
+
+**Description:**
+
