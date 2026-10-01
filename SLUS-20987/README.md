@@ -1,0 +1,20 @@
+**Game name:**
+
+Pool Paradise (USA)
+
+**Game ID:**
+
+SLUS-20987
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 681F2FC0352DCA3DF0DBCFDC2D2C393ECB23C248
+
+TRACK 01 MD5: 0AE4B6E729436BB5F48E9B7BBE3E0E4A
+
+**Description:**
+
