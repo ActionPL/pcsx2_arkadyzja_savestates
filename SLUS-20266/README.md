@@ -1,0 +1,20 @@
+**Game name:**
+
+NASCAR Thunder 2002 (USA)
+
+**Game ID:**
+
+SLUS-20266
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 80AE9162728E4847A0D1BD4EB1CBF8166FEC2685
+
+TRACK 01 MD5: 954F5D07E71BE0AB489466E35003936C
+
+**Description:**
+
