@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Starting Five (USA)
+
+**Game ID:**
+
+SLUS-20513
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4B5CE0038F3F904AD553F7B4438D6629E43C0E29
+
+TRACK 01 MD5: F702E1581C864505D75AA8B7F54D4151
+
+**Description:**
+
