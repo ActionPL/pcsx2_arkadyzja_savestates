@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Live 07 (USA)
+
+**Game ID:**
+
+SLUS-21460
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F3BEF435C999D5BECEBD7C6D6BDAAB3EBC88248
+
+TRACK 01 MD5: 4D7516955E7A72070D80AB018668B9FA
+
+**Description:**
+
