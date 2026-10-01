@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA ShootOut 2004 (USA)
+
+**Game ID:**
+
+SCUS-97318
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8C9AE2C317C04D31A086D63FE9BAF4FA9F2D7355
+
+TRACK 01 MD5: BDE7E300D27E459B8514A9EB962FF786
+
+**Description:**
+
