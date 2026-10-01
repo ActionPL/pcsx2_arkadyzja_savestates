@@ -1,0 +1,20 @@
+**Game name:**
+
+Open Season (USA)
+
+**Game ID:**
+
+SLUS-21467
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 06D49D31F99CDAAD80FF4C4743A44A9B8F70C998
+
+TRACK 01 MD5: CAACB3E3FD4FDA5C8106213D1570CA50
+
+**Description:**
+
