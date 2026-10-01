@@ -1,0 +1,20 @@
+**Game name:**
+
+Plan, The (USA)
+
+**Game ID:**
+
+SLUS-21466
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6ED3B9D444E5F9ACD61CA3A687B52E43844ED505
+
+TRACK 01 MD5: 04270C7FA5C3EC3735AA41B292B445C2
+
+**Description:**
+
