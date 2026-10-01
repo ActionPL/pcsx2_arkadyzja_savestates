@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL FaceOff 2001 (USA)
+
+**Game ID:**
+
+SCUS-97110
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9E8C6829ED6BE543983BB4DF1FAC8F901F50AC42
+
+TRACK 01 MD5: BD068E01DC8DC1FB7409C95B9DCCAB9C
+
+**Description:**
+
