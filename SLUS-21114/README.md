@@ -1,0 +1,20 @@
+**Game name:**
+
+NHRA Championship Drag Racing (USA)
+
+**Game ID:**
+
+SLUS-21114
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CA8FB08AAAA446A51BEDD9CFB0546F7B02EEF9A0
+
+TRACK 01 MD5: 42BA17E26798C65615F036BBF0B91A9B
+
+**Description:**
+
