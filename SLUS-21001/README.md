@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL 2005 (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21001
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FA517B62BA57F187965043934C603370D75B72AB
+
+TRACK 01 MD5: 215BAEA56F952882B780326068AB0836
+
+**Description:**
+
