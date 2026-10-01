@@ -1,0 +1,20 @@
+**Game name:**
+
+NASCAR - Dirt to Daytona (USA)
+
+**Game ID:**
+
+SLUS-20441
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 83BE3F7F27F4521C68AE464644F5AAD91585D5CB
+
+TRACK 01 MD5: 0C1391C150DDF3DCB97D1B79026DBC3C
+
+**Description:**
+
