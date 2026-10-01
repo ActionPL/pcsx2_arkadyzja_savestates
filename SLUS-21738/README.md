@@ -1,0 +1,20 @@
+**Game name:**
+
+Nitrobike (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21738
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BDACFB5341F62CC13A05E49F9F2FF485A85BD3AB
+
+TRACK 01 MD5: 5AEF23C2872A217315B5ED54B28ADBBE
+
+**Description:**
+
