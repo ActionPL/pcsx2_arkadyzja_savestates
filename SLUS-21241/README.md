@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL 06 (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21241
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 38B33A38AC7C626597C61CC834E9E2987D94588E
+
+TRACK 01 MD5: 2E3A7D4D7E2393911D1DE435D3BF2DE4
+
+**Description:**
+
