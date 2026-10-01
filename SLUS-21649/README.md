@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Live 08 (USA)
+
+**Game ID:**
+
+SLUS-21649
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 49E1A1969CC64927FAAB127ECDEE7C45FF4534A9
+
+TRACK 01 MD5: 4A820B6ABE12F102314A4DA5B840B357
+
+**Description:**
+
