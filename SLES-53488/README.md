@@ -1,0 +1,20 @@
+**Game name:**
+
+Puzzle Maniacs (Europe)
+
+**Game ID:**
+
+SLES-53488
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 762D710F2443D8623B6390292A263EDF34B10436
+
+TRACK 01 MD5: E6D04AD62449527ECFF528C57A812710
+
+**Description:**
+
