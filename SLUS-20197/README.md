@@ -1,0 +1,20 @@
+**Game name:**
+
+Pac-Man Fever (USA)
+
+**Game ID:**
+
+SLUS-20197
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B54CEEE02570C62A50467B94DCB7EBF00BCAD779
+
+TRACK 01 MD5: 1901428D1D4FDD63C12136FF7737A661
+
+**Description:**
+
