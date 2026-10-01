@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA 07 featuring the Life Vol. 2 (USA)
+
+**Game ID:**
+
+SCUS-97544
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2EFA8C6AD7DD98379A31E27F805D029B898E2DC8
+
+TRACK 01 MD5: A026F6DDB2B6B45DCB0A8D79C5D8C417
+
+**Description:**
+
