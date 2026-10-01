@@ -1,0 +1,20 @@
+**Game name:**
+
+PES 2012 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)
+
+**Game ID:**
+
+SLUS-21948
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FADB5D574F6860376431EA0E17E1828E924E3129
+
+TRACK 01 MD5: B2D139590F169442A46D21ED2F8558AB
+
+**Description:**
+
