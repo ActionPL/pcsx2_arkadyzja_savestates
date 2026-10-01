@@ -1,0 +1,20 @@
+**Game name:**
+
+Outlaw Golf (Europe) (En,Fr,De)
+
+**Game ID:**
+
+SLES-51926
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EB12B3559C24D6ACA87C7F08489F6809F9B893CF
+
+TRACK 01 MD5: 79EECCFCDC485E424479A79F60086367
+
+**Description:**
+
