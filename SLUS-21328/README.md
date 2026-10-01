@@ -1,0 +1,20 @@
+**Game name:**
+
+Pac-Man World Rally (USA)
+
+**Game ID:**
+
+SLUS-21328
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 23A301D2F29177A70BF9A5A9E917CB922E74EE9D
+
+TRACK 01 MD5: 2CBAB6579A3D0778EF9CD61AE4137CCA
+
+**Description:**
+
