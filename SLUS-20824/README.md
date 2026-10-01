@@ -1,0 +1,20 @@
+**Game name:**
+
+NASCAR Thunder 2004 (USA)
+
+**Game ID:**
+
+SLUS-20824
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 37868C884043540C417588DAEACE4A4C2513245D
+
+TRACK 01 MD5: BB9CC312A9D56046591D47B823237FE6
+
+**Description:**
+
