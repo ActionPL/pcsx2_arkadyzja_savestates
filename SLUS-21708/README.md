@@ -1,0 +1,20 @@
+**Game name:**
+
+NeoGeo Battle Coliseum (USA)
+
+**Game ID:**
+
+SLUS-21708
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8158FC48B732C596D4CAAE3D91C65EE5C65ACA4
+
+TRACK 01 MD5: A6CEF0D374C375394FBD2AB2E36672CF
+
+**Description:**
+
