@@ -1,0 +1,20 @@
+**Game name:**
+
+NRA Gun Club (USA)
+
+**Game ID:**
+
+SLUS-21432
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AD023495146BA3FA523365918E6D5FEA6DEA150C
+
+TRACK 01 MD5: 5B49E492F144ADC38E45BE65AD61F831
+
+**Description:**
+
