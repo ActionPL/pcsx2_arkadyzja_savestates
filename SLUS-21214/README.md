@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA Football 06 (USA)
+
+**Game ID:**
+
+SLUS-21214
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 823B48896CD1B3F4B0C2A3E1B5B681D2B1CA4740
+
+TRACK 01 MD5: 1F8AB12AD63393B537FA9AE4EE5A8593
+
+**Description:**
+
