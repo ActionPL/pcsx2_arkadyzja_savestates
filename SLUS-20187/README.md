@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Street (USA)
+
+**Game ID:**
+
+SLUS-20187
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F649EE30AF81D66F2F137E03FA598433BB39A958
+
+TRACK 01 MD5: 4771BF7C85832B0FEF2B5658BA2CB7D1
+
+**Description:**
+
