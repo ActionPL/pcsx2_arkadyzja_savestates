@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL Hitz 2002 (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-20140
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 485A4B1A06ACD6E50DEDA8D9551C6436622F0205
+
+TRACK 01 MD5: 58A2E3CE09B965B1070D912B7BD4CD53
+
+**Description:**
+
