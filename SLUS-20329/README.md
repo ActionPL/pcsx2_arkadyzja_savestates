@@ -1,0 +1,20 @@
+**Game name:**
+
+Pro Race Driver (USA)
+
+**Game ID:**
+
+SLUS-20329
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B56E54672C3128BEC21C1FCE01FE69AE620D92AF
+
+TRACK 01 MD5: 20D71D08DC16D2DBE754859AA1256B5F
+
+**Description:**
+
