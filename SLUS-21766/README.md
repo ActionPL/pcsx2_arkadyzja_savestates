@@ -1,0 +1,20 @@
+**Game name:**
+
+Pipe Mania (USA)
+
+**Game ID:**
+
+SLUS-21766
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 77CEF6A175282A80E2CA5E343D701D82B8ABC8AC
+
+TRACK 01 MD5: F69A4B15FA9FC14EA5E60F82AB9024D4
+
+**Description:**
+
