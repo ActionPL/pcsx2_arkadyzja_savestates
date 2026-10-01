@@ -1,0 +1,20 @@
+**Game name:**
+
+Naruto - Ultimate Ninja 2 (USA)
+
+**Game ID:**
+
+SLUS-21575
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 46C6FE07FCD85A8E7D543E171CD1EBD4FEB63C9E
+
+TRACK 01 MD5: 4DB7CB553F1EF3D5E60B6B0B350494F0
+
+**Description:**
+
