@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA GameBreaker 2004 (USA)
+
+**Game ID:**
+
+SCUS-97277
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4A9D6BF294C9957F2BD15913316F39D668E4F724
+
+TRACK 01 MD5: 073D0CFE6AE8F822C3517DA195F6F8C7
+
+**Description:**
+
