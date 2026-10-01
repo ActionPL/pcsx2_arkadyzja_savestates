@@ -1,0 +1,20 @@
+**Game name:**
+
+PES 2013 - Pro Evolution Soccer (USA) (En,Fr,Es,Pt)
+
+**Game ID:**
+
+SLUS-21955
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ABBB997DD7B412ED128CA3A2BD178509C5281875
+
+TRACK 01 MD5: 491A3F6A39CE290DE2F6DBB9BA98575F
+
+**Description:**
+
