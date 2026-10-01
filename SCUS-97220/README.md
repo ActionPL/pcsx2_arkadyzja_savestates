@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL FaceOff 2003 (USA)
+
+**Game ID:**
+
+SCUS-97220
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BF2090D43B32B101A3CF070600EE70896845BE90
+
+TRACK 01 MD5: 47F2D670A17F3DE833383C305E0D4AD0
+
+**Description:**
+
