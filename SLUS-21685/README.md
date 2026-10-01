@@ -1,0 +1,20 @@
+**Game name:**
+
+PES 2008 - Pro Evolution Soccer (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21685
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A7D44E1DCD43B21A5CB86158B4B22CB8C4236AE1
+
+TRACK 01 MD5: AEFB1DCD1281DAA1B76994E40625A841
+
+**Description:**
+
