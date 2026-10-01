@@ -1,0 +1,20 @@
+**Game name:**
+
+PDC World Championship Darts (USA)
+
+**Game ID:**
+
+SLUS-21773
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E637B0C29B6B307CC80C78F2785AAE4A3846791C
+
+TRACK 01 MD5: 8B3A11D40AC6593C4570007D5ABA3807
+
+**Description:**
+
