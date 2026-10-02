@@ -1,0 +1,20 @@
+**Game name:**
+
+Robot Warlords (Europe)
+
+**Game ID:**
+
+SLES-50136
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3B71E03DA9F531CC3EC4476293292AC01399EE7B
+
+TRACK 01 MD5: A1A2A5E4B12585FF1598BA2E48EA269D
+
+**Description:**
+
