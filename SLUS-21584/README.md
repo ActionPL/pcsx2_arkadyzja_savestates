@@ -1,0 +1,20 @@
+**Game name:**
+
+Romance of the Three Kingdoms XI (USA)
+
+**Game ID:**
+
+SLUS-21584
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BB2BDEBB90A492D88FC74258E7024D59BC7DA2D9
+
+TRACK 01 MD5: 844572C820B534669A0531255DFFB35C
+
+**Description:**
+
