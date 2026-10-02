@@ -1,0 +1,20 @@
+**Game name:**
+
+Rune - Viking Warlord (USA)
+
+**Game ID:**
+
+SLUS-20109
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 251CE09CB2EFCEC3D8D2C210606F4C8E6D070A3B
+
+TRACK 01 MD5: 07A67F718F72700AAC998BFBDE0B3853
+
+**Description:**
+
