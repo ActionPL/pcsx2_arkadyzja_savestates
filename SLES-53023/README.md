@@ -1,0 +1,20 @@
+**Game name:**
+
+RTL Skispringen 2005 (Germany) (En,De)
+
+**Game ID:**
+
+SLES-53023
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0C849CA18F4A202873ABCB0661C210933098BFDB
+
+TRACK 01 MD5: EF034D94EADEE98AB9F81FEE860B4F4E
+
+**Description:**
+
