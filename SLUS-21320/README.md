@@ -1,0 +1,20 @@
+**Game name:**
+
+Rogue Trooper (USA)
+
+**Game ID:**
+
+SLUS-21320
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 811DF44541179EC2DCD2D8E4E16BC13EF1AD2057
+
+TRACK 01 MD5: 18EC732AE85AECD5A4A8E8B2B2731029
+
+**Description:**
+
