@@ -1,0 +1,20 @@
+**Game name:**
+
+Romance of the Three Kingdoms VIII (USA)
+
+**Game ID:**
+
+SLUS-20720
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6E277C84682D2EC0D94946E56307AB114BE48774
+
+TRACK 01 MD5: 7860BCE258277E598072CC707985D53F
+
+**Description:**
+
