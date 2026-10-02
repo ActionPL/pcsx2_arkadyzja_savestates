@@ -1,0 +1,20 @@
+**Game name:**
+
+RTL Skispringen 2003 (Germany) (En,De)
+
+**Game ID:**
+
+SLES-51391
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B36922DE27274F29FE629DB5A784808E067D4D8D
+
+TRACK 01 MD5: C67824D6CB152D6193A352AD1760899B
+
+**Description:**
+
