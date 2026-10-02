@@ -1,0 +1,20 @@
+**Game name:**
+
+Robotech - Invasion (USA)
+
+**Game ID:**
+
+SLUS-20823
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 94250D9DA74D0F865532BF500856B9F169A8A547
+
+TRACK 01 MD5: 630DC5D3715D4096E84DF58B07446742
+
+**Description:**
+
