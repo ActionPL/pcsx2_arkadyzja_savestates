@@ -1,0 +1,20 @@
+**Game name:**
+
+Real Pool (USA)
+
+**Game ID:**
+
+SLUS-20032
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3A6669EFE39DB0BDA8CC09DBCBE7350B213AF95D
+
+TRACK 01 MD5: C1974C090B994CBD132431C54B8D0E68
+
+**Description:**
+
