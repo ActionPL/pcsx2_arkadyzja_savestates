@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby 06 (USA)
+
+**Game ID:**
+
+SLUS-21368
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 10661CD02DEFEE28CCFF4A7C8AA54D81BBD7407D
+
+TRACK 01 MD5: D99E5E0A935039C9D1935CC738A0F6AD
+
+**Description:**
+
