@@ -1,0 +1,20 @@
+**Game name:**
+
+RTL Winter Games 2007 (Germany) (En,De)
+
+**Game ID:**
+
+SLES-54374
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5534F14E994DE2688EFFB2AB64CC0C5FD1333494
+
+TRACK 01 MD5: DE03379ABDC8CD15FDAC43F94036C79F
+
+**Description:**
+
