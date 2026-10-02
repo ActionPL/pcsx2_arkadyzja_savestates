@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby 2004 (USA)
+
+**Game ID:**
+
+SLUS-20749
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AD53F631E2A3D840193582F2EDA2A7A465DFB0F0
+
+TRACK 01 MD5: 57DF03B562B6265669DF13DE40D2E6F0
+
+**Description:**
+
