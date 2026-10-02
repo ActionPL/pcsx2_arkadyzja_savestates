@@ -1,0 +1,20 @@
+**Game name:**
+
+Robotech - Battlecry (USA)
+
+**Game ID:**
+
+SLUS-20244
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9E61730317A17099AE3255A433C857CB866A0CA8
+
+TRACK 01 MD5: D1E07A079602D7853E818D36819EB693
+
+**Description:**
+
