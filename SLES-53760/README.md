@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby Challenge 2006 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-53760
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D06C577EA1AE0DD0B35EB31D46884272D9B7A19C
+
+TRACK 01 MD5: CF0C1F6E1C9A267D55F4AC1D6B30B423
+
+**Description:**
+
