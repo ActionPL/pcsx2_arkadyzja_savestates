@@ -1,0 +1,20 @@
+**Game name:**
+
+Rayman - Raving Rabbids (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21576
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0287E0C43F481A7189B010378A74F49F6F684EA6
+
+TRACK 01 MD5: EA15A3D393229A5CA9D97ED30428AFEF
+
+**Description:**
+
