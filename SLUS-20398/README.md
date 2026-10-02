@@ -1,0 +1,20 @@
+**Game name:**
+
+Road Trip (USA)
+
+**Game ID:**
+
+SLUS-20398
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3DB60FB071F32958817211A7D348E5ABA827F2B1
+
+TRACK 01 MD5: E1598A1A2B1A296DBEAE90927172D52A
+
+**Description:**
+
