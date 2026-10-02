@@ -1,0 +1,20 @@
+**Game name:**
+
+Red Dead Revolver (USA)
+
+**Game ID:**
+
+SLUS-20500
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E21B4BBB03F67C8F0FFADF6635B504E77B5F987F
+
+TRACK 01 MD5: B68142ED452436319BFF1A2CC80FA697
+
+**Description:**
+
