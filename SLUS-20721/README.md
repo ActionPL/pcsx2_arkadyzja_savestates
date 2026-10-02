@@ -1,0 +1,20 @@
+**Game name:**
+
+R-Racing Evolution (USA)
+
+**Game ID:**
+
+SLUS-20721
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3FEE378BA3281D62E97D1F0816B31CDA620B9BE9
+
+TRACK 01 MD5: 32EA5B870A322F015BF77209BCD80484
+
+**Description:**
+
