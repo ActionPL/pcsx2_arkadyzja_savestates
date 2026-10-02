@@ -1,0 +1,20 @@
+**Game name:**
+
+Ribbit King (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-20837
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 13EE083B2AA358DD7D3B24902E5EE9EAD74D7F81
+
+TRACK 01 MD5: 3ED38B2AB1BC6C5DA4AC69E39B539D7D
+
+**Description:**
+
