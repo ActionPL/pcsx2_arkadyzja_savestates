@@ -1,0 +1,20 @@
+**Game name:**
+
+RTL Biathlon 2008 (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21711
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A5F5224C95AC38B344881358B8D56E49406833FE
+
+TRACK 01 MD5: 38DF028A7F070F8A9979B304CF0782DE
+
+**Description:**
+
