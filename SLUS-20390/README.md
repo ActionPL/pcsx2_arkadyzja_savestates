@@ -1,0 +1,20 @@
+**Game name:**
+
+Risk - Global Domination (USA)
+
+**Game ID:**
+
+SLUS-20390
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D34FCDB5B1C7F0436F4CD551B2C135CCADA56A62
+
+TRACK 01 MD5: A635C664571AFD6F53C0A19173984C07
+
+**Description:**
+
