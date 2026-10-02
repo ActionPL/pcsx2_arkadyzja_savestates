@@ -1,0 +1,20 @@
+**Game name:**
+
+Ratchet & Clank - Size Matters (USA)
+
+**Game ID:**
+
+SCUS-97615
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AE80744FA88F8069BA31BEE768F7BB3F5C255FDA
+
+TRACK 01 MD5: 0A5F0875BDC609F4726A19DF0FE6BB7B
+
+**Description:**
+
