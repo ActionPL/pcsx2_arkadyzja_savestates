@@ -1,0 +1,20 @@
+**Game name:**
+
+Rumble Fish, The (Japan)
+
+**Game ID:**
+
+SLPM-65919
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 86A7498C8EF00A567FE5EEA30188B8648CAE9743
+
+TRACK 01 MD5: 22D1D73F18A26969E0D1583DF22943A0
+
+**Description:**
+
