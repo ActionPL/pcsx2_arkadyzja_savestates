@@ -1,0 +1,20 @@
+**Game name:**
+
+Road Rage 3 (Europe)
+
+**Game ID:**
+
+SLES-51930
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 53EFAA6CD333139AE11D0F87DD0E90E516812DAC
+
+TRACK 01 MD5: A2F95551ED0BCA4F00C55714C7CBFC95
+
+**Description:**
+
