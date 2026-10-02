@@ -1,0 +1,20 @@
+**Game name:**
+
+RC Revenge Pro (USA)
+
+**Game ID:**
+
+SLUS-20153
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 03C8FE81BBA197C5595F4F309D90DDC4CF336435
+
+TRACK 01 MD5: 9AA1BE8951F7E2D5979C68D7CDC12847
+
+**Description:**
+
