@@ -1,0 +1,20 @@
+**Game name:**
+
+Red Star, The (USA)
+
+**Game ID:**
+
+SLUS-20885
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 68D110786F4F7754242F110B15B8D75D55D1E42B
+
+TRACK 01 MD5: 69889C88D5624FEAF83B9009A056BDCB
+
+**Description:**
+
