@@ -1,0 +1,20 @@
+**Game name:**
+
+RoadKill (USA)
+
+**Game ID:**
+
+SLUS-20687
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F0DFD81F7519DF309CBE4B4603A933231AE5C3B
+
+TRACK 01 MD5: F17925934A18EE4CF28D04FE4707899E
+
+**Description:**
+
