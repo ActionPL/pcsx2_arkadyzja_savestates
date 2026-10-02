@@ -1,0 +1,20 @@
+**Game name:**
+
+Red Faction (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-20073
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9DD4D28139D4B17796CDF98F11194F6837081FBE
+
+TRACK 01 MD5: 336900F0E68E30394D281E70118308E9
+
+**Description:**
+
