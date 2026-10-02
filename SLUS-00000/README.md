@@ -1,0 +1,20 @@
+**Game name:**
+
+In the Groove 2 (USA) [Proto 30-08-05]
+
+**Game ID:**
+
+SLUS-00000
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5ED5E1BCA930FA3EB99B575775465B1288486A37
+
+TRACK 01 MD5: D3B093A03C876D22BC8517590BE19F2C
+
+**Description:**
+
