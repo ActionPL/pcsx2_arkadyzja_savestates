@@ -1,0 +1,20 @@
+**Game name:**
+
+Kung Fu Fighting (USA) [Proto 01-05-01]
+
+**Game ID:**
+
+SLUS-20000
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6045CBDEA7881E768811446DA0759128137FDE26
+
+TRACK 01 MD5: 3C40B1950EF88AB7EFB5785A25AA0DD1
+
+**Description:**
+
