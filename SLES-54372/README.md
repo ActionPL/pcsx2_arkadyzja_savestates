@@ -1,0 +1,20 @@
+**Game name:**
+
+RTL Biathlon 2007 (Europe) (En,De)
+
+**Game ID:**
+
+SLES-54372
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CB1A4C24935F6C1AA11909755CDBCC31BF69F788
+
+TRACK 01 MD5: 7AB4D6D72CEB061A641CC27B41C056F4
+
+**Description:**
+
