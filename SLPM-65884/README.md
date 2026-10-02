@@ -1,0 +1,20 @@
+**Game name:**
+
+Remote Control Dandy SF (Japan)
+
+**Game ID:**
+
+SLPM-65884
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6779FF33D3A643576E39D2ADF0F368766359E1AA
+
+TRACK 01 MD5: 3ACE739E01D54011BED374DCA69DB117
+
+**Description:**
+
