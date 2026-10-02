@@ -1,0 +1,20 @@
+**Game name:**
+
+RPM Tuning (Europe) (En,Fr,De,Es,It,Pt)
+
+**Game ID:**
+
+SLES-52190
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F74C72A0F79741664713D6F3B8F5710256B2D2B6
+
+TRACK 01 MD5: 4A898A101B3EA9F8F07DEF26F07CA97C
+
+**Description:**
+
