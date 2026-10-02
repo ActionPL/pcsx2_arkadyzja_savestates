@@ -1,0 +1,20 @@
+**Game name:**
+
+Ra.One - The Game (India)
+
+**Game ID:**
+
+SCES-55661
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 25BE519CF32354521A4D89459B06D89D466A804B
+
+TRACK 01 MD5: 245E9B2878A122EED9049F172A572C72
+
+**Description:**
+
