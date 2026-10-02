@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby 08 (USA)
+
+**Game ID:**
+
+SLUS-21640
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AC53926F8ED733837299F6D666ABA86A40E47D59
+
+TRACK 01 MD5: 1697860A7D95CA5D791CBC1CB5B0BAC5
+
+**Description:**
+
