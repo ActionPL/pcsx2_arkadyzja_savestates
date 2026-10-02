@@ -1,0 +1,20 @@
+**Game name:**
+
+Raiden III (USA)
+
+**Game ID:**
+
+SLUS-21465
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A472A7CC97690F172853E27815180C4E45AC10D5
+
+TRACK 01 MD5: 6DFB1B744910AF49C298AD254577D0E0
+
+**Description:**
+
