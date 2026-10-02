@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby 2005 (USA)
+
+**Game ID:**
+
+SLUS-21158
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F223AC87954E8F2BAFE61F6EC73CA1DB9C9D3BC
+
+TRACK 01 MD5: 83803CEC0DD82A0757B6587BBA01E346
+
+**Description:**
+
