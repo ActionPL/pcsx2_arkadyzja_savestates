@@ -1,0 +1,20 @@
+**Game name:**
+
+Rayman Arena (USA)
+
+**Game ID:**
+
+SLUS-20272
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BD0FF72E6FBB1BFAA0F28FA3A25386120E76097A
+
+TRACK 01 MD5: C040CBFCD6307A6C2D88FC354BDAB419
+
+**Description:**
+
