@@ -1,0 +1,20 @@
+**Game name:**
+
+Rumble Racing (USA)
+
+**Game ID:**
+
+SLUS-20174
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D61D25648C3A1F30D8DF12C91E7F70A1C5657FCA
+
+TRACK 01 MD5: FC5885A160D57CBAFEBC8F5BF50DAC2D
+
+**Description:**
+
