@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby (USA)
+
+**Game ID:**
+
+SLUS-20262
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 230EAE3B5512A5452A267EF8D83280EE9C548A3A
+
+TRACK 01 MD5: 9890B194CBA18A650D7B4849A13574C0
+
+**Description:**
+
