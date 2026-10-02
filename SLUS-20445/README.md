@@ -1,0 +1,20 @@
+**Game name:**
+
+Robot Alchemic Drive (USA)
+
+**Game ID:**
+
+SLUS-20445
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E44BC40C14058BDEFC02596B0557168C209DC57A
+
+TRACK 01 MD5: D2CE9DBAD77EBD48377534F997588AF4
+
+**Description:**
+
