@@ -1,0 +1,20 @@
+**Game name:**
+
+RS - Riding Spirits (USA)
+
+**Game ID:**
+
+SLUS-20429
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5A1ED8CAC1E86DACF6D7DD8129A412D3EF112B17
+
+TRACK 01 MD5: 1A8BB101FF43FD2CD8BF318A57C27815
+
+**Description:**
+
