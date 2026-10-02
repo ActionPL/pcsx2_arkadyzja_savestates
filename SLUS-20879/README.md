@@ -1,0 +1,20 @@
+**Game name:**
+
+Romance of the Three Kingdoms IX (USA)
+
+**Game ID:**
+
+SLUS-20879
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6E6E44EF11F105E59DBA24C57B21D80C50D75891
+
+TRACK 01 MD5: A37A619D944B5A97E72BC69EA2CA2ABB
+
+**Description:**
+
