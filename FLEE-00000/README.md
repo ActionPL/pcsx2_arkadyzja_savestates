@@ -1,0 +1,20 @@
+**Game name:**
+
+Fleet - Shiva's Gate (USA) [Proto 21-05-02]
+
+**Game ID:**
+
+FLEE-00000
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6197E97B59E73D2182D90DECA7D8ED63FF3A4426
+
+TRACK 01 MD5: 34BC1E8E5191ECD4FE0936AC54C9788A
+
+**Description:**
+
