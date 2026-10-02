@@ -1,0 +1,20 @@
+**Game name:**
+
+Rig Racer 2 (Europe)
+
+**Game ID:**
+
+SLES-53572
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6FE43B04F4DED80B0D5B6185E5A9CB85B704A65B
+
+TRACK 01 MD5: 313CD22FAAAC6B04DD6F1BFEA53EFB89
+
+**Description:**
+
