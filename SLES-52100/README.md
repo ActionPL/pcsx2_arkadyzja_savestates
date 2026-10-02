@@ -1,0 +1,20 @@
+**Game name:**
+
+Rugby League (Australia)
+
+**Game ID:**
+
+SLES-52100
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1F87B9B736498B9A6C60AE6DDE20310659784AF7
+
+TRACK 01 MD5: DAACCB0CE33B388F34335ED24CED77D6
+
+**Description:**
+
