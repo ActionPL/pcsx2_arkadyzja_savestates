@@ -1,0 +1,20 @@
+**Game name:**
+
+Star Wars - Starfighter (USA) (Rev 1)
+
+**Game ID:**
+
+SLUS-20044
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 233D8D800783637B5537843600D56C157503DD57
+
+TRACK 01 MD5: 589CB48E28F9078F9AC34482514A2EE2
+
+**Description:**
+
