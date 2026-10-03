@@ -1,0 +1,20 @@
+**Game name:**
+
+Sims, The - Bustin' Out (USA)
+
+**Game ID:**
+
+SLUS-20842
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9FAD0E76D9D1E99A137B95372F6C2A5D9F7A25A8
+
+TRACK 01 MD5: 4CAC91A6834CA4F798A3FEFD468961E9
+
+**Description:**
+
