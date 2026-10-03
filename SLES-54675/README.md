@@ -1,0 +1,20 @@
+**Game name:**
+
+Street Warrior (Europe)
+
+**Game ID:**
+
+SLES-54675
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9202971EC0A6D9BB5C55259ABF803FFEFFD63A45
+
+TRACK 01 MD5: 4ED37FE534C7020D057CFE0916E31701
+
+**Description:**
+
