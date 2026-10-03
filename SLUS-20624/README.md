@@ -1,0 +1,20 @@
+**Game name:**
+
+Simpsons, The - Hit & Run (USA)
+
+**Game ID:**
+
+SLUS-20624
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F0921C6813984DD37D79C175AA6A0C48BC3E92AF
+
+TRACK 01 MD5: 9EFE68564FBC397FD6EB0E5B1E7085DA
+
+**Description:**
+
