@@ -1,0 +1,20 @@
+**Game name:**
+
+SCORE International Baja 1000 - The Official Game (USA)
+
+**Game ID:**
+
+SLUS-21850
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B6D17F92865B1DA987BB23ACEA58262E76A6E7E5
+
+TRACK 01 MD5: 2D3DD4CD0D8C16E97A1A887B70349658
+
+**Description:**
+
