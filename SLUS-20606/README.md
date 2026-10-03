@@ -1,0 +1,20 @@
+**Game name:**
+
+Seek and Destroy (USA)
+
+**Game ID:**
+
+SLUS-20606
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8CBB6FAF609250E4AC1E816157CF832B29717197
+
+TRACK 01 MD5: 0C142D012A9E080C79A13B75AF2062B4
+
+**Description:**
+
