@@ -1,0 +1,20 @@
+**Game name:**
+
+SpyHunter (USA)
+
+**Game ID:**
+
+SLUS-20056
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 768AA49FB4F21DDC28BBC4324727A12467EFF979
+
+TRACK 01 MD5: 72CC3B3497B6A534C42C6505C433FC54
+
+**Description:**
+
