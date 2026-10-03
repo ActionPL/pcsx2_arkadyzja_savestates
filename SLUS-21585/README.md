@@ -1,0 +1,20 @@
+**Game name:**
+
+Samurai Warriors 2 - Empires (USA)
+
+**Game ID:**
+
+SLUS-21585
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EE7FC4BD5EB29FA0D4F87818DFC211A7E7E5B7BD
+
+TRACK 01 MD5: AD1D04CB1D80FEC87A4866193F8D2ECE
+
+**Description:**
+
