@@ -1,0 +1,20 @@
+**Game name:**
+
+Syphon Filter - The Omega Strain (USA)
+
+**Game ID:**
+
+SCUS-97264
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5989B11F20BC16B43055093FE4990147298AA3B1
+
+TRACK 01 MD5: 57873C6B5E896946AEE2BA9C7B3C41B8
+
+**Description:**
+
