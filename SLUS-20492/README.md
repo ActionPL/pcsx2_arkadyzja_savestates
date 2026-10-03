@@ -1,0 +1,20 @@
+**Game name:**
+
+Ninja Assault (USA)
+
+**Game ID:**
+
+SLUS-20492
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 00F59F0C8E0727E8C3A876953EA5992B7BC69741
+
+TRACK 01 MD5: 74C0FB5DBD2A941DC85317AF24A1638A
+
+**Description:**
+
