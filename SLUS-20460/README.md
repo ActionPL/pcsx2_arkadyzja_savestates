@@ -1,0 +1,20 @@
+**Game name:**
+
+Super Bust-A-Move 2 (USA)
+
+**Game ID:**
+
+SLUS-20460
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4D6236C2A5A7E7E63C6660AB2B54B636ED4F90C1
+
+TRACK 01 MD5: FBA37CDB00D5A495EE16B5C9340B18E0
+
+**Description:**
+
