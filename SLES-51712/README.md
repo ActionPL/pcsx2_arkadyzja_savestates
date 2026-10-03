@@ -1,0 +1,20 @@
+**Game name:**
+
+Snowboard Racer 2 (Europe)
+
+**Game ID:**
+
+SLES-51712
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C10FAD890AF6C7E844C3419F4A55D4CD28951A39
+
+TRACK 01 MD5: AE3B861ED4EC22E3DAD76A7D77B28B8F
+
+**Description:**
+
