@@ -1,0 +1,20 @@
+**Game name:**
+
+Search & Destroy (Europe)
+
+**Game ID:**
+
+SLES-54033
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AD62F61C482637AAEECFA54E041E40164DB29235
+
+TRACK 01 MD5: EB532A6B9B759D5F4C79167813C5F6C3
+
+**Description:**
+
