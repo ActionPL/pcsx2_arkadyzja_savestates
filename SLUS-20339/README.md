@@ -1,0 +1,20 @@
+**Game name:**
+
+Sega Bass Fishing Duel (USA)
+
+**Game ID:**
+
+SLUS-20339
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4851E9E7EA708149869343E21F851450699588F9
+
+TRACK 01 MD5: 8A7CA580DEE4CF3F037C73D838890435
+
+**Description:**
+
