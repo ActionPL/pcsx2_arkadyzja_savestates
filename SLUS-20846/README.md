@@ -1,0 +1,20 @@
+**Game name:**
+
+Strike Force Bowling (USA)
+
+**Game ID:**
+
+SLUS-20846
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3460CA130A5BB67CFAF15BFDFE8187AAB8C037D2
+
+TRACK 01 MD5: 479875695EB0F548647AEDF4E3BC8603
+
+**Description:**
+
