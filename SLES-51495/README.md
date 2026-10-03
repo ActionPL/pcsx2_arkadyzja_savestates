@@ -1,0 +1,20 @@
+**Game name:**
+
+SX Superstar (Europe) (En,Fr,De,Es)
+
+**Game ID:**
+
+SLES-51495
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EDEABB6CFBB8247368B4610671CD8ADE3068AFAF
+
+TRACK 01 MD5: 296157760B99FFD1B71CECF358B7A3CC
+
+**Description:**
+
