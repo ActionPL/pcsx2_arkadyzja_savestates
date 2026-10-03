@@ -1,0 +1,20 @@
+**Game name:**
+
+Star Trek - Encounters (USA)
+
+**Game ID:**
+
+SLUS-21396
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 50C90F3E34E8D64F2736E80E822CA86814A7D48C
+
+TRACK 01 MD5: 70CC50B86FBB0FA940412B9FF1317F6A
+
+**Description:**
+
