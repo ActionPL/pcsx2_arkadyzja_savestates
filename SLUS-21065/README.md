@@ -1,0 +1,20 @@
+**Game name:**
+
+Need for Speed - Underground 2 (USA)
+
+**Game ID:**
+
+SLUS-21065
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 83618114AD1596ED8C4BB85B974A7FD9505FD58F
+
+TRACK 01 MD5: B50FAB373B43926F771345141DD4AEF0
+
+**Description:**
+

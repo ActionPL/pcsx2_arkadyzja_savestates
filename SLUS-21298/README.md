@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA March Madness 06 (USA)
+
+**Game ID:**
+
+SLUS-21298
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 75362EBBD4C59D10ACDDAB87F7C9017E32433DC6
+
+TRACK 01 MD5: CCA9A6374607BF27D8485D452BD15C1E
+
+**Description:**
+

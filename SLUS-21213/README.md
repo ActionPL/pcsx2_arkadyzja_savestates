@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 06 (USA)
+
+**Game ID:**
+
+SLUS-21213
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E9E8B398548EAEAE9A9BC07A2CF87B5BDA1800C9
+
+TRACK 01 MD5: E69861FD48E1392E331A27259D412291
+
+**Description:**
+

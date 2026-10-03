@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 10 (USA)
+
+**Game ID:**
+
+SLUS-21893
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A9F9860FAB5BC69D37EB059455DDD23B6A731632
+
+TRACK 01 MD5: 98A499A2551959CB354C6BDCDD903C0E
+
+**Description:**
+

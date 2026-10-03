@@ -1,0 +1,20 @@
+**Game name:**
+
+Naruto - Uzumaki Chronicles 2 (USA)
+
+**Game ID:**
+
+SLUS-21594
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C03ABB2FBFC4BBF8ADEAAAFD0D9E56B6C1985CE9
+
+TRACK 01 MD5: B33EC60D53AE1CC329CCE365FD461363
+
+**Description:**
+

@@ -1,0 +1,20 @@
+**Game name:**
+
+Super Monkey Ball Deluxe (USA)
+
+**Game ID:**
+
+SLUS-20918
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 529342D01248FCC9D97BB73079D356A5CC3B5BC4
+
+TRACK 01 MD5: 498C5C30364F74FB7FC2671FD7A3DEC1
+
+**Description:**
+

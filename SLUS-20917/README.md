@@ -1,0 +1,20 @@
+**Game name:**
+
+Sonic Mega Collection Plus (USA)
+
+**Game ID:**
+
+SLUS-20917
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5CEAC60CE82DC561C1BE2435ECC48C0BEBA69355
+
+TRACK 01 MD5: 54BA00D69F9D345DB6C762745EAC4BD7
+
+**Description:**
+

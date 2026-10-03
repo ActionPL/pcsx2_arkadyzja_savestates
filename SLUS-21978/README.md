@@ -1,0 +1,20 @@
+**Game name:**
+
+Dragon Ball Z - Budokai Tenkaichi 3 (USA) [BT4 MOD v0.14.2]
+
+**Game ID:**
+
+SLUS-21978
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6198B259DD490A5E9A733C8538A97FC7E80F4E1A
+
+TRACK 01 MD5: 27A84D51CBC44252C3AA4E50B604621D
+
+**Description:**
+

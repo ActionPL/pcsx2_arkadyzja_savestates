@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA March Madness 08 (USA)
+
+**Game ID:**
+
+SLUS-21698
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EAE56334CD3C8AD5B5A6CDB48D4B890D5741139C
+
+TRACK 01 MD5: F6B5B348445D4B42886A55C9D1AC70B0
+
+**Description:**
+

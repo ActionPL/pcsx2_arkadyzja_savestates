@@ -1,0 +1,20 @@
+**Game name:**
+
+LEGO Batman - The Videogame (USA)
+
+**Game ID:**
+
+SLUS-21785
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 49C28B730D4AC2FD16ED329D24A559DD07500FAB
+
+TRACK 01 MD5: E5B6316BB1CF987589AF9F4F0CD39601
+
+**Description:**
+

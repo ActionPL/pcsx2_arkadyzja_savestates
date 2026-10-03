@@ -1,0 +1,20 @@
+**Game name:**
+
+MLB Power Pros (USA)
+
+**Game ID:**
+
+SLUS-21671
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CA37879CCD5C31CC26163060450C412E46085A14
+
+TRACK 01 MD5: E50EFA1DF7DE9D1E4CB9DFEB72AD9540
+
+**Description:**
+

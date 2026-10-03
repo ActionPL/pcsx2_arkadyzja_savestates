@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA World Cup Germany 2006 (USA)
+
+**Game ID:**
+
+SLUS-21408
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 506CEBEE14840B104596CC0B3172E60F93A61798
+
+TRACK 01 MD5: B55DCB162E486459065B3C87B69B220F
+
+**Description:**
+

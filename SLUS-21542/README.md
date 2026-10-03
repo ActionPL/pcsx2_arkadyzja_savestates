@@ -1,0 +1,20 @@
+**Game name:**
+
+Sega Genesis Collection (USA)
+
+**Game ID:**
+
+SLUS-21542
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 32239E579CECD235453F783A7D6A91504DA6518F
+
+TRACK 01 MD5: 7A74531CA0F9DA1E4917DF7B22CB5FDD
+
+**Description:**
+

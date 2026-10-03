@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Jam (USA)
+
+**Game ID:**
+
+SLUS-20648
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1087A0AC72042145E3AF5DABC445CCB0D4559DF4
+
+TRACK 01 MD5: ACBBB94CF721C433FC748FEC751BC7E2
+
+**Description:**
+

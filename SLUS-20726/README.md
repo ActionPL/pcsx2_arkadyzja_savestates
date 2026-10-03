@@ -1,0 +1,20 @@
+**Game name:**
+
+ESPN NBA Basketball (USA)
+
+**Game ID:**
+
+SLUS-20726
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C14770ABA5867ABA76782B92328BA9ABEAFAE175
+
+TRACK 01 MD5: 8FFDB3FE19F0C85FE613CDFEDD082EF2
+
+**Description:**
+

@@ -1,0 +1,20 @@
+**Game name:**
+
+MVP Baseball 2005 (USA)
+
+**Game ID:**
+
+SLUS-21135
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E6D68830423403B3438306569DA52FCD27DB798C
+
+TRACK 01 MD5: 2799F1EE5317D81A8823E7313D349D4A
+
+**Description:**
+

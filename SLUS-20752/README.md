@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 2004 (USA)
+
+**Game ID:**
+
+SLUS-20752
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3717E9873C7B1CF5C73FFAC314F6FC91EC16951C
+
+TRACK 01 MD5: 829F3A701F737ABC7E5412384EF1335D
+
+**Description:**
+

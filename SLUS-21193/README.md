@@ -1,0 +1,20 @@
+**Game name:**
+
+Inuyasha - Feudal Combat (USA)
+
+**Game ID:**
+
+SLUS-21193
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 160DB53D2515309E43D4243142312987156A761F
+
+TRACK 01 MD5: F9067A554EAA911AE4277C0B0FA2EEFD
+
+**Description:**
+

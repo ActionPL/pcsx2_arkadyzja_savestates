@@ -1,0 +1,20 @@
+**Game name:**
+
+Fire Pro Wrestling Returns (USA)
+
+**Game ID:**
+
+SLUS-21702
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 732B191245A00C3781F17C2B3959C8DD6C1D2E93
+
+TRACK 01 MD5: C0972AA1630AFBBA49B88F352FB8EEC7
+
+**Description:**
+
