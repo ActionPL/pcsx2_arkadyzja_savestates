@@ -1,0 +1,20 @@
+**Game name:**
+
+Stock Car Crash (Europe)
+
+**Game ID:**
+
+SLES-53972
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 707745041FED1C988F0F06A601ADCEF4EB54C0EF
+
+TRACK 01 MD5: 138160A3B8A5DF23A994E4A6F396ADFA
+
+**Description:**
+
