@@ -1,0 +1,20 @@
+**Game name:**
+
+ESPN Winter X Games Snowboarding (USA)
+
+**Game ID:**
+
+SLUS-20089
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 05544B955C07A27B7BCEC3F245DB009A92524520
+
+TRACK 01 MD5: 2A7ED20DB584F5CD39EA540045C76452
+
+**Description:**
+
