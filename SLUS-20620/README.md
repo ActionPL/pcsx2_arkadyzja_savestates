@@ -1,0 +1,20 @@
+**Game name:**
+
+Smash Cars (USA)
+
+**Game ID:**
+
+SLUS-20620
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7638B661783B7DB1884AF24E30F665EC285FE312
+
+TRACK 01 MD5: 191902ACA4FB6A93261F23FB577F22DE
+
+**Description:**
+
