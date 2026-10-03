@@ -1,0 +1,20 @@
+**Game name:**
+
+Super Monkey Ball Adventure (USA)
+
+**Game ID:**
+
+SLUS-21272
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E5CCFE8C55B89943489334763813806B32E51FBE
+
+TRACK 01 MD5: 59A2701F92990A288A04B0FC179B908B
+
+**Description:**
+
