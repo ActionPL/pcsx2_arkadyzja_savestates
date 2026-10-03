@@ -1,0 +1,20 @@
+**Game name:**
+
+Samurai Warriors 2 (USA)
+
+**Game ID:**
+
+SLUS-21462
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1E9E1B479AA1322BC721E3B98140BA25F1B50F14
+
+TRACK 01 MD5: 36E0917AD5E5EEA576940BFDFCE0707A
+
+**Description:**
+
