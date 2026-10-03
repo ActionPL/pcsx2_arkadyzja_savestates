@@ -1,0 +1,20 @@
+**Game name:**
+
+All Star Pro-Wrestling (Japan)
+
+**Game ID:**
+
+SLPS-20022
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FB5AC419993EE2A846881497413785FFBA3FCB95
+
+TRACK 01 MD5: 5065C1C7389447C7A742B6699B3D27B4
+
+**Description:**
+
