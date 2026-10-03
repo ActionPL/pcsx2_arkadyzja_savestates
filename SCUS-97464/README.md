@@ -1,0 +1,20 @@
+**Game name:**
+
+Sly 3 - Honor Among Thieves (USA)
+
+**Game ID:**
+
+SCUS-97464
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4EEE0B703CC6AB9576C86F5DB84C737FEC69A3A9
+
+TRACK 01 MD5: 1DFE7F0AAC25320678244B4C43F12B4F
+
+**Description:**
+
