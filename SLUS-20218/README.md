@@ -1,0 +1,20 @@
+**Game name:**
+
+Stunt GP (USA)
+
+**Game ID:**
+
+SLUS-20218
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6A85B5AB2FF500F56B8AAB76954EF56D5A13CB8F
+
+TRACK 01 MD5: A9E28B792CD0D5D9D9EA66C252993647
+
+**Description:**
+
