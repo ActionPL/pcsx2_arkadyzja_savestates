@@ -1,0 +1,20 @@
+**Game name:**
+
+Sims, The (USA)
+
+**Game ID:**
+
+SLUS-20573
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2FAA62658F61B1B1F860AFB0C0BC7C3CB0648F0F
+
+TRACK 01 MD5: 6B0948D5F2179804B3C760F74BFB1F49
+
+**Description:**
+
