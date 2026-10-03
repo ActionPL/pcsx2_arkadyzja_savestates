@@ -1,0 +1,20 @@
+**Game name:**
+
+Samurai Western (USA)
+
+**Game ID:**
+
+SLUS-21187
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B2F164F5A4458B7BBA5602F25644529639E65D5E
+
+TRACK 01 MD5: F117A5D77AFFE3D8CC0F4EC064C845A8
+
+**Description:**
+
