@@ -1,0 +1,20 @@
+**Game name:**
+
+Super Farm (Europe) (En,Fr,De,Es,It,Nl)
+
+**Game ID:**
+
+SLES-51678
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 62E61CE5FF9D94B221A8274C110AE3D43677480F
+
+TRACK 01 MD5: FBB82C86D1CFFACCEC0D4FDED398732D
+
+**Description:**
+
