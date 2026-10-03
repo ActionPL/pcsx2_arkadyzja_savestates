@@ -1,0 +1,20 @@
+**Game name:**
+
+Speed Machines 3 (Europe)
+
+**Game ID:**
+
+SLES-53920
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7EA9F903B2DBA74CE071C64E0B1E43D28E7321B4
+
+TRACK 01 MD5: C4E4F0EB43670E18937390349079C417
+
+**Description:**
+
