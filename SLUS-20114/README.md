@@ -1,0 +1,20 @@
+**Game name:**
+
+Simpsons Skateboarding, The (USA)
+
+**Game ID:**
+
+SLUS-20114
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6D058F6CDF0513C4431998B3570C670E5B5670F6
+
+TRACK 01 MD5: C0577D45B14C717001E624A8E6188266
+
+**Description:**
+
