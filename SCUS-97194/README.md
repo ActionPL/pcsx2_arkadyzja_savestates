@@ -1,0 +1,20 @@
+**Game name:**
+
+NFL GameDay 2003 (USA)
+
+**Game ID:**
+
+SCUS-97194
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 80634321A970FA4E4DA11EA47D6061C2F4BAA50D
+
+TRACK 01 MD5: 1CE1F406830D296AE6414417E66C3997
+
+**Description:**
+
