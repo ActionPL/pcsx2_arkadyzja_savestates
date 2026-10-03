@@ -1,0 +1,20 @@
+**Game name:**
+
+Swing Away Golf (USA)
+
+**Game ID:**
+
+SLUS-20096
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4644E340A3AF1181C31A6D4C4A3A033D4E62946B
+
+TRACK 01 MD5: 14C0EE661554EBDEAF9B09CD1DAFBE2C
+
+**Description:**
+
