@@ -1,0 +1,20 @@
+**Game name:**
+
+Samurai Warriors (USA)
+
+**Game ID:**
+
+SLUS-20878
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 84BFC5408157C5460AC3EAB96198A95EC2A64202
+
+TRACK 01 MD5: C3E0B53622CC69F94125C2CA525730C7
+
+**Description:**
+
