@@ -1,0 +1,20 @@
+**Game name:**
+
+Spiderwick Chronicles, The (USA)
+
+**Game ID:**
+
+SLUS-21716
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 20D8AF26CBD8632E98300ACB21C63C9C602BA33F
+
+TRACK 01 MD5: 918F9ED4DA8692227D15F692E6B61B89
+
+**Description:**
+
