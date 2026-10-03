@@ -1,0 +1,20 @@
+**Game name:**
+
+Street Golfer (Europe)
+
+**Game ID:**
+
+SLES-53847
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E65CDC89AB4201C63D5FD8D28306073C32CFE729
+
+TRACK 01 MD5: 55E877C96F8BFA5D2D9A98D4BD4F694F
+
+**Description:**
+
