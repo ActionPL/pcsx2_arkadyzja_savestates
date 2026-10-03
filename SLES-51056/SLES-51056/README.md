@@ -1,0 +1,20 @@
+**Game name:**
+
+Fighting Fury (Europe)
+
+**Game ID:**
+
+SLES-51056
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DE3E2BCD37B0E4C2089676C8AAFFFA0295171D98
+
+TRACK 01 MD5: C4618E2166EBB04EDE00A40B9FC3D934
+
+**Description:**
+
