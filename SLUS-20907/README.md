@@ -1,0 +1,20 @@
+**Game name:**
+
+Serious Sam - Next Encounter (USA)
+
+**Game ID:**
+
+SLUS-20907
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B9241D8578EF7A6E071654B3EC81231781E1D962
+
+TRACK 01 MD5: 7A7BD4B2F834189B49B67101C4BDA20A
+
+**Description:**
+
