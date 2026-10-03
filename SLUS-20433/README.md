@@ -1,0 +1,20 @@
+**Game name:**
+
+SWAT - Global Strike Team (USA)
+
+**Game ID:**
+
+SLUS-20433
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 691DF908791066C8C45B9F17428DC6193FCDD4AB
+
+TRACK 01 MD5: 805B7631471D96875D4870044D6FB10E
+
+**Description:**
+
