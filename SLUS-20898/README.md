@@ -1,0 +1,20 @@
+**Game name:**
+
+Star Wars - Battlefront (USA)
+
+**Game ID:**
+
+SLUS-20898
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1EBD6DA6700075847EDAA8CB641667BF72B01A43
+
+TRACK 01 MD5: 3D8E481E3E78B9E2AF6B493857DB6E47
+
+**Description:**
+
