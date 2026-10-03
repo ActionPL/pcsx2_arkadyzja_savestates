@@ -1,0 +1,20 @@
+**Game name:**
+
+Super Trucks Racing (USA)
+
+**Game ID:**
+
+SLUS-20748
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 57EE1F5CC4A3449D81C259E274C4AB3F483E670D
+
+TRACK 01 MD5: 3292A95B6B51BCDB25E7D2BE7B71DD6B
+
+**Description:**
+
