@@ -1,0 +1,20 @@
+**Game name:**
+
+Shrek Super Party (USA)
+
+**Game ID:**
+
+SLUS-20516
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F452CEA037067567499C161D8A085C37A8BE4779
+
+TRACK 01 MD5: E56AF7042A46265214B240C9333E41B2
+
+**Description:**
+
