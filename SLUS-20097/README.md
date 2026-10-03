@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA 2001 (USA) (En,De,Es,Nl,Sv)
+
+**Game ID:**
+
+SLUS-20097
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 85E7327D8256850C7FCF6DE22B336B0CB4E67D4E
+
+TRACK 01 MD5: ADC4BDEF3B5E42AC5860242343FD4B81
+
+**Description:**
+
