@@ -1,0 +1,20 @@
+**Game name:**
+
+SpyHunter 2 (USA)
+
+**Game ID:**
+
+SLUS-20590
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 750D58A1E9907DFDCDCFA1F9959C1B695B6F2A9A
+
+TRACK 01 MD5: 3DAC23FBF0BDC8062FCA9CD5CCA74CFF
+
+**Description:**
+
