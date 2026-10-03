@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Starting Five 2005 (Japan)
+
+**Game ID:**
+
+SLPM-65767
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 76BB0C0794E8679B38069549A56363B7284668B8
+
+TRACK 01 MD5: 81ED5F2442F06E114B14F2B2B1CDC1D9
+
+**Description:**
+
