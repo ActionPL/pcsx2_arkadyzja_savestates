@@ -1,0 +1,20 @@
+**Game name:**
+
+SOCOM - U.S. Navy SEALs (USA) (v3.00)
+
+**Game ID:**
+
+SCUS-97134
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B0799DD3BD524C7EEF23E3CFFBABB24A4E74F091
+
+TRACK 01 MD5: F9A35702354B2D5005FDFA8714A4022D
+
+**Description:**
+
