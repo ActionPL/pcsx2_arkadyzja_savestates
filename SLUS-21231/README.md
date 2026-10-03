@@ -1,0 +1,20 @@
+**Game name:**
+
+Sniper Elite (USA)
+
+**Game ID:**
+
+SLUS-21231
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CE224BB8896A94301BA4B058A7E93D7BF863FF15
+
+TRACK 01 MD5: F58942903513CC426FFB25CDA24FD85A
+
+**Description:**
+
