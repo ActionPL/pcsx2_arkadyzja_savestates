@@ -1,0 +1,20 @@
+**Game name:**
+
+Ski-Doo Snow X Racing (USA)
+
+**Game ID:**
+
+SLUS-21591
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C0DD1EE002D88A5F30B4EADFACE342098B0370BD
+
+TRACK 01 MD5: 3B1D2D0C6D0B93AB56C0BEDF9B92F909
+
+**Description:**
+
