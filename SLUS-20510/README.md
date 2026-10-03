@@ -1,0 +1,20 @@
+**Game name:**
+
+Star Wars - The Clone Wars (USA)
+
+**Game ID:**
+
+SLUS-20510
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D6BE7C5D9B060B1C1BEDF6D3D843F3F13B93C20D
+
+TRACK 01 MD5: D2D20F13D9FC9551F852B1121D18446E
+
+**Description:**
+
