@@ -1,0 +1,20 @@
+**Game name:**
+
+Splashdown - Rides Gone Wild (USA)
+
+**Game ID:**
+
+SLUS-20686
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A5C1CEA1BA5A69C7FE2ACAA32BED650C53A72E59
+
+TRACK 01 MD5: B4EF470B4653D390D882A290995B0E24
+
+**Description:**
+
