@@ -1,0 +1,20 @@
+**Game name:**
+
+Shining Tears (USA)
+
+**Game ID:**
+
+SLUS-21063
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6AE920099AA9EF78B37DEC35909DE9A009E24828
+
+TRACK 01 MD5: 14CA2902AF3F79213E677F45650464B2
+
+**Description:**
+
