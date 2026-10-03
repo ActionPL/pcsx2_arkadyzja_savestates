@@ -1,0 +1,20 @@
+**Game name:**
+
+PaRappa the Rapper 2 (USA) (En,Ja)
+
+**Game ID:**
+
+SCUS-97167
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DF7E5B04C0B7F9A7D6AFC76BF9BABA35754B109B
+
+TRACK 01 MD5: 43F3E8209D2FAA0E01CC1468CC86A6CD
+
+**Description:**
+
