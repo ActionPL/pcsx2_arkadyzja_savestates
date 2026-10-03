@@ -1,0 +1,20 @@
+**Game name:**
+
+Smuggler's Run (USA)
+
+**Game ID:**
+
+SLUS-20065
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 729FB39EAFFA57BFBB0E54636D421823B540DF7E
+
+TRACK 01 MD5: FBAC7BC841801D7EA2211ED35D09421C
+
+**Description:**
+
