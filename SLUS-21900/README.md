@@ -1,0 +1,20 @@
+**Game name:**
+
+Scooby-Doo! First Frights (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21900
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ABD485D8AB238235A64B2F863EBCED9B2AFE902B
+
+TRACK 01 MD5: 0A4DFD246917CB42593A5FE292D28804
+
+**Description:**
+
