@@ -1,0 +1,20 @@
+**Game name:**
+
+NCAA Football 2002 (USA)
+
+**Game ID:**
+
+SLUS-20241
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5B2C05D7B4DF8FBB3A060C083837227DBF838A1E
+
+TRACK 01 MD5: 85D617F070793CC38A4F3BA6AAE2BE38
+
+**Description:**
+
