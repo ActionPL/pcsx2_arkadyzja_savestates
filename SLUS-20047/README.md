@@ -1,0 +1,20 @@
+**Game name:**
+
+Gauntlet - Dark Legacy (USA)
+
+**Game ID:**
+
+SLUS-20047
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1032551EAD48BB6E42B50998A362A80F2F9CA021
+
+TRACK 01 MD5: 2ADCB98C3931E83EC80BDFA30635ED6D
+
+**Description:**
+
