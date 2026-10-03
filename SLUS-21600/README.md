@@ -1,0 +1,20 @@
+**Game name:**
+
+Spider-Man - Friend or Foe (USA)
+
+**Game ID:**
+
+SLUS-21600
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4C9C0AB430E501870BB3BE5D29BF4141A8B31C3F
+
+TRACK 01 MD5: 75F06F4118E97145979AED499C9EC9A5
+
+**Description:**
+
