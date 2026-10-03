@@ -1,0 +1,20 @@
+**Game name:**
+
+ESPN NFL PrimeTime 2002 (USA)
+
+**Game ID:**
+
+SLUS-20308
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0041EF6D60A5481D8C8EC99045BFEFD5F0DEB9DC
+
+TRACK 01 MD5: 0903A149ACBB9830A16F4A204F7500DD
+
+**Description:**
+
