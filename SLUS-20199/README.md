@@ -1,0 +1,20 @@
+**Game name:**
+
+Shaun Palmer's Pro Snowboarder (USA)
+
+**Game ID:**
+
+SLUS-20199
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6F64EBE246B2B242D0C0EAAFDEB5F7243DB83210
+
+TRACK 01 MD5: 660854B828BBFD384B22241C94881ED4
+
+**Description:**
+
