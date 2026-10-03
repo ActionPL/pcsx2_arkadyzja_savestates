@@ -1,0 +1,20 @@
+**Game name:**
+
+Legends of Wrestling (USA) (v1.02)
+
+**Game ID:**
+
+SLUS-20242
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4FE7F2E630817DDA83B36A1791DCA2FDDC9A4DBD
+
+TRACK 01 MD5: C31E0F580EB8A82748EF98A6787880F1
+
+**Description:**
+
