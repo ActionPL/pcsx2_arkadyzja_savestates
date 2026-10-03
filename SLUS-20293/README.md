@@ -1,0 +1,20 @@
+**Game name:**
+
+Star Wars - Jedi Starfighter (USA)
+
+**Game ID:**
+
+SLUS-20293
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BDC5044B61A767AB21AF00EE5A3275FBAB2849A4
+
+TRACK 01 MD5: 94B958AFF6047A9F4CB5B7E85EEC8B52
+
+**Description:**
+
