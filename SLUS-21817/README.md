@@ -1,0 +1,20 @@
+**Game name:**
+
+SBK - Superbike World Championship (USA)
+
+**Game ID:**
+
+SLUS-21817
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C0AA81DD020C6FEB36BC3B8E7C21DF4F4B1DA4BB
+
+TRACK 01 MD5: 090C6E308777A74C21B3E62D771F2BA3
+
+**Description:**
+
