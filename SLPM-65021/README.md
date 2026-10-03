@@ -1,0 +1,20 @@
+**Game name:**
+
+Super Galdelic Hour (Japan)
+
+**Game ID:**
+
+SLPM-65021
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A61A4341AAEAE7FF1481D96E00AE7D95CC5DA6B8
+
+TRACK 01 MD5: 473C631C0B022A34F044A24ADCC5BFB0
+
+**Description:**
+
