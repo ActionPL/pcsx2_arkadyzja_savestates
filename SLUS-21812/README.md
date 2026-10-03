@@ -1,0 +1,20 @@
+**Game name:**
+
+Speed Racer (USA) (En,Fr,Es,Pt)
+
+**Game ID:**
+
+SLUS-21812
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 808CDD40D03651CA2C96E80FC365AB2AECB04076
+
+TRACK 01 MD5: 612310EE4F5CD7334DF441295B0EAF9F
+
+**Description:**
+
