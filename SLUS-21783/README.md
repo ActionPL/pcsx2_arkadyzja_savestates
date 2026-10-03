@@ -1,0 +1,20 @@
+**Game name:**
+
+Space Chimps (USA)
+
+**Game ID:**
+
+SLUS-21783
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 97970D3B788528E329E629BCAD8AE0A13207338F
+
+TRACK 01 MD5: 708477A6F79F68FDF92E2C954725868C
+
+**Description:**
+
