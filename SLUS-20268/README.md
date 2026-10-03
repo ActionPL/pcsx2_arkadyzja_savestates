@@ -1,0 +1,20 @@
+**Game name:**
+
+Star Wars - Racer Revenge (USA)
+
+**Game ID:**
+
+SLUS-20268
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7654D0486047A00C638D099B1E1E2F4F0D4CBA54
+
+TRACK 01 MD5: 4BB63EB11293364FB2F8B00D73D86A83
+
+**Description:**
+
