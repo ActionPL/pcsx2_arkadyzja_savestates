@@ -1,0 +1,20 @@
+**Game name:**
+
+Steambot Chronicles (USA)
+
+**Game ID:**
+
+SLUS-21344
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D321D7E532F918DD4201B89F87921CBF681AEC2F
+
+TRACK 01 MD5: 28E761070947A119974BE0B6AEEC589D
+
+**Description:**
+
