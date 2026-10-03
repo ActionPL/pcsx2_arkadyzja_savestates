@@ -1,0 +1,20 @@
+**Game name:**
+
+Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-20718
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0253A67A9EF98A433FE4028E3E870A3E5B4C7F6A
+
+TRACK 01 MD5: 5A9A0789FFDB0A9FB2D7B9AF50D1BC38
+
+**Description:**
+
