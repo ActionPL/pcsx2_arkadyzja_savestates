@@ -1,0 +1,20 @@
+**Game name:**
+
+Supercar Street Challenge (USA)
+
+**Game ID:**
+
+SLUS-20012
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 73C458D0E5F0937F8EC7192AC715DD6E7FC6030F
+
+TRACK 01 MD5: 97C0E970D0FD51B6AEA3AC9B63C027F3
+
+**Description:**
+
