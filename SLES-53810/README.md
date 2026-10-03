@@ -1,0 +1,20 @@
+**Game name:**
+
+Sensible Soccer 2006 (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-53810
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4C5CD0C19438182C9A04E3CBD5DF20165D0483EF
+
+TRACK 01 MD5: 9F7BB8BFABE7F4B4DB931074A8A92AA3
+
+**Description:**
+
