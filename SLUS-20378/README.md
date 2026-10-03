@@ -1,0 +1,20 @@
+**Game name:**
+
+Salt Lake 2002 (USA)
+
+**Game ID:**
+
+SLUS-20378
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FA8D5F967003E094C24311A0E16D23F458174BC2
+
+TRACK 01 MD5: 40E4E10374942436B3430582D8AC484D
+
+**Description:**
+
