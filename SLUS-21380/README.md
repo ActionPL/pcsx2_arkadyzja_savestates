@@ -1,0 +1,20 @@
+**Game name:**
+
+Snoopy vs. the Red Baron (USA)
+
+**Game ID:**
+
+SLUS-21380
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4501AF6B39B3D3D840EE8DD21F81AB662A097EC3
+
+TRACK 01 MD5: FC84AB71B504E96021C9D319D3C1309D
+
+**Description:**
+
