@@ -1,0 +1,20 @@
+**Game name:**
+
+Saturday Night Speedway (USA)
+
+**Game ID:**
+
+SLUS-20640
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C494B8C608FB30CDD411450DE70F3B853DBEFA65
+
+TRACK 01 MD5: 0C93A25D03DE8CFAEDD777E85A17AA8C
+
+**Description:**
+
