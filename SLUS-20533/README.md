@@ -1,0 +1,20 @@
+**Game name:**
+
+Shox (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-20533
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B6BB5523195745E5036B1325A2C27A6DD8B3F3E3
+
+TRACK 01 MD5: 6935784AB357B4143DC1A8D8F5719905
+
+**Description:**
+
