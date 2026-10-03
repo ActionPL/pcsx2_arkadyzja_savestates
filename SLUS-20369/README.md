@@ -1,0 +1,20 @@
+**Game name:**
+
+Knockout Kings 2002 (USA)
+
+**Game ID:**
+
+SLUS-20369
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B53B455755783F18625B696A9E4E2103FB0599BD
+
+TRACK 01 MD5: 4F788E04929893319FEC0268EF2E437A
+
+**Description:**
+
