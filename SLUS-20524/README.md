@@ -1,0 +1,20 @@
+**Game name:**
+
+Fighter Maker 2 (USA)
+
+**Game ID:**
+
+SLUS-20524
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BD679CBB987B44EB142A8C573F06DAF6D6BE5222
+
+TRACK 01 MD5: 4E06E2F37468010B641B1A10EEEE8943
+
+**Description:**
+
