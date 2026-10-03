@@ -1,0 +1,20 @@
+**Game name:**
+
+Shaun White Snowboarding (USA)
+
+**Game ID:**
+
+SLUS-21853
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5D6BD6F5CDE9CD3AD645E8A8B08574563C47DE75
+
+TRACK 01 MD5: 9142811B1F77165999DFCCAF605C0B55
+
+**Description:**
+
