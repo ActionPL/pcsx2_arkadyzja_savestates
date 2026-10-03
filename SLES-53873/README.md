@@ -1,0 +1,20 @@
+**Game name:**
+
+Sol Divide (Europe)
+
+**Game ID:**
+
+SLES-53873
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9825786E5B5C85766AF6574B071D6A77A3D12540
+
+TRACK 01 MD5: 62BE4CD2C1B007C688D7BEE19E03E0E3
+
+**Description:**
+
