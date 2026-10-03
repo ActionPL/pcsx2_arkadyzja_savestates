@@ -1,0 +1,20 @@
+**Game name:**
+
+Sky Surfer (Europe) (En,Fr,De)
+
+**Game ID:**
+
+SLES-50261
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 253055F417302224150FF0477D9BBC8F315C2C9B
+
+TRACK 01 MD5: 777C74E0B4BAADDBF193A3C8DB134657
+
+**Description:**
+
