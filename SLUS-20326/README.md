@@ -1,0 +1,20 @@
+**Game name:**
+
+SSX Tricky (USA)
+
+**Game ID:**
+
+SLUS-20326
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 876488A36C09EA81FB1978B396DC52469237D416
+
+TRACK 01 MD5: 7D8EE567145BDF0C236CE5F5C679108A
+
+**Description:**
+
