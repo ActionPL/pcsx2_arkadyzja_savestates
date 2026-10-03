@@ -1,0 +1,20 @@
+**Game name:**
+
+SNK Arcade Classics Vol. 1 (USA)
+
+**Game ID:**
+
+SLUS-21724
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BF36D05AA75FF39301BC438921A8C110B6F41ED5
+
+TRACK 01 MD5: 4F68D6579A7E4D39FE3AEF882F8283BA
+
+**Description:**
+
