@@ -1,0 +1,20 @@
+**Game name:**
+
+NBA Hoopz (USA)
+
+**Game ID:**
+
+SLUS-20050
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 45286123519997EBDC3CBDEACDEE38F8E0216D20
+
+TRACK 01 MD5: ACD6BE94C8F79D4EB849B42C570B427A
+
+**Description:**
+
