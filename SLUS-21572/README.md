@@ -1,0 +1,20 @@
+**Game name:**
+
+Surf's Up (USA)
+
+**Game ID:**
+
+SLUS-21572
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 808497AF8EB121708E747B68AE229E6FE13D4C54
+
+TRACK 01 MD5: 5762E988D137A50EF83B0DC174957D9F
+
+**Description:**
+
