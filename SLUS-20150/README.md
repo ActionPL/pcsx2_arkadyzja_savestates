@@ -1,0 +1,20 @@
+**Game name:**
+
+Knockout Kings 2001 (USA)
+
+**Game ID:**
+
+SLUS-20150
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 41528785D3B5CE86BF1097CAB563B53C76C361E8
+
+TRACK 01 MD5: 495B8A7D3288FF4D635DC96F86996BD4
+
+**Description:**
+
