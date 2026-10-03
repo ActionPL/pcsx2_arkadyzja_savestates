@@ -1,0 +1,20 @@
+**Game name:**
+
+NHL Hitz 2003 (USA)
+
+**Game ID:**
+
+SLUS-20438
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8CD78EE904E0DCA3BE2508662C566813E2E7D22
+
+TRACK 01 MD5: EEB1F975119CE4EEFDCDBDFFFA6BFB28
+
+**Description:**
+
