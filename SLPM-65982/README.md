@@ -1,0 +1,20 @@
+**Game name:**
+
+SuperLite 2000 Vol. 41 - Tokyo Bus Guide 2 (Japan)
+
+**Game ID:**
+
+SLPM-65982
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 23F3A96C22230C6F834A6BA13D4252CF796C1E71
+
+TRACK 01 MD5: 83AD46205B018481FB41CD79C330EDBA
+
+**Description:**
+
