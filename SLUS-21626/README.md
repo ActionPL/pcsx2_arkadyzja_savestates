@@ -1,0 +1,20 @@
+**Game name:**
+
+Stuntman - Ignition (USA)
+
+**Game ID:**
+
+SLUS-21626
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AEE4B5C46F7C1BF37D3F7E1B81F238DC864C52BB
+
+TRACK 01 MD5: C09386E5270C3CA959CA4620B4305419
+
+**Description:**
+
