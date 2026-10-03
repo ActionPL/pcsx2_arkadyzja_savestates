@@ -1,0 +1,20 @@
+**Game name:**
+
+Secret Weapons over Normandy (USA)
+
+**Game ID:**
+
+SLUS-20762
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 10E1A01DB2AF2DE663D334E50FC4AEF0BE4658E0
+
+TRACK 01 MD5: 13E997AF6ACC434B8D240EF5DC72B768
+
+**Description:**
+
