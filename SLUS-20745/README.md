@@ -1,0 +1,20 @@
+**Game name:**
+
+Shrek 2 (USA)
+
+**Game ID:**
+
+SLUS-20745
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9BEDDC4676A487901F7D7A9E416FBAAFC6253077
+
+TRACK 01 MD5: 57E0FC9ECCA771C089D3A497D7E50633
+
+**Description:**
+
