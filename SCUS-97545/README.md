@@ -1,0 +1,20 @@
+**Game name:**
+
+SOCOM - U.S. Navy SEALs - Combined Assault (USA)
+
+**Game ID:**
+
+SCUS-97545
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FD0FB58846C525476088E40DE819EC88A3884430
+
+TRACK 01 MD5: 14DEBB0EF1BF99DD1B0CA83631C4B49C
+
+**Description:**
+
