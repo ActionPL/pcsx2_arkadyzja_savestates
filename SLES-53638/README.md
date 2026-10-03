@@ -1,0 +1,20 @@
+**Game name:**
+
+Ski Racing 2006 (Europe) (En,Fr,De,It,No)
+
+**Game ID:**
+
+SLES-53638
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 608FF1B449A35FB08019263C8D41ABB8B12796B7
+
+TRACK 01 MD5: B3149513F8BF660A83B1B7963AB0677F
+
+**Description:**
+
