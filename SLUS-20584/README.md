@@ -1,0 +1,20 @@
+**Game name:**
+
+Speed Kings (USA)
+
+**Game ID:**
+
+SLUS-20584
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E8A25DC4654CE18A10174FBA7101D76C63C68162
+
+TRACK 01 MD5: 0545D22A84B0CFE384E564F4786A6CD8
+
+**Description:**
+
