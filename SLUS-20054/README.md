@@ -1,0 +1,20 @@
+**Game name:**
+
+Ready 2 Rumble Boxing - Round 2 (USA)
+
+**Game ID:**
+
+SLUS-20054
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BBC640BC555CF801B906151E62132A23B96C1740
+
+TRACK 01 MD5: 0DB1E272EDF592CC8AC94F96A85123F0
+
+**Description:**
+
