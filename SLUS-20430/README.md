@@ -1,0 +1,20 @@
+**Game name:**
+
+Savage Skies (USA)
+
+**Game ID:**
+
+SLUS-20430
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0FE18756FFF73E93252304AB18D129133BD7D5BB
+
+TRACK 01 MD5: 8AAD62B78BB197A409DAB8E8FAAE6226
+
+**Description:**
+
