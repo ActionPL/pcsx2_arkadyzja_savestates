@@ -1,0 +1,20 @@
+**Game name:**
+
+Starsky & Hutch (USA)
+
+**Game ID:**
+
+SLUS-20619
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A889BBD3183303EFCCD7D66C4406F960DE1BC9F8
+
+TRACK 01 MD5: 9EDB70F205994DAC077CF3B1B710918D
+
+**Description:**
+
