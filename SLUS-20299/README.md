@@ -1,0 +1,20 @@
+**Game name:**
+
+Street Hoops (USA)
+
+**Game ID:**
+
+SLUS-20299
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 97C6968BF37241446B36A77BA7764E7872AF224F
+
+TRACK 01 MD5: 947E63351FDD9705F45AA762F0C9D089
+
+**Description:**
+
