@@ -1,0 +1,20 @@
+**Game name:**
+
+European Tennis Pro (Europe)
+
+**Game ID:**
+
+SLES-51813
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F86E7A2D95A21848E609A88838BFE688EBD6AAC1
+
+TRACK 01 MD5: 34D54ECA4CBF9CBB296B14FEFCB2D9C3
+
+**Description:**
+
