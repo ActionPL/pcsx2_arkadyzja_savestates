@@ -1,0 +1,20 @@
+**Game name:**
+
+SSX (USA)
+
+**Game ID:**
+
+SLUS-20095
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C1343F4D52B860F2F7C580C5A204C1B4538A6F3D
+
+TRACK 01 MD5: 4EDE743850F9B1A23E8E227447F6A07F
+
+**Description:**
+
