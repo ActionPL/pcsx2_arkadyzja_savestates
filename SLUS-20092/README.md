@@ -1,0 +1,20 @@
+**Game name:**
+
+Surfing H3O (USA)
+
+**Game ID:**
+
+SLUS-20092
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B06FC547723E8A4EB43218E5E198A5D75D6BBCF0
+
+TRACK 01 MD5: EAF10B71A675ABEA74FAF6D08C4F1E99
+
+**Description:**
+
