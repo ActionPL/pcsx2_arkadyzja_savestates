@@ -1,0 +1,20 @@
+**Game name:**
+
+Sega Classics Collection (USA)
+
+**Game ID:**
+
+SLUS-21009
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5363B4B1B97A86C420B01ED70BA9D453DA9A0BDC
+
+TRACK 01 MD5: 3F25427CF055066AA0AA2F8D96ACE438
+
+**Description:**
+
