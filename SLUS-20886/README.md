@@ -1,0 +1,20 @@
+**Game name:**
+
+Sitting Ducks (USA)
+
+**Game ID:**
+
+SLUS-20886
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 260EF6851515A2A9DF2D381814D3E7406BC232D1
+
+TRACK 01 MD5: D7B5D2EBA3DB02AB54D67FAFA749D7F4
+
+**Description:**
+
