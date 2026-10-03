@@ -1,0 +1,20 @@
+**Game name:**
+
+Soccer Mania (USA)
+
+**Game ID:**
+
+SLUS-20456
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 80DADE9CCAB27240F3C0A861F20B2B3F6D0CEF8A
+
+TRACK 01 MD5: 333F413012E317CC64B0E93BD77D5070
+
+**Description:**
+
