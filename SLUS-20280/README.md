@@ -1,0 +1,20 @@
+**Game name:**
+
+FIFA Soccer 2002 (USA) (En,De,Es,Nl,Sv)
+
+**Game ID:**
+
+SLUS-20280
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5559711BB1D0FD49D3BC5D08F2950F648154F4CF
+
+TRACK 01 MD5: 910772C53B1617FE0F1853725F8916E9
+
+**Description:**
+
