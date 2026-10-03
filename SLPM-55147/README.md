@@ -1,0 +1,20 @@
+**Game name:**
+
+Suggoi! Arcana Heart 2 (Japan)
+
+**Game ID:**
+
+SLPM-55147
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 957FA95DE5BC2E88120C27EA0E2EE36781B1370C
+
+TRACK 01 MD5: 497F919C849C78DBAE4CC05C7ED94BDB
+
+**Description:**
+
