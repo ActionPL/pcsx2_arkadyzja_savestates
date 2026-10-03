@@ -1,0 +1,20 @@
+**Game name:**
+
+SRS - Street Racing Syndicate (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-20582
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CB5C9150873A63334711BE0B9A9D1AA20D8CAFCF
+
+TRACK 01 MD5: 5E1DDBD39D86D90B42D77597C6DA2F2C
+
+**Description:**
+
