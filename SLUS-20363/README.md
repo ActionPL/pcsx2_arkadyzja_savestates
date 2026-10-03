@@ -1,0 +1,20 @@
+**Game name:**
+
+Sled Storm (USA)
+
+**Game ID:**
+
+SLUS-20363
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A698CA37ED8BF93B9F99C2422B20F271EC1217A7
+
+TRACK 01 MD5: 64124A8DACB6F40EEB3F82BC755D0E41
+
+**Description:**
+
