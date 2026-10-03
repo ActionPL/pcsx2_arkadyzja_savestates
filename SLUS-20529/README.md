@@ -1,0 +1,20 @@
+**Game name:**
+
+Madden NFL 2003 (USA)
+
+**Game ID:**
+
+SLUS-20529
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1B272146D78D1FBEF563B66909439048FE68DBFA
+
+TRACK 01 MD5: D9509FAC11CC5629E2DFC5D8FC0DCA40
+
+**Description:**
+
