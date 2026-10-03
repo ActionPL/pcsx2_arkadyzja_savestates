@@ -1,0 +1,20 @@
+**Game name:**
+
+SOCOM II - U.S. Navy SEALs (USA)
+
+**Game ID:**
+
+SCUS-97275
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 840E33F4637A8474E20FC7D5E918024E2B8D7DA8
+
+TRACK 01 MD5: 2591F0AAAA58CA0EB9BCF1F33F1E3BE2
+
+**Description:**
+
