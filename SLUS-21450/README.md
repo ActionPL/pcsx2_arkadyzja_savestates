@@ -1,0 +1,20 @@
+**Game name:**
+
+Super PickUps (USA)
+
+**Game ID:**
+
+SLUS-21450
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C703C8F96A0FA97E1CB5B5E914D6AB1958AD07EE
+
+TRACK 01 MD5: 599AA484F614B43711B02A0910772255
+
+**Description:**
+
