@@ -1,0 +1,20 @@
+**Game name:**
+
+Samurai Aces (Europe)
+
+**Game ID:**
+
+SLES-53872
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: AC4E6ACA10783DC04CB1C2723175A2F39CD2B817
+
+TRACK 01 MD5: A2A9805540504703CE893611857863F9
+
+**Description:**
+
