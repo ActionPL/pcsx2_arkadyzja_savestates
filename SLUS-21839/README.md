@@ -1,0 +1,20 @@
+**Game name:**
+
+Ski and Shoot (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21839
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4C1F9B01CB93B6AE56E21A397B4E1B0AD0CD49A3
+
+TRACK 01 MD5: 75B8154A80FB182DEFE635A8DF066A2A
+
+**Description:**
+
