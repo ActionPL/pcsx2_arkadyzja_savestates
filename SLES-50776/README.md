@@ -1,0 +1,20 @@
+**Game name:**
+
+Slam Tennis (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-50776
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6502252575C6893AC1A55FA53FB6F5685CE41FCE
+
+TRACK 01 MD5: 71C0EF33722D904EFF4278C475D662A8
+
+**Description:**
+
