@@ -1,0 +1,20 @@
+**Game name:**
+
+Sunny Garcia Surfing (USA)
+
+**Game ID:**
+
+SLUS-20208
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1138BF9293EB3BD2DD732EFC61F7B3F0DA3B7006
+
+TRACK 01 MD5: 7A96CB78A1CE8F2AC31FA927A9DCC3C0
+
+**Description:**
+
