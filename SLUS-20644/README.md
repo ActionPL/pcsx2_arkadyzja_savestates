@@ -1,0 +1,20 @@
+**Game name:**
+
+Silent Line - Armored Core (USA)
+
+**Game ID:**
+
+SLUS-20644
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 47A45BD7B4990035FE4DB1710D1A13C5527A76D9
+
+TRACK 01 MD5: B631E251F5067A195E81CD942982D40E
+
+**Description:**
+
