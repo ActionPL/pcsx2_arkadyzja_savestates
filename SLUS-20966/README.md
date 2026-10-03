@@ -1,0 +1,20 @@
+**Game name:**
+
+State of Emergency 2 (USA)
+
+**Game ID:**
+
+SLUS-20966
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 753C28CD2D9DDFC101C23BC5A0964D4632692DAD
+
+TRACK 01 MD5: F1D49A6AE1C7DE4DA9012CC292F6A148
+
+**Description:**
+
