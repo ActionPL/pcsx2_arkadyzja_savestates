@@ -7,3 +7,10 @@ patch=0,EE,20398AF0,extended,0000502D
 patch=0,EE,10398B10,extended,240701C0
 patch=0,EE,10398B38,extended,240701C0
 patch=0,EE,20398B48,extended,0000502D
+
+[Widescreen 16:9]
+gsaspectratio=16:9
+// Widescreen hack by nemesis2000 / ElHecht
+patch=1,EE,0034b014,word,3c013f40
+patch=1,EE,0034b018,word,44810000
+patch=1,EE,0034b020,word,4600c602
