@@ -1,0 +1,20 @@
+**Game name:**
+
+Sega Soccer Slam (USA)
+
+**Game ID:**
+
+SLUS-20509
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 056E9870E8CD78B94BC1294C2A31745A2086A0BD
+
+TRACK 01 MD5: B918B0AEA5DE26190E245796BB6A795D
+
+**Description:**
+
