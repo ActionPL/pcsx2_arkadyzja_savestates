@@ -1,0 +1,20 @@
+**Game name:**
+
+SNK vs. Capcom - SVC Chaos (Europe)
+
+**Game ID:**
+
+SLES-53065
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C43F0A94B8464CECBB92B54D0EBC9C65E06566A8
+
+TRACK 01 MD5: FE5A0C0B010E417AC19A8EEACB079315
+
+**Description:**
+
