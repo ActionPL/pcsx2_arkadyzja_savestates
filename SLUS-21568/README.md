@@ -1,0 +1,20 @@
+**Game name:**
+
+Arena Football - Road to Glory (USA)
+
+**Game ID:**
+
+SLUS-21568
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F7C92D737789EB7184F150CE946F7E70ED54E019
+
+TRACK 01 MD5: 7E1C0D9CBF00A5FD3009A43B57352C65
+
+**Description:**
+
