@@ -1,0 +1,20 @@
+**Game name:**
+
+Bomberman Kart DX (Japan)
+
+**Game ID:**
+
+SLPM-62478
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ACC989583B3C821E2CED0AD2C20803DD83B00B85
+
+TRACK 01 MD5: CAA130913CDA09272F9C98974EA61FB6
+
+**Description:**
+
