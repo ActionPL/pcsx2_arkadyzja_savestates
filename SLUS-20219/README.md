@@ -1,0 +1,20 @@
+**Game name:**
+
+Time Crisis II (USA)
+
+**Game ID:**
+
+SLUS-20219
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 73352130B575C0741E23B6296AFE7FA511B9A005
+
+TRACK 01 MD5: AE422FA4614592909D3961BC16651DCB
+
+**Description:**
+
