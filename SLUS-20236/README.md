@@ -1,0 +1,20 @@
+**Game name:**
+
+Taz - Wanted (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-20236
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8C52D2A2B4F3E2D348335184E19DAB9111CC76D3
+
+TRACK 01 MD5: 11A55579E55BD2CD6BDE16F06BA1158F
+
+**Description:**
+
