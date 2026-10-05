@@ -1,0 +1,20 @@
+**Game name:**
+
+Test Drive (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-20213
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5BBB6C5264FDDB1AF4F18813643E3F2465E0FEE4
+
+TRACK 01 MD5: 97D938D2C3A0C167D21CB0D19F721DD8
+
+**Description:**
+
