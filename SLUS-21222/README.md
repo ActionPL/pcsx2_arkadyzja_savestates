@@ -1,0 +1,20 @@
+**Game name:**
+
+Top Spin (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21222
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 837405DA918FA9ED85FD945AD0405E72AA56D5B0
+
+TRACK 01 MD5: 38B60B7C717FB5AB6AE5CA3E82B20055
+
+**Description:**
+
