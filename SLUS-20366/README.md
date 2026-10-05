@@ -1,0 +1,20 @@
+**Game name:**
+
+Triple Play 2002 (USA)
+
+**Game ID:**
+
+SLUS-20366
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9D85A0052BF8A6D1CC5BCCD579982FDD06EEC1A4
+
+TRACK 01 MD5: E229D3D6DEBFDD44D7187CFD8A8153DC
+
+**Description:**
+
