@@ -1,0 +1,20 @@
+**Game name:**
+
+UEFA Euro 2004 - Portugal (USA) (En,Es)
+
+**Game ID:**
+
+SLUS-20936
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9CEEB130EEA7A4E15EC7E71773A0DCD89C9F0163
+
+TRACK 01 MD5: B0DC13A6E0CDD4147BD5FEA7F44B4F73
+
+**Description:**
+
