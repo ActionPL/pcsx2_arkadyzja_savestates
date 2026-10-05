@@ -1,0 +1,20 @@
+**Game name:**
+
+Test Drive Off-Road - Wide Open (USA)
+
+**Game ID:**
+
+SLUS-20177
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A2F838AC8F33D36038DCBF5D0AC8E420A2D010D1
+
+TRACK 01 MD5: B9E18B5BC6FE317A0CD4109E49192698
+
+**Description:**
+
