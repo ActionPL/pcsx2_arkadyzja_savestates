@@ -1,0 +1,20 @@
+**Game name:**
+
+UEFA Champions League 2004-2005 (Europe)
+
+**Game ID:**
+
+SLES-52909
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D74FC794B371A1BD7ABC021B0467B787D6904259
+
+TRACK 01 MD5: 6019AAD80027536DFEAE0CADD4A2AC3E
+
+**Description:**
+
