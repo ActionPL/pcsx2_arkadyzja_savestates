@@ -1,0 +1,20 @@
+**Game name:**
+
+Total Immersion Racing (USA)
+
+**Game ID:**
+
+SLUS-20409
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EA2055C5D33243F794995D0471C46BDDC3B2DE46
+
+TRACK 01 MD5: 3B26EEC3AC379A27C87AF2D9FA4538F0
+
+**Description:**
+
