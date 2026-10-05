@@ -1,0 +1,20 @@
+**Game name:**
+
+Ultraman Nexus (Japan)
+
+**Game ID:**
+
+SLPS-20420
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4C66FE4B97CFC14B3EA315EB2B1C846003451445
+
+TRACK 01 MD5: 7B09B63D5B0BF72A970E10E96B7CC9F2
+
+**Description:**
+
