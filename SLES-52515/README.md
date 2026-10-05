@@ -1,0 +1,20 @@
+**Game name:**
+
+Ultimate Casino (Europe)
+
+**Game ID:**
+
+SLES-52515
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 135B9CD461E68260397E5C4D78110FE51598B08A
+
+TRACK 01 MD5: EEF6E2E0FCCFFB5DDF82A14C898E3A62
+
+**Description:**
+
