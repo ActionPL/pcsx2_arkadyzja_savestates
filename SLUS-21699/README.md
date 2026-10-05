@@ -1,0 +1,20 @@
+**Game name:**
+
+UEFA Euro 2008 - Austria-Switzerland (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21699
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0F5E8DD2D3A88F15BE0338851E28C39DE4337D2C
+
+TRACK 01 MD5: 8FFDDD05C5D6FF23ED4782E05EFA3A52
+
+**Description:**
+
