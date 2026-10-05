@@ -1,0 +1,20 @@
+**Game name:**
+
+Twin Caliber (Europe) (En,Fr,Es,It)
+
+**Game ID:**
+
+SLES-50986
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D75DC3B3411075A23926979021B60B17E4B253B0
+
+TRACK 01 MD5: 1FEE94709A244EBE9B66AF8F654E4D1A
+
+**Description:**
+
