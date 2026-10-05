@@ -1,0 +1,20 @@
+**Game name:**
+
+Twenty 2 Party (Europe)
+
+**Game ID:**
+
+SLES-53369
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5FF23B409B8387502A0F35010046FD8A2DF1802D
+
+TRACK 01 MD5: 1F0FF57B5BBBECD109F5A854940F45C6
+
+**Description:**
+
