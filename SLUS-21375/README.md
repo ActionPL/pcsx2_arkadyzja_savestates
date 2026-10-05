@@ -1,0 +1,20 @@
+**Game name:**
+
+Torino 2006 (USA)
+
+**Game ID:**
+
+SLUS-21375
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2558D9C4FDC7B3B5EC753C1A592B816F4FF71834
+
+TRACK 01 MD5: 2620E749C1A65B0B74667835E9D73F7E
+
+**Description:**
+
