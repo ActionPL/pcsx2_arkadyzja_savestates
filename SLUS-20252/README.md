@@ -1,0 +1,20 @@
+**Game name:**
+
+UFC - Throwdown (USA)
+
+**Game ID:**
+
+SLUS-20252
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CAC748F695BD5E3A4B9B43DDEACEF91275FE6F30
+
+TRACK 01 MD5: 51326632D2CFC19D0A3587D8DBB6BCB2
+
+**Description:**
+
