@@ -1,0 +1,20 @@
+**Game name:**
+
+Tengai (Europe)
+
+**Game ID:**
+
+SLES-53871
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9F44331AFBBF98FD7EFCBF8437559C3F00A30919
+
+TRACK 01 MD5: C54F06FC002EB1EB741B01C0A758C0E4
+
+**Description:**
+
