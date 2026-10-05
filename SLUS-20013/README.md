@@ -1,0 +1,20 @@
+**Game name:**
+
+Tony Hawk's Pro Skater 3 (USA) (Rev 1)
+
+**Game ID:**
+
+SLUS-20013
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5A19F5AE2221AF1D913701F7EE03DDC802C57129
+
+TRACK 01 MD5: CDAD22713141F2E313526071C4E6C0FE
+
+**Description:**
+
