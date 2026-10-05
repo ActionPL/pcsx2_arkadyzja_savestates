@@ -1,0 +1,20 @@
+**Game name:**
+
+TOCA Race Driver 2 (USA)
+
+**Game ID:**
+
+SLUS-21039
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DD6FFAFD8B2DC9C35746AB03FDF390375CF16CDC
+
+TRACK 01 MD5: 511028F2180CDB7535ABF169D542EC27
+
+**Description:**
+
