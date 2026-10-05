@@ -1,0 +1,20 @@
+**Game name:**
+
+Vampire Night (USA)
+
+**Game ID:**
+
+SLUS-20221
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 743D92C9F5AFD3B86E6F1C1455AA419CBB988449
+
+TRACK 01 MD5: 2BE97CDCB70C22609D1E00F34CFB488C
+
+**Description:**
+
