@@ -1,0 +1,20 @@
+**Game name:**
+
+Tiger Woods PGA Tour 2004 (USA)
+
+**Game ID:**
+
+SLUS-20757
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 22E85FF66002235AD837442D30FE40C631CA7E11
+
+TRACK 01 MD5: 9CFE13FD82855CDCEC76F8E34F48A340
+
+**Description:**
+
