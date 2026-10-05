@@ -1,0 +1,20 @@
+**Game name:**
+
+Tony Hawk's Project 8 (USA)
+
+**Game ID:**
+
+SLUS-21444
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4FB845726AFF760B3AE5F6260504F1D6352D4FC4
+
+TRACK 01 MD5: 94BAEF032B42719ACDF6449B7BB2791C
+
+**Description:**
+
