@@ -1,0 +1,20 @@
+**Game name:**
+
+Totally Spies! Totally Party (USA)
+
+**Game ID:**
+
+SLUS-21795
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8B147FD9101FEDB52517BC651A502C822D107BD7
+
+TRACK 01 MD5: 12CCC8F2C588B59295158E38C8C0219C
+
+**Description:**
+
