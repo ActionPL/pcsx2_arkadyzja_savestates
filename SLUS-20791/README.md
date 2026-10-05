@@ -1,0 +1,20 @@
+**Game name:**
+
+Trivial Pursuit - Unhinged (USA)
+
+**Game ID:**
+
+SLUS-20791
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2BFBA4A0FD527F8B4F49F289E177E64EED99B1EE
+
+TRACK 01 MD5: CAF9B667B25BE0B5CCF11EE5D0A3B2CA
+
+**Description:**
+
