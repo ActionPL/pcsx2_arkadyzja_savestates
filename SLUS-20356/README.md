@@ -1,0 +1,20 @@
+**Game name:**
+
+TransWorld Surf (USA)
+
+**Game ID:**
+
+SLUS-20356
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E2410E8E7FFEFA24812D6F158F377456D57DB723
+
+TRACK 01 MD5: 5C1B3E68AAAE7D8F27395578D0AC5F84
+
+**Description:**
+
