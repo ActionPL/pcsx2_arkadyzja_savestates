@@ -1,0 +1,20 @@
+**Game name:**
+
+Tom Clancy's Ghost Recon (USA)
+
+**Game ID:**
+
+SLUS-20613
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 648BCD95A0F4AD6ECB11B8FF7D0A1FD8865239B3
+
+TRACK 01 MD5: B50FEBF124F21B6A66A4447A635B84E2
+
+**Description:**
+
