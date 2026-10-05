@@ -1,0 +1,20 @@
+**Game name:**
+
+Tiger Woods PGA Tour 2005 (USA)
+
+**Game ID:**
+
+SLUS-21002
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 06881B275F1F7CDD2B63960B8B1DEFA3BAC5C2D8
+
+TRACK 01 MD5: 5F434E94641AC86771153AEC2AE930FA
+
+**Description:**
+
