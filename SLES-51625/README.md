@@ -1,0 +1,20 @@
+**Game name:**
+
+Ultimate Mind Games (Europe)
+
+**Game ID:**
+
+SLES-51625
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B9C404B24FF7F0EEF32D4DA9E0EA004E24C5D7F5
+
+TRACK 01 MD5: EB906E9FFBC5EDA5526956A7B6DC6898
+
+**Description:**
+
