@@ -1,0 +1,20 @@
+**Game name:**
+
+Tony Hawk's Underground (USA)
+
+**Game ID:**
+
+SLUS-20731
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1BF242746280DF36876FDEFE3ADAB9307FC2CDE9
+
+TRACK 01 MD5: 39ED88773503866F9223F937D1FFD37D
+
+**Description:**
+
