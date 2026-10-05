@@ -1,0 +1,20 @@
+**Game name:**
+
+Tales of Symphonia (Japan)
+
+**Game ID:**
+
+SLPS-25400
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 583E9E0C65900251E1C994A84FB592C54F4BC0F3
+
+TRACK 01 MD5: 257C3A08A9FACA092BA8D70C7D317B03
+
+**Description:**
+
