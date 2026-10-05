@@ -1,0 +1,20 @@
+**Game name:**
+
+UEFA Challenge (Europe) (En,Fr,De,Es,It,Nl,Pt)
+
+**Game ID:**
+
+SLES-50195
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CBCB05DD88AA9E32646AA596472EFD0B5EB0D3ED
+
+TRACK 01 MD5: 956D65558DC89F3DA521D8317E80A40B
+
+**Description:**
+
