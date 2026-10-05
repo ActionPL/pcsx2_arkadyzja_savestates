@@ -1,0 +1,20 @@
+**Game name:**
+
+Thrillville - Off the Rails (USA)
+
+**Game ID:**
+
+SLUS-21611
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 363144AF84379F2135CB5427B963660C08897EDE
+
+TRACK 01 MD5: 9CFBF73F68C3053FBE594776CF35F702
+
+**Description:**
+
