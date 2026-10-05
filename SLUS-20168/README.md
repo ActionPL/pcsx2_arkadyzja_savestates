@@ -1,0 +1,20 @@
+**Game name:**
+
+Triple Play Baseball (USA)
+
+**Game ID:**
+
+SLUS-20168
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0728CB089CF31668F35354C1E5838DCE161A9C61
+
+TRACK 01 MD5: CE856AF54CA6B876BF1D6F393B721DEA
+
+**Description:**
+
