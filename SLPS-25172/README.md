@@ -1,0 +1,20 @@
+**Game name:**
+
+Tales of Destiny 2 (Japan, Asia)
+
+**Game ID:**
+
+SLPS-25172
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4289E46C4340B90221FF2F61680070842BF695E0
+
+TRACK 01 MD5: 57CC3626A9CDC44BCDE55EFDE9D22E78
+
+**Description:**
+
