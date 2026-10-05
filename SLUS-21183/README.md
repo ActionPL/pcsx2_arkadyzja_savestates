@@ -1,0 +1,20 @@
+**Game name:**
+
+Teen Titans (USA)
+
+**Game ID:**
+
+SLUS-21183
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4BAFC8A4156282E79CB9855889DC3EBA211A1972
+
+TRACK 01 MD5: 97EA6453C36EFC163CA84004005F14BE
+
+**Description:**
+
