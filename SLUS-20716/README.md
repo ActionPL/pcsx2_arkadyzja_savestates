@@ -1,0 +1,20 @@
+**Game name:**
+
+Teenage Mutant Ninja Turtles (USA)
+
+**Game ID:**
+
+SLUS-20716
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 716C3D21586F46E4DAA50629289DB258D8741AFD
+
+TRACK 01 MD5: 1BECEB6DF7171862779675AD23BFFDA9
+
+**Description:**
+
