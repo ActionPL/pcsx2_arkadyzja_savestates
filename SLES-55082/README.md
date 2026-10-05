@@ -1,0 +1,20 @@
+**Game name:**
+
+Urban Constructor (Europe)
+
+**Game ID:**
+
+SLES-55082
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7D2A28790446FD9A58086387322295279F00C631
+
+TRACK 01 MD5: E5F67F7DD35ED3736C63EC40573471B1
+
+**Description:**
+
