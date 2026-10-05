@@ -1,0 +1,20 @@
+**Game name:**
+
+Tales of Rebirth (Japan)
+
+**Game ID:**
+
+SLPS-25450
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9CF678D64BF60D2D753847FE1EEF6128FE2EFC03
+
+TRACK 01 MD5: 13F24DBEA15C1D5CA4FBEFE41F4613AA
+
+**Description:**
+
