@@ -1,0 +1,20 @@
+**Game name:**
+
+Turok - Evolution (USA)
+
+**Game ID:**
+
+SLUS-20333
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B147381C3E60FD5294C5C8FDA47329BD12190657
+
+TRACK 01 MD5: DF4D58B95B7F0A7D2EAE6D24DC732B63
+
+**Description:**
+
