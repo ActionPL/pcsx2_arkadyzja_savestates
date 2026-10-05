@@ -1,0 +1,20 @@
+**Game name:**
+
+Truck Racer (Europe) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLES-55479
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3865881199E970FB55A6DE115DB8BBD0BF53876C
+
+TRACK 01 MD5: 4D4E828C11CF9B2EEF3C2ABDD499E626
+
+**Description:**
+
