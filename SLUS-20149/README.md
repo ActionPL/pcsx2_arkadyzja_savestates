@@ -1,0 +1,20 @@
+**Game name:**
+
+Tribes - Aerial Assault (USA)
+
+**Game ID:**
+
+SLUS-20149
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6AEC5EF2139FFA45138B55148686AEF92E3DD2D2
+
+TRACK 01 MD5: 32358DE919EEE0FE312FEE650E40AF80
+
+**Description:**
+
