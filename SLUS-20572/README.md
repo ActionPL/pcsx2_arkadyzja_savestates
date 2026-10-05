@@ -1,0 +1,20 @@
+**Game name:**
+
+Tiger Woods PGA Tour 2003 (USA)
+
+**Game ID:**
+
+SLUS-20572
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3F6947A1A64D6A938241BBE8FD6A7BBD1935AC0A
+
+TRACK 01 MD5: BD4944B3B8E8A66486657293D6FBE9E8
+
+**Description:**
+
