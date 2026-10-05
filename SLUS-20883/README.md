@@ -1,0 +1,20 @@
+**Game name:**
+
+Tom Clancy's Rainbow Six 3 (USA)
+
+**Game ID:**
+
+SLUS-20883
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 56BD0B30C615D748481274448ECB85B492864F1C
+
+TRACK 01 MD5: 892A9F4D9F88984DEC8849636CAA703B
+
+**Description:**
+
