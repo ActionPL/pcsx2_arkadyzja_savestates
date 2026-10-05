@@ -1,0 +1,20 @@
+**Game name:**
+
+Technic Beat (USA)
+
+**Game ID:**
+
+SLUS-21019
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7F9E11E7AE83B604C6CD698C64FCB96FF24C895F
+
+TRACK 01 MD5: 75C69BB4E6EDCCB511CF084D88815680
+
+**Description:**
+
