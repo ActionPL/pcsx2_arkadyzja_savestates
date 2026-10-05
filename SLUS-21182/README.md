@@ -1,0 +1,20 @@
+**Game name:**
+
+TOCA Race Driver 3 (USA)
+
+**Game ID:**
+
+SLUS-21182
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 40A4DF9815930744B29C569E974DD7705516FC3A
+
+TRACK 01 MD5: D736DF5036B90B37A247315564D61EF4
+
+**Description:**
+
