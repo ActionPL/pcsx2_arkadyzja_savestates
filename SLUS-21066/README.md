@@ -1,0 +1,20 @@
+**Game name:**
+
+Urbz, The - Sims in the City (USA)
+
+**Game ID:**
+
+SLUS-21066
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 64C06146627B178126109B1D589AEB034C9C6438
+
+TRACK 01 MD5: E0D6EB0FE5BA3E6554BFC1D85EF21055
+
+**Description:**
+
