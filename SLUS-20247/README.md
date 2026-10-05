@@ -1,0 +1,20 @@
+**Game name:**
+
+Tetris Worlds (USA)
+
+**Game ID:**
+
+SLUS-20247
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 626CC9EBE8CA0076C5FD9CFBA0BE37120AE8E93C
+
+TRACK 01 MD5: E94509FB1131693F3CE464E70E6EB8C1
+
+**Description:**
+
