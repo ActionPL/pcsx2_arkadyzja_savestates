@@ -1,0 +1,20 @@
+**Game name:**
+
+Taito Legends (USA)
+
+**Game ID:**
+
+SLUS-21122
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5AB3F65723588B9F63BC11D48A585F53E0E896E1
+
+TRACK 01 MD5: 0ADED52EAD37DD3500CD31B6FB675BB8
+
+**Description:**
+
