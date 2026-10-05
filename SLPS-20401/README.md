@@ -1,0 +1,20 @@
+**Game name:**
+
+Tecmo Hit Parade (Japan)
+
+**Game ID:**
+
+SLPS-20401
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ED6856A404FD1EA1A678174BC01821E1F8DECB54
+
+TRACK 01 MD5: 3AB6B13DE6198988B268AF0A2A2ADB6A
+
+**Description:**
+
