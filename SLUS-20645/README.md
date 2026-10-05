@@ -1,0 +1,20 @@
+**Game name:**
+
+Time Crisis 3 (USA)
+
+**Game ID:**
+
+SLUS-20645
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 74FF088456AB00BD7275C254E5B6A9EFFA725591
+
+TRACK 01 MD5: D5CC226C6BB6C9A8342DEB2A302C5C64
+
+**Description:**
+
