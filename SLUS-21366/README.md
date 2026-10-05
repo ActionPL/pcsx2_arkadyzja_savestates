@@ -1,0 +1,20 @@
+**Game name:**
+
+Ultimate Board Game Collection (USA)
+
+**Game ID:**
+
+SLUS-21366
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A4F48338F2C0C03CA3003BE589561A27B06EAAE5
+
+TRACK 01 MD5: DCFA0F32115FF81F62A9150748ECF92C
+
+**Description:**
+
