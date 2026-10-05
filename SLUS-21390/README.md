@@ -1,0 +1,20 @@
+**Game name:**
+
+Urban Chaos - Riot Response (USA)
+
+**Game ID:**
+
+SLUS-21390
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B70D28C978B2F03EBD14A0211FEF0DACEA4F96D5
+
+TRACK 01 MD5: F0D5471F16C3B0F5F515F713593F0DF8
+
+**Description:**
+
