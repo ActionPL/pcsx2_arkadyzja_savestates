@@ -1,0 +1,20 @@
+**Game name:**
+
+Twisted Metal - Black Online (USA)
+
+**Game ID:**
+
+SCUS-97196
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9D17F3C3856C7AA09FE43CD075AD3FB41847507B
+
+TRACK 01 MD5: A531C955F8A89B6D523699A800B2F9E6
+
+**Description:**
+
