@@ -1,0 +1,20 @@
+**Game name:**
+
+UEFA Champions League 2006-2007 (USA)
+
+**Game ID:**
+
+SLUS-21581
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: EEE8B5CD221FA4A5A3CE8D52A2429DD06AD68471
+
+TRACK 01 MD5: C990602FF500AFF8E24AC6E169BD127B
+
+**Description:**
+
