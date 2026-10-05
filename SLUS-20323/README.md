@@ -1,0 +1,20 @@
+**Game name:**
+
+Virtua Fighter 4 (USA)
+
+**Game ID:**
+
+SLUS-20323
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 220E9D11256113DFB482BC8471901FAFEF0D5EC9
+
+TRACK 01 MD5: 961C46ACE3BFC96E4E88EA1E93E35E81
+
+**Description:**
+
