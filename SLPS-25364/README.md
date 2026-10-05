@@ -1,0 +1,20 @@
+**Game name:**
+
+Ultraman (Japan)
+
+**Game ID:**
+
+SLPS-25364
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 32A6E3C26EEBDD9BD644427D033EC1EFB8D2F250
+
+TRACK 01 MD5: 2C7656BC9F346594E54D8C1FA181BB70
+
+**Description:**
+
