@@ -1,0 +1,20 @@
+**Game name:**
+
+V-Rally 3 (USA)
+
+**Game ID:**
+
+SLUS-20496
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B6D07E8EFDBB37C401FF8BB6D77DB0FB46556632
+
+TRACK 01 MD5: 785C79C273EEB4C977CB5318645E2815
+
+**Description:**
+
