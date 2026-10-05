@@ -1,0 +1,20 @@
+**Game name:**
+
+Tourist Trophy (USA)
+
+**Game ID:**
+
+SCUS-97502
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5A79D32D1044CDF5FE2CD9A9844844D840B3D4CD
+
+TRACK 01 MD5: 4113CA5D3681E4D04EB7B77D48D7190B
+
+**Description:**
+
