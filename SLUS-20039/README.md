@@ -1,0 +1,20 @@
+**Game name:**
+
+Top Gear Dare Devil (USA)
+
+**Game ID:**
+
+SLUS-20039
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 6C8EC09E2F5DA609D8621A36536FF6D6FB967E9F
+
+TRACK 01 MD5: 356AFB5B9C3265F8F1A086E97AE302ED
+
+**Description:**
+
