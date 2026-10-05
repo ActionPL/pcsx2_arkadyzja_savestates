@@ -1,0 +1,20 @@
+**Game name:**
+
+Truck Racing 2 (Europe)
+
+**Game ID:**
+
+SLES-53173
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BE71C863A1752E42180CACD982B229ADE47A8948
+
+TRACK 01 MD5: A6D1A7398EB5F4602A2B5E1892A0F21F
+
+**Description:**
+
