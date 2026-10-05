@@ -1,0 +1,20 @@
+**Game name:**
+
+Tony Hawk's Pro Skater 4 (USA) (v2.01)
+
+**Game ID:**
+
+SLUS-20504
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5B718977212D3517C39187C060BEBA20188AD55D
+
+TRACK 01 MD5: 7D7CF01D5B3DA4E8EC716883563B050B
+
+**Description:**
+
