@@ -1,0 +1,20 @@
+**Game name:**
+
+Under the Skin (USA)
+
+**Game ID:**
+
+SLUS-20985
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3538A8E785B95B7147086F20A896A5EF8605618C
+
+TRACK 01 MD5: 8A8DAED92378AC137FB14895A3BAFD3A
+
+**Description:**
+
