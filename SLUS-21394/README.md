@@ -1,0 +1,20 @@
+**Game name:**
+
+Tokyo Xtreme Racer - Drift 2 (USA)
+
+**Game ID:**
+
+SLUS-21394
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 936EBBA3964268CF2B900E02979FDE675FB631BF
+
+TRACK 01 MD5: A31315D97E5D6C36BAAE4B84B99D528E
+
+**Description:**
+
