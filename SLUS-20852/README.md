@@ -1,0 +1,20 @@
+**Game name:**
+
+Terminator 3 - The Redemption (USA)
+
+**Game ID:**
+
+SLUS-20852
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 064A9D8C72DC8154ECFF88DD8AED88D712539B55
+
+TRACK 01 MD5: D460FFE0510A3E5CB2ED7A5E723A4776
+
+**Description:**
+
