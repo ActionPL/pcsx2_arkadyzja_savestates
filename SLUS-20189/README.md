@@ -1,0 +1,20 @@
+**Game name:**
+
+Tokyo Xtreme Racer - Zero (USA)
+
+**Game ID:**
+
+SLUS-20189
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FD015927CD73C20774B8412C5987211266FC336F
+
+TRACK 01 MD5: 75B84CC555D40DA2E367C72FD51AA381
+
+**Description:**
+
