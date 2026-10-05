@@ -1,0 +1,20 @@
+**Game name:**
+
+Tony Hawk's Underground 2 (USA)
+
+**Game ID:**
+
+SLUS-20965
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 412BA66CD9F8CADC17225C6750B141D46F6676B1
+
+TRACK 01 MD5: 96D2ABE7E09FC43F6BBBE47307464DC7
+
+**Description:**
+
