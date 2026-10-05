@@ -1,0 +1,20 @@
+**Game name:**
+
+Telly Addicts (Europe)
+
+**Game ID:**
+
+SLES-55040
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 28AB218F103A4CF4BA9324FDAACC65E4B9F38818
+
+TRACK 01 MD5: 7072F4650AACC12ECE8FEAD4451F088B
+
+**Description:**
+
