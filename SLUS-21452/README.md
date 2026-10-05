@@ -1,0 +1,20 @@
+**Game name:**
+
+Valkyrie Profile 2 - Silmeria (USA)
+
+**Game ID:**
+
+SLUS-21452
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 20399113A0D510C31AF17561A9546CF0376BDA1F
+
+TRACK 01 MD5: 0B7D4E1C924D43F2E84D48B5A7017679
+
+**Description:**
+
