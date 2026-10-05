@@ -1,0 +1,20 @@
+**Game name:**
+
+Urban Extreme (Europe)
+
+**Game ID:**
+
+SLES-52957
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CA5CD6C74FA7B6180E49566B2328F299527AFC69
+
+TRACK 01 MD5: 23446EF35816065541D868D9CB17E4AD
+
+**Description:**
+
