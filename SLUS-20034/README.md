@@ -1,0 +1,20 @@
+**Game name:**
+
+Unreal Tournament (USA)
+
+**Game ID:**
+
+SLUS-20034
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CDE8112BFA6F481CC0AD43A9C78548915B419233
+
+TRACK 01 MD5: 1CDCA86D2963697CD6AE22C99B8BAB76
+
+**Description:**
+
