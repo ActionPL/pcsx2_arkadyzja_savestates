@@ -1,0 +1,20 @@
+**Game name:**
+
+Tokyo Xtreme Racer 3 (USA)
+
+**Game ID:**
+
+SLUS-20831
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: ED5BB8935D2BCDA3DCFBA2FDA5043AF4C5FF8F97
+
+TRACK 01 MD5: 054C01F5CA1A069A339B8C127B848FF0
+
+**Description:**
+
