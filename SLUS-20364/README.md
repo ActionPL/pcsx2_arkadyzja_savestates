@@ -1,0 +1,20 @@
+**Game name:**
+
+Tiger Woods PGA Tour 2002 (USA)
+
+**Game ID:**
+
+SLUS-20364
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A3F40AA786617BEE2AB6D138644F5DA1C4384E77
+
+TRACK 01 MD5: 6AF3F2F6F2A869BF0A804B25C7000D5D
+
+**Description:**
+
