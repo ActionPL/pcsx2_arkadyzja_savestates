@@ -1,0 +1,20 @@
+**Game name:**
+
+Tank Elite (Europe)
+
+**Game ID:**
+
+SLES-51855
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F599FF13BACD92D7BE03A27CED85DC86A48CC753
+
+TRACK 01 MD5: 77E4EA8805B95ACD953740AD513FD20E
+
+**Description:**
+
