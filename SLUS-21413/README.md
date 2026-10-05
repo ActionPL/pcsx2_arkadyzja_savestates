@@ -1,0 +1,20 @@
+**Game name:**
+
+Thrillville (USA) (v2.00)
+
+**Game ID:**
+
+SLUS-21413
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B8D54FCA2101001F72F00C4BD58F38634C4E0C84
+
+TRACK 01 MD5: 46142AC6DFE6CE764DC527912470E4CA
+
+**Description:**
+
