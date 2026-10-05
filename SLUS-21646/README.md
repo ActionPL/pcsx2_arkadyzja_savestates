@@ -1,0 +1,20 @@
+**Game name:**
+
+Tiger Woods PGA Tour 08 (USA)
+
+**Game ID:**
+
+SLUS-21646
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 41CC9F93AE31FC7A1F582CAA1FA61DBF3A7653C1
+
+TRACK 01 MD5: 6D56AE6278EB80153C849C44D4F57B77
+
+**Description:**
+
