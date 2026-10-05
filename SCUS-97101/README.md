@@ -1,0 +1,20 @@
+**Game name:**
+
+Twisted Metal - Black (USA)
+
+**Game ID:**
+
+SCUS-97101
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7F782B149DCCCAED4CACE2B344261241CD132355
+
+TRACK 01 MD5: F55BB3C22C2133F55DBD589DD7B0220D
+
+**Description:**
+
