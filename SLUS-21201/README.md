@@ -1,0 +1,20 @@
+**Game name:**
+
+Tales of Legendia (USA)
+
+**Game ID:**
+
+SLUS-21201
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 888EDEC223EC9333F59A294CAB59F69608E04C0D
+
+TRACK 01 MD5: DE570160E140F8101A3E9E551EFA2F80
+
+**Description:**
+
