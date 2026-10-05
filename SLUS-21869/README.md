@@ -1,0 +1,20 @@
+**Game name:**
+
+Trivial Pursuit (USA)
+
+**Game ID:**
+
+SLUS-21869
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 15DF992DC35FC789A45FB645A5452F28F9C0497C
+
+TRACK 01 MD5: 02A1F63BC5A49A9AE3AA4E55FAEFF7E1
+
+**Description:**
+
