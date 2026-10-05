@@ -1,0 +1,20 @@
+**Game name:**
+
+Tales of the Abyss (USA)
+
+**Game ID:**
+
+SLUS-21386
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F67CFD687C37EF7B75F99FA4EBCD1A3D1B1C367C
+
+TRACK 01 MD5: 7629B262DA685BC46FCB1E6D5FC831E0
+
+**Description:**
+
