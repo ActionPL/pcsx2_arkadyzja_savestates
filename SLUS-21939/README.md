@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE SmackDown vs. Raw 2011 (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21939
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 09DBCC40634B5ABE14E2DF0350A0946FF22C2602
+
+TRACK 01 MD5: 5D530F59B3EB3B4EF7D1CFC717B472FE
+
+**Description:**
+
