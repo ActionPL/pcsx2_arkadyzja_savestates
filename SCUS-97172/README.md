@@ -1,0 +1,20 @@
+**Game name:**
+
+World Tour Soccer 2002 (USA)
+
+**Game ID:**
+
+SCUS-97172
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 30B72ABB2B3189C88453D00407C84A81DF0F8674
+
+TRACK 01 MD5: 43370696FD6E651AC8AAAE3BE23C0DC9
+
+**Description:**
+
