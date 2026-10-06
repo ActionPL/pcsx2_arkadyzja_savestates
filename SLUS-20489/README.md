@@ -1,0 +1,20 @@
+**Game name:**
+
+Whirl Tour (USA)
+
+**Game ID:**
+
+SLUS-20489
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 4CDDC87013BA1DF7AAE848652A91F07A5D2534A1
+
+TRACK 01 MD5: 745BD5F708CD456EFCE4892B0BDB37C2
+
+**Description:**
+
