@@ -1,0 +1,20 @@
+**Game name:**
+
+Zapper (USA)
+
+**Game ID:**
+
+SLUS-20528
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0311BF0AD930DD99C73929525253A876AE762251
+
+TRACK 01 MD5: 161D935E34F6848BCC26713381670793
+
+**Description:**
+
