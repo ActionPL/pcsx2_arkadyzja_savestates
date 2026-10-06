@@ -1,0 +1,20 @@
+**Game name:**
+
+Winter X Games Snowboarding 2002 (USA)
+
+**Game ID:**
+
+SLUS-20321
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 01A88659C57A01BD8A189A42D77E7AB57A8ED947
+
+TRACK 01 MD5: 0F6032835351974E4F995ABD8D0FDF47
+
+**Description:**
+
