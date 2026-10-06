@@ -1,0 +1,20 @@
+**Game name:**
+
+War of the Monsters (USA)
+
+**Game ID:**
+
+SCUS-97197
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B061936199BC8930F9D5FD327625D0A6FCC1EFCD
+
+TRACK 01 MD5: F49F3679BFF43B194B479C3DC3F01225
+
+**Description:**
+
