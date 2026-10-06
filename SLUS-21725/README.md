@@ -1,0 +1,20 @@
+**Game name:**
+
+World Heroes Anthology (USA, Canada)
+
+**Game ID:**
+
+SLUS-21725
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 3D511CFB207BBE7EDC816BC769430A1B3C6C4272
+
+TRACK 01 MD5: 4071E4AC02AEE331E8D216003991E681
+
+**Description:**
+
