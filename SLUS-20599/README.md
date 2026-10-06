@@ -1,0 +1,20 @@
+**Game name:**
+
+Whiteout (USA)
+
+**Game ID:**
+
+SLUS-20599
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 01F7C675D4882CF06510D7DED9646AFDF798E5F6
+
+TRACK 01 MD5: 420BD9432C2970E0FBB9B508E73EA78C
+
+**Description:**
+
