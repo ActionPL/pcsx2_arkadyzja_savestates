@@ -1,0 +1,20 @@
+**Game name:**
+
+Zoo Puzzle (Europe)
+
+**Game ID:**
+
+SLES-52533
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 96F490E5E94602A85B0698347C299786265E2F67
+
+TRACK 01 MD5: E97AA3A64EE9BF5035C9D7DDEBD20A1F
+
+**Description:**
+
