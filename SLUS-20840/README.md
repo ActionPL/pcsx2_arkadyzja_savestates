@@ -1,0 +1,20 @@
+**Game name:**
+
+Wrath Unleashed (USA)
+
+**Game ID:**
+
+SLUS-20840
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 27C7A6B55F361B72F423E9A263FF5505070355DE
+
+TRACK 01 MD5: 7C2C0B9EB54F3DD47951C837D503ED67
+
+**Description:**
+
