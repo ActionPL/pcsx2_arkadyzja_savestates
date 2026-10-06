@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es)
+
+**Game ID:**
+
+SLUS-21901
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: B0B57C018AF333D391F67584F59C32920358E7A3
+
+TRACK 01 MD5: 4D50DA1AA0F251569DAA9C64E4464B33
+
+**Description:**
+
