@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE SmackDown vs. Raw 2007 (USA) (v2.01)
+
+**Game ID:**
+
+SLUS-21427
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 784F7E357B1D2AE4FFC35864BE7B9322D56EE66A
+
+TRACK 01 MD5: AB659235456FF67BE77714EB8C34F892
+
+**Description:**
+
