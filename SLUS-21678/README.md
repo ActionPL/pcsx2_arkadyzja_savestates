@@ -18,3 +18,4 @@ TRACK 01 MD5: 350404A81DE912347C8B262542FED970
 
 **Description:**
 
+Everything unlocked, Duel option, 1P VS 2P selected. Screen shake off, Camera Type C.
