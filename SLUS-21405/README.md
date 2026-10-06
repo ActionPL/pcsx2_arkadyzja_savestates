@@ -1,0 +1,20 @@
+**Game name:**
+
+Xiaolin Showdown (USA)
+
+**Game ID:**
+
+SLUS-21405
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: FA01A0FD4804997579A93807501DE9BFB2B38A18
+
+TRACK 01 MD5: 10985C3AB2251A9BED2F0762BBD89D89
+
+**Description:**
+
