@@ -1,0 +1,20 @@
+**Game name:**
+
+World of Outlaws - Sprint Cars 2002 (USA)
+
+**Game ID:**
+
+SLUS-20283
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E9CCC7BE90401C2AFF1617A31311B8E76477DC30
+
+TRACK 01 MD5: 92E5F36556ED0401134F3DB9FBDC3A45
+
+**Description:**
+
