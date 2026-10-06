@@ -1,0 +1,20 @@
+**Game name:**
+
+XGRA - Extreme G Racing Association (USA)
+
+**Game ID:**
+
+SLUS-20632
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F2AFB8DB4FFE08DB46C721574E3E78997BCCA042
+
+TRACK 01 MD5: 8AE7522E1C7B9E5C64137422ED958578
+
+**Description:**
+
