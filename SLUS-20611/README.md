@@ -1,0 +1,20 @@
+**Game name:**
+
+World Series Baseball 2K3 (USA)
+
+**Game ID:**
+
+SLUS-20611
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DFB301D10604EAC75C21420797AD97842894CB6C
+
+TRACK 01 MD5: 6C75F18A45A3BE82AFB77E42A45E62DE
+
+**Description:**
+
