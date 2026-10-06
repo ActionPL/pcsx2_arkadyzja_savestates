@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE Crush Hour (USA)
+
+**Game ID:**
+
+SLUS-20385
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F830388D560D555CEFE0883F52AFDA0C0755AB7
+
+TRACK 01 MD5: A2EB6CBF1258A06CF9E1AE2CEF4C64C6
+
+**Description:**
+
