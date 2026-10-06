@@ -1,0 +1,20 @@
+**Game name:**
+
+Zatch Bell! Mamodo Fury (USA)
+
+**Game ID:**
+
+SLUS-21363
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: A715CDD2E1F217861D23A256960B63EEBEB2A9EA
+
+TRACK 01 MD5: 8B6A527202D255B40D7239C0A1150177
+
+**Description:**
+
