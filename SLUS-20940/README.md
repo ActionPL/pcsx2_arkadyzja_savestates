@@ -1,0 +1,20 @@
+**Game name:**
+
+Yu-Gi-Oh! Capsule Monster Coliseum (USA)
+
+**Game ID:**
+
+SLUS-20940
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 76CA001F12B845D328DC685287C5B8596B82FBF5
+
+TRACK 01 MD5: 9DEB2BA565CBEBF343B0EED7F24D76C3
+
+**Description:**
+
