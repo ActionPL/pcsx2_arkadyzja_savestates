@@ -1,0 +1,20 @@
+**Game name:**
+
+XGIII - Extreme G Racing (USA)
+
+**Game ID:**
+
+SLUS-20302
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 8E0D56DCA578209361127BF4F398D991AE7DF820
+
+TRACK 01 MD5: 548E391373640B818E7589492E98CAB6
+
+**Description:**
+
