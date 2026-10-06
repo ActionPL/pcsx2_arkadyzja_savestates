@@ -1,0 +1,20 @@
+**Game name:**
+
+World Tour Soccer 2005 (USA) (En,Fr,Es,It)
+
+**Game ID:**
+
+SCUS-97365
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: F8C138E1AEEA28287333AF277E8C7E10533B73F7
+
+TRACK 01 MD5: 2EB41D797F852DCDEA008D997D2F2F79
+
+**Description:**
+
