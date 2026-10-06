@@ -1,0 +1,20 @@
+**Game name:**
+
+World Series of Poker (USA)
+
+**Game ID:**
+
+SLUS-21301
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 52E29E6D5ED233CA64210FF24C8D541F8C8F572B
+
+TRACK 01 MD5: E61A336DDCEA4B0699A20CA9330460EF
+
+**Description:**
+
