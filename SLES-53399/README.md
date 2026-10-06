@@ -1,0 +1,20 @@
+**Game name:**
+
+Yakuza Fury (Europe)
+
+**Game ID:**
+
+SLES-53399
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1C0878AB1C6CBBCC4EAE9A6A231C1154F8138A97
+
+TRACK 01 MD5: 6599202E68DBC1F95776B2E0D4AADC51
+
+**Description:**
+
