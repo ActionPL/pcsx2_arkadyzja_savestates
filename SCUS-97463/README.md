@@ -1,0 +1,20 @@
+**Game name:**
+
+World Tour Soccer 2006 (USA) (En,Fr,Es,It)
+
+**Game ID:**
+
+SCUS-97463
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1DE813611690B54375605FC8B7418A98C1AF8920
+
+TRACK 01 MD5: 69285F5A43D609D4D8E0E1F2C8846A3A
+
+**Description:**
+
