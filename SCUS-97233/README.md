@@ -1,0 +1,20 @@
+**Game name:**
+
+World Tour Soccer 2003 (USA) (En,Fr,De,Es,It,Nl,Pt)
+
+**Game ID:**
+
+SCUS-97233
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5FBC79D909EE7B0F30410C2D6A93957529C0E77F
+
+TRACK 01 MD5: 000634D460AF3368032CA86A50E55A1C
+
+**Description:**
+
