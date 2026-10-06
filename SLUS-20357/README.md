@@ -1,0 +1,20 @@
+**Game name:**
+
+WTA Tour Tennis (USA)
+
+**Game ID:**
+
+SLUS-20357
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1531A1DF391C4237495AEB1E931BA3DD1E763ED1
+
+TRACK 01 MD5: 6EF380C18B830F6DAFEEA7CBF703CDCB
+
+**Description:**
+
