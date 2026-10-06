@@ -1,0 +1,20 @@
+**Game name:**
+
+Warriors Orochi (USA)
+
+**Game ID:**
+
+SLUS-21662
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F1363814A338446250DD73281A1553099BACB3E
+
+TRACK 01 MD5: D19488A1C1948AED7B8CA3F29250F0BD
+
+**Description:**
+
