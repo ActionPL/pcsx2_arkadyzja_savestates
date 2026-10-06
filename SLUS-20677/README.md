@@ -1,0 +1,20 @@
+**Game name:**
+
+XIII (USA)
+
+**Game ID:**
+
+SLUS-20677
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 419221DDB78965C59948050D79018E6A807B6C51
+
+TRACK 01 MD5: 941AF95942DDB26F6BAA6D33DBE5F5CB
+
+**Description:**
+
