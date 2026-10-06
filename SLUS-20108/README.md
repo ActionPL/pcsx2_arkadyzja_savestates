@@ -1,0 +1,20 @@
+**Game name:**
+
+Wild Wild Racing (USA)
+
+**Game ID:**
+
+SLUS-20108
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 39926068A2728F87DA4C19A4D2B498B1E8CD4F41
+
+TRACK 01 MD5: F859342F64DBF58BDB97A1314E16062B
+
+**Description:**
+
