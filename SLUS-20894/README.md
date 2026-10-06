@@ -1,0 +1,20 @@
+**Game name:**
+
+Worms 3D (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-20894
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 22F7FA0158856F1D387EC0DACF56392FC8D2D8F8
+
+TRACK 01 MD5: 62A2636654DECFD989775FBFD7F26A8D
+
+**Description:**
+
