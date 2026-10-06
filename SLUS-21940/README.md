@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE All Stars (USA) (En,Fr,De,Es,It)
+
+**Game ID:**
+
+SLUS-21940
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 270AD76DA4FAA6A4D87A6A50DC89619AC904ABE3
+
+TRACK 01 MD5: 9CC3610C695CCFFE6450B44E6E4BD4A2
+
+**Description:**
+
