@@ -1,0 +1,20 @@
+**Game name:**
+
+World Racing (Europe) (En,Es,It)
+
+**Game ID:**
+
+SLES-51387
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D8699212F91CE32248CC00379580582BF4516B0B
+
+TRACK 01 MD5: A5CC22A69AAC1824F9B3363A38FEDE0B
+
+**Description:**
+
