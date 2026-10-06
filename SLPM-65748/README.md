@@ -1,0 +1,20 @@
+**Game name:**
+
+Zoids - Struggle (Japan)
+
+**Game ID:**
+
+SLPM-65748
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: E9DF423EDADF6D976D0FE5FBD1573C904946EA8B
+
+TRACK 01 MD5: 4868CCB80AAD4A1F76B53D00CE880B90
+
+**Description:**
+
