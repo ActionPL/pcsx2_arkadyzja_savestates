@@ -1,0 +1,20 @@
+**Game name:**
+
+World Fighting (Europe)
+
+**Game ID:**
+
+SLES-52516
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 0F897323003F9DFCEBEAC3ABB1E0EE83A4F46603
+
+TRACK 01 MD5: 586336D96A2A3B98014F3773EDEB3338
+
+**Description:**
+
