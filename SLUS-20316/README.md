@@ -1,0 +1,20 @@
+**Game name:**
+
+WWF SmackDown! Just Bring It (USA)
+
+**Game ID:**
+
+SLUS-20316
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: D37137C2F49B808C3D03C89D6F1A2D9BCD861665
+
+TRACK 01 MD5: 49D723F556BBDACA3D4BC6A94D934135
+
+**Description:**
+
