@@ -1,0 +1,20 @@
+**Game name:**
+
+Yu Yu Hakusho - Dark Tournament (USA)
+
+**Game ID:**
+
+SLUS-20805
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: BDE33E5BC2948F5BF102085B1EE403136220D7CD
+
+TRACK 01 MD5: 0734B9BFF7A8002BC0722D5AE03874F5
+
+**Description:**
+
