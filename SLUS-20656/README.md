@@ -1,0 +1,20 @@
+**Game name:**
+
+X-Men Legends (USA)
+
+**Game ID:**
+
+SLUS-20656
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 41CDBB2A654CC5C91BBE31FE1C37269B51AE9079
+
+TRACK 01 MD5: 20C4A952A6C28A60C9A012C629866929
+
+**Description:**
+
