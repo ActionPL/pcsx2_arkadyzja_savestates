@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE SmackDown! Shut Your Mouth (USA)
+
+**Game ID:**
+
+SLUS-20483
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: C288BFA4899A4DCEEC643AE7BAB31CFA38D7921E
+
+TRACK 01 MD5: 748C5B60C70B36C52DF144CEF5B8549A
+
+**Description:**
+
