@@ -1,0 +1,20 @@
+**Game name:**
+
+Yanya Caballista - City Skater (USA)
+
+**Game ID:**
+
+SLUS-20278
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DF7412379DC8E4AD4F7E5DC89A170195BC988695
+
+TRACK 01 MD5: C3526AA1D2C7BD56D0C8D17D8C45670B
+
+**Description:**
+
