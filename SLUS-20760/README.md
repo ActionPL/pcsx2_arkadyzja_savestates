@@ -1,0 +1,20 @@
+**Game name:**
+
+World Championship Pool 2004 (USA)
+
+**Game ID:**
+
+SLUS-20760
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 292674C9FDDD05329837C061E6D5974919F95817
+
+TRACK 01 MD5: 5A421AF7C6BF7E9D441EFE3BF8F69FC5
+
+**Description:**
+
