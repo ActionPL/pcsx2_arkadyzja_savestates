@@ -1,0 +1,20 @@
+**Game name:**
+
+X-Men - Next Dimension (USA)
+
+**Game ID:**
+
+SLUS-20279
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5F0A7FAB1A74A3144B5108170B8EE85BEC1735BC
+
+TRACK 01 MD5: 04355F9D8BBF146509026BB684B454FE
+
+**Description:**
+
