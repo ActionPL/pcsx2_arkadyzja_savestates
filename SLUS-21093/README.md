@@ -1,0 +1,20 @@
+**Game name:**
+
+Worms Forts - Under Siege (USA) (En,Fr)
+
+**Game ID:**
+
+SLUS-21093
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 9EF18BC08FD44DF2AC7E93276D7F4A089EBA138E
+
+TRACK 01 MD5: F1D9961CFEE632FB05F4A39A4F976480
+
+**Description:**
+
