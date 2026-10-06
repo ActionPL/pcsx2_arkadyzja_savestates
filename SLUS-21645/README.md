@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE SmackDown vs. Raw 2008 (USA)
+
+**Game ID:**
+
+SLUS-21645
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 86CC3B42B603D4154ABA02AB62083FFE183683D1
+
+TRACK 01 MD5: A567341CA5C1684B12A8D70EA615E020
+
+**Description:**
+
