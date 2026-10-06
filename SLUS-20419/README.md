@@ -1,0 +1,20 @@
+**Game name:**
+
+WRC - World Rally Championship (USA)
+
+**Game ID:**
+
+SLUS-20419
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 272BBA0F610D3543646194FEB79E7D1B480A7253
+
+TRACK 01 MD5: 04556644F34FC6C4D4A0776E620CB1AF
+
+**Description:**
+
