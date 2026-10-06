@@ -1,0 +1,20 @@
+**Game name:**
+
+XII Stag (Europe)
+
+**Game ID:**
+
+SLES-51704
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 1063E24B48E33AEC6AFCD0524F4856DF541E7779
+
+TRACK 01 MD5: A08C070796C1C16B86DC802A5DA44AE9
+
+**Description:**
+
