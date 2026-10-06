@@ -1,0 +1,20 @@
+**Game name:**
+
+Wipeout Fusion (USA)
+
+**Game ID:**
+
+SLUS-20462
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 63904A1738546A59D875E75830B982AF4BB17330
+
+TRACK 01 MD5: 4060DD8A7C4AFF391EBF1C05FF9246CA
+
+**Description:**
+
