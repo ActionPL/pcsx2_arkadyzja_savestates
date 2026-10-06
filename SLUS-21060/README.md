@@ -1,0 +1,20 @@
+**Game name:**
+
+WWE SmackDown! vs. Raw (USA)
+
+**Game ID:**
+
+SLUS-21060
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 73CAB74F5F6DED60FECBB5306A34E335B34D045E
+
+TRACK 01 MD5: C0B7696B2C557B30065E6600CBEDF0DB
+
+**Description:**
+
