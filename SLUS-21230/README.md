@@ -1,0 +1,20 @@
+**Game name:**
+
+We Love Katamari (USA)
+
+**Game ID:**
+
+SLUS-21230
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 5B428D192012645F23B725A55EDF6DD8F6C38479
+
+TRACK 01 MD5: 94E909DFD5E1D573BC68E59585B200F6
+
+**Description:**
+
