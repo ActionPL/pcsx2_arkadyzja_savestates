@@ -1,0 +1,20 @@
+**Game name:**
+
+Wheel of Fortune (USA)
+
+**Game ID:**
+
+SLUS-20790
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DE3F95800817C18054501A8D764B0616A57291AE
+
+TRACK 01 MD5: FE974D8629387E30FECCCA78F121BECF
+
+**Description:**
+
