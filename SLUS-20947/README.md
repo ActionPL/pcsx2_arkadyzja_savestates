@@ -1,0 +1,20 @@
+**Game name:**
+
+WinBack 2 - Project Poseidon (USA)
+
+**Game ID:**
+
+SLUS-20947
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 7A2F39921001110810F13BDBA29BB99B99866648
+
+TRACK 01 MD5: 74FDD312F65B3C0C0484E8380A97A290
+
+**Description:**
+
