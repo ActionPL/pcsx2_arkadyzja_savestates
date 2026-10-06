@@ -1,0 +1,20 @@
+**Game name:**
+
+Weakest Link, The (Europe)
+
+**Game ID:**
+
+SLES-50503
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 729054E6B2DC483BEB2319A56316A9FF3D0E1C47
+
+TRACK 01 MD5: 35F80A66E66B64901798DE81963D702C
+
+**Description:**
+
