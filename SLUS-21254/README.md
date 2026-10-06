@@ -1,0 +1,20 @@
+**Game name:**
+
+Zatch Bell! Mamodo Battles (USA)
+
+**Game ID:**
+
+SLUS-21254
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: DA5775A42C4F144D1561026331050D39C0B4E074
+
+TRACK 01 MD5: C8735E35868F274A28265FCFBDE2F802
+
+**Description:**
+
