@@ -1,0 +1,20 @@
+**Game name:**
+
+Wave Rally (USA)
+
+**Game ID:**
+
+SLUS-20313
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: 2DFE4D8EC4C4DC04CF3F61E8CC6B04C8A60A37BB
+
+TRACK 01 MD5: B93787D67A90FA663EBAB7F9C912D8AE
+
+**Description:**
+
