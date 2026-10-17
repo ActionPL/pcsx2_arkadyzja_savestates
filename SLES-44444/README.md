@@ -1,6 +1,6 @@
 **Game name:**
 
-Dragon Ball Z - Infinite World (USA) [Budokai 4 MOD v0.5.8]
+Dragon Ball Z Budokai 4 (v0.5.8)
 
 **Game ID:**
 
@@ -18,3 +18,4 @@ TRACK 01 MD5: D6751E29E56ADA0800EC679FB10B74C1
 
 **Description:**
 
+Everything unlocked, Disabled autosave, Removed the unbalanced characters Set up all the capsules to competiteve play (no yellows, green for transformation only, tenacity on all char), Locked the HP bar setting to 4, Restricted the time limit options to 180 and Infinity, Widescreen enabled
