@@ -1,0 +1,20 @@
+**Game name:**
+
+Jikuu Boukenki Zentrix (Japan)
+
+**Game ID:**
+
+SLPS-25498
+
+**Game format:**
+
+CHD
+
+**Hash:**
+
+CHD DATA SHA1: CA4FE4A59ED8469EB8AE6EF42E22CE6D15053500
+
+TRACK 01 MD5: 1AAAF4DA5D92F43B9F0A4671A28F11E4
+
+**Description:**
+

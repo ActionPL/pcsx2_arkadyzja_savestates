@@ -1,0 +1,10 @@
+gametitle=Vampire Darkstalkers Collection (SLPM-65998)
+comment= Some things can be confusing on Map Buttons to English Style... such as interacting with memory card within games, 
+it will such back and forth with JP & ENG style, so keep that in mind)
+[Also only works for Main Menu Pre-Choosing a game & Memory Card Prompts] - Kaneco
+
+//Change Main Menu Text to English
+patch=1,EE,01942819,extended,00000001
+
+//Map Buttons to English Style
+patch=1,EE,01942818,extended,00000001

@@ -27455,6 +27455,18 @@ SLES-55605:
   clampModes:
     vu0ClampMode: 3 # Fixes bad dialog backgrounds.
     vu1ClampMode: 3 # Fixes SPS on characters.
+SLUS-55606:
+  name: "Naruto Shippuuden - Ultimate Ninja 5 [UN6 MOD vA3.5]"
+  region: "PAL-M5"
+  compat: 5
+  gameFixes:
+    - SoftwareRendererFMVHack # Fixes vertical lines in FMVs.
+  gsHWFixes:
+    halfPixelOffset: 2 # Aligns post effects.
+    nativeScaling: 2 # Fixes post effects.
+  clampModes:
+    vu0ClampMode: 3 # Fixes bad dialog backgrounds.
+    vu1ClampMode: 3 # Fixes SPS on characters.    
 SLES-55609:
   name: "Scooby-Doo! and the Spooky Swamp"
   region: "PAL-M5"
