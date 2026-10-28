@@ -18,3 +18,4 @@ ISO MD5: 6a18f83c07e1b1ca25910dd18a6a99a3
 
 **Description:**
 
+Everything unlocked, progressive scan enabled.
