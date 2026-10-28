@@ -18,3 +18,4 @@ TRACK 01 MD5: 7D7CF01D5B3DA4E8EC716883563B050B
 
 **Description:**
 
+Everything unlocked, max stats.
