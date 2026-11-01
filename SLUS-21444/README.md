@@ -18,3 +18,4 @@ TRACK 01 MD5: 94BAEF032B42719ACDF6449B7BB2791C
 
 **Description:**
 
+Everything unlocked. Progressive scan enabled.
