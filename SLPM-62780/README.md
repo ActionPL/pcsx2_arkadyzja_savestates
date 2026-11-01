@@ -18,3 +18,4 @@ TRACK 01 MD5: 388E0A5C7EBFA8353ED99184A33C2CF8
 
 **Description:**
 
+240 lives, BGM TYPE, Neo Classic and TIME ATTACK mode unlocked. Progressive scan enabled.
