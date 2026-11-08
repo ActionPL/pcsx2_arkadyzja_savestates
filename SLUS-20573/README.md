@@ -18,3 +18,4 @@ TRACK 01 MD5: 6B0948D5F2179804B3C760F74BFB1F49
 
 **Description:**
 
+Everything unlocked. Starts in BONUS (multiplayer) games list. Widescreen enabled.
