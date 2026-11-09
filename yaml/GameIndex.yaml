@@ -50611,6 +50611,7 @@ SLUS-20130:
   region: "NTSC-U"
   compat: 5
   gsHWFixes:
+    deinterlace: 1
     getSkipCount: "GSC_SFEX3"
     halfPixelOffset: 4 # Aligns post effects.
 SLUS-20131:

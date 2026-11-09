@@ -18,3 +18,4 @@ TRACK 01 MD5: 7FAAF41576B74DEC7675E1CF512B8777
 
 **Description:**
 
+Everything unlocked. Widescreen enabled.

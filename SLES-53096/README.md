@@ -18,3 +18,4 @@ TRACK 01 MD5: 4713093FE52E3485BD0D08F59B325987
 
 **Description:**
 
+Everything unlocked, starts at main menu. Widescreen cheat enabled, 50FPS Cheat needs 180%EE!

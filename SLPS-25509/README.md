@@ -18,3 +18,4 @@ TRACK 01 MD5: 25FD9F63B4A3E1FFE5DC8597436A9FA5
 
 **Description:**
 
+Everything unlocked, progressive scan enabled, software renderer needed.

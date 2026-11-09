@@ -18,3 +18,4 @@ TRACK 01 MD5: CDAD22713141F2E313526071C4E6C0FE
 
 **Description:**
 
+Everything unlocked, max stats, widescreen cheat enabled.
