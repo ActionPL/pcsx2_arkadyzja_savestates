@@ -18,3 +18,4 @@ TRACK 01 MD5: D92AFA0A7C11597555E93692347FDA04
 
 **Description:**
 
+Everything unlocked. Starts at Battle Menu with Team Match highlighted (below is "Battle Royale"). Widescreen enabled.
