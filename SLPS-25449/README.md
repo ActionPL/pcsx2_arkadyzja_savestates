@@ -18,3 +18,4 @@ TRACK 01 MD5: C82CBC7B3876F1DED69105F61714D061
 
 **Description:**
 
+Progressive scan enabled.
