@@ -18,3 +18,4 @@ TRACK 01 MD5: 8DB3AD413351777BEBBD8F3C73C37768
 
 **Description:**
 
+Everything unlocked. Widescreen enabled, autosave disabled.
